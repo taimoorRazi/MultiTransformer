@@ -2,7 +2,7 @@
 
 **Internal. Ulusoy only. Do not share with TBEA.**
 Meeting: TBEA Headquarters, China · November 2026
-Deck: Ulusoy - TBEA Partnership (54 slides; there is a 40-minute short path in the speaker notes)
+Deck: Ulusoy - TBEA Partnership (57 slides; there is a 40-minute short path in the speaker notes)
 
 ---
 
@@ -132,11 +132,11 @@ If TBEA pushes on any of these, say: *"That is an important point. We suggest we
 
 ## 9. Recommended meeting closing
 
-After slide 53 (proposed next steps), pause and let TBEA respond. Do not push for decisions in the room. Then say:
+After slide 56 (proposed next steps), pause and let TBEA respond. Do not push for decisions in the room. Then say:
 
 > "Thank you for the discussion. If TBEA sees value in continuing, perhaps we could agree on a contact person, so we can send the materials and propose dates for a working session."
 
-Then move to slide 54 (thank you) and finish. Let the most senior TBEA person respond first. Before leaving:
+Then move to slide 57 (thank you) and finish. Let the most senior TBEA person respond first. Before leaving:
 - Confirm names, titles and contact details of the TBEA team. Exchange business cards with both hands.
 - Confirm the follow-up date, or at least the week.
 - Agree who sends the meeting summary (offer that Ulusoy does, within 48 hours).
@@ -148,7 +148,7 @@ Then move to slide 54 (thank you) and finish. Let the most senior TBEA person re
 
 **Within 48 hours**
 - Send a thank-you letter and a one-page meeting summary to TBEA (agreed points, next steps, owners, dates).
-- Send the PDF of the deck. Consider removing slides 42–43 (the Türkiye pipeline) from the shared version if the discussion suggests caution.
+- Send the PDF of the deck. Consider removing slides 45–46 (the Türkiye pipeline) from the shared version if the discussion suggests caution.
 
 **Within 2 weeks**
 - Send an NDA and a draft registration framework (one page: what is registered, confirmation time, protection principle, overlap rule).

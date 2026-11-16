@@ -12,6 +12,23 @@ module.exports = async (ctx) => {
   ctx.divider(s, "02", "Why Türkiye matters now", "Türkiye is entering a structural electricity and grid investment cycle — not a short boom.",
     "Demand · renewables · storage · transmission · data centers · industry");
 
+  // 19 — Demand
+  s = ctx.slide("LIGHT", SEC);
+  ctx.head(s, { eyebrow: "Electricity demand", title: "Demand is at record levels — and set to almost double by 2040",
+    sub: "Official national strategy (Milli Enerji 2040, presented 5 November 2026)." });
+  s.addChart(p.charts.BAR, [{ name: "TWh", labels: ["2023", "2024", "2025", "2030 (plan)", "2035 (plan)", "2040 (target)"], values: [330.3, 347.9, 360.9, 455, 510, 680] }],
+    Object.assign({ x: MX, y: 1.8, w: 7.3, h: 4.9, barDir: "col", barGapWidthPct: 55, chartColors: [C.BLUE, C.BLUE, C.BLUE, C.MID, C.MID, C.NAVY],
+      showValue: true, dataLabelPosition: "outEnd", dataLabelFormatCode: "0", valAxisHidden: true, valAxisMinVal: 0, valAxisMaxVal: 760,
+      showTitle: true, title: "Gross electricity consumption, TWh", titleFontFace: "Arial", titleFontSize: 12, titleColor: C.MUTED }, axis));
+  const st = [["360.9 TWh", "record consumption in 2025"], ["59.5 GW", "record peak demand, July 2025"], ["680 TWh", "demand target for 2040 — about 1.9× today"], ["281 GW", "installed capacity planned for 2040, from 123 GW"]];
+  st.forEach(([n, l], i) => {
+    const y = 1.85 + i * 1.2;
+    rect(s, 8.3, y, 4.43, 1.05, i === 2 ? C.NAVY : C.PALE, { rounded: true, r: 0.06 });
+    T(s, n, { x: 8.55, y: y + 0.1, w: 3.9, h: 0.5, fontSize: 24, bold: true, color: i === 2 ? C.WHITE : C.BLUE });
+    T(s, l, { x: 8.55, y: y + 0.6, w: 3.95, h: 0.38, fontSize: 12, color: i === 2 ? C.ICE : C.MUTED });
+  });
+  ctx.src(s, "Sources: Ministry of Energy and Natural Resources (MENR) data via AA / Hürriyet Daily News; Invest in Türkiye Energy Sector Report 2026; National Energy Plan (2030, 2035 values); Milli Enerji 2040 (Nov 2026).");
+
   // 20 — Capacity & renewables path
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Generation capacity", title: "127 GW installed — and wind + solar must almost triple by 2035",
@@ -52,6 +69,46 @@ module.exports = async (ctx) => {
     { text: "Türkiye's first HVDC corridors at specification stage (±525 kV, 2 GW design)", options: { bullet: true } }],
     { x: 7.3, y: 4.18, w: 5.25, h: 2.5, fontSize: 12.5, paraSpaceAfter: 6 });
   ctx.src(s, "Sources: Minister Bayraktar, 16 Sep 2026 (via AA); Milli Enerji 2040 (Nov 2026); MENR grid statistics 2025; EPDK 2026–2030 distribution tariff decision; TEİAŞ HVDC consultancy notice. Transformer capacity unit as reported.");
+
+  // 22 — Storage
+  s = ctx.slide("LIGHT", SEC);
+  ctx.head(s, { eyebrow: "Energy storage", title: "Storage: a 33 GW licensed pipeline, barely started",
+    sub: "Storage-integrated wind and solar licences require storage equal to the plant's capacity." });
+  s.addChart(p.charts.BAR, [{ name: "GW", labels: ["Installed (Feb 2026)", "Expected to commission from 2026", "2035 national target", "Storage-linked licences"], values: [0.2, 2.5, 7.5, 33.5] }],
+    Object.assign({ x: MX, y: 1.8, w: 7.0, h: 4.9, barDir: "bar", barGapWidthPct: 45, chartColors: [C.MID, C.MID, C.BLUE, C.NAVY], showValue: true, dataLabelPosition: "outEnd",
+      dataLabelFormatCode: "0.0", valAxisHidden: true, valAxisMaxVal: 40, catAxisOrientation: "maxMin",
+      showTitle: true, title: "Battery storage in Türkiye, GW", titleFontFace: "Arial", titleFontSize: 12, titleColor: C.MUTED }, axis));
+  [["~33 GW", "storage-linked wind and solar licences — larger than any EU country's pipeline"], ["140 GWh", "battery storage targeted by 2040, plus 6 GW pumped hydro"], ["2026", "new EPDK storage rules: OIZ, consumer and unlicensed storage now allowed"]]
+    .forEach(([n, l], i) => {
+      const y = 1.85 + i * 1.62;
+      rect(s, 7.95, y, 4.78, 1.45, i === 0 ? C.NAVY : C.PALE, { rounded: true, r: 0.06 });
+      T(s, n, { x: 8.2, y: y + 0.15, w: 4.3, h: 0.55, fontSize: 26, bold: true, color: i === 0 ? C.WHITE : C.BLUE });
+      T(s, l, { x: 8.2, y: y + 0.72, w: 4.35, h: 0.65, fontSize: 12, color: i === 0 ? C.ICE : C.MUTED });
+    });
+  ctx.src(s, "Sources: Ember Türkiye Electricity Review 2026 (installed, pipeline); Minister Bayraktar statements (33.5 GW; 2–3 GW expected — forecast, shown as midpoint); National Energy Plan; Milli Enerji 2040; EPDK (Jan & Oct 2026).");
+
+  // 23 — Data centers & industry
+  s = ctx.slide("LIGHT", SEC);
+  ctx.head(s, { eyebrow: "New demand centres", title: "Data centers and industry are creating new electrical load",
+    sub: "Both buy complete substations, transformers, switchgear and power-quality systems — often privately." });
+  rect(s, MX, 1.85, 5.95, 4.95, C.PALE, { rounded: true, r: 0.06 });
+  await ctx.iconCircle(s, "LuServer", MX + 0.3, 2.05, 0.8, C.WHITE, C.BLUE);
+  T(s, "DATA CENTERS", { x: MX + 1.3, y: 2.1, w: 4, h: 0.3, fontSize: 11, bold: true, color: C.BLUE, charSpacing: 2 });
+  T(s, "~250 MW → 1 GW by 2030", { x: MX + 1.3, y: 2.38, w: 4.5, h: 0.45, fontSize: 20, bold: true });
+  T(s, [{ text: "National AI Action Plan target: 1 GW and $10bn+ investment by 2030", options: { bullet: true, breakLine: true } },
+    { text: "Ankara, Başkent OIZ: $4.1bn Rönesans–Digital Realty campus broke ground (Oct 2026)", options: { bullet: true, breakLine: true } },
+    { text: "Further Ankara projects announced: Khazna (up to 100 MW), Trendyol (48 MW)", options: { bullet: true, breakLine: true } },
+    { text: "Turkcell–Google Cloud hyperscale region planned for 2028–29", options: { bullet: true } }],
+    { x: MX + 0.3, y: 3.2, w: 5.4, h: 3.5, fontSize: 14, paraSpaceAfter: 12 });
+  rect(s, 6.78, 1.85, 5.95, 4.95, C.PALE, { rounded: true, r: 0.06 });
+  await ctx.iconCircle(s, "LuFactory", 7.08, 2.05, 0.8, C.WHITE, C.BLUE);
+  T(s, "INDUSTRY & ELECTRIFICATION", { x: 8.08, y: 2.1, w: 4.5, h: 0.3, fontSize: 11, bold: true, color: C.BLUE, charSpacing: 2 });
+  T(s, "218 OIZs run their own grids", { x: 8.08, y: 2.38, w: 4.6, h: 0.45, fontSize: 20, bold: true });
+  T(s, [{ text: "374 organised industrial zones (OIZs); 218 operate their own electricity distribution networks — a distinct buyer of substations", options: { bullet: true, breakLine: true } },
+    { text: "Electrification is central to the 2040 strategy; ~90 TWh of 2040 demand is electric vehicles", options: { bullet: true, breakLine: true } },
+    { text: "~477,000 EVs and ~48,000 charging points (Aug 2026); charging demand doubling year on year", options: { bullet: true } }],
+    { x: 7.08, y: 3.2, w: 5.4, h: 3.5, fontSize: 14, paraSpaceAfter: 12 });
+  ctx.src(s, "Sources: Ministry of Industry & Technology (AI Action Plan 2026–2030); AA / Daily Sabah (Oct 2026); DCD; EY Türkiye data-center overview (Sep 2026); EPDK 2026 OIZ tariffs; Milli Enerji 2040. Current data-center capacity estimates vary by definition.");
 
   // 24 — Summary: structural demand
   s = ctx.slide("LIGHT_TB", SEC);

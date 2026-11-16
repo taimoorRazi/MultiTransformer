@@ -1,11 +1,11 @@
 # TBEA HQ Presentation — Speaker Script (v2)
 
-**Deck:** Ulusoy - TBEA Partnership (54 slides, including 5 short section dividers)
+**Deck:** Ulusoy - TBEA Partnership (57 slides, including 5 short section dividers)
 **Audience:** TBEA senior management and business-unit executives
 **Target length:** 60–75 minutes of presenting plus discussion. Dividers take about 10 seconds each.
 **Language:** Speak slowly and simply. Many listeners are non-native English speakers, and some may be following through an interpreter. Pause after every number.
 
-**If time is cut to 40 minutes, use this short path:** 1–4, 7, 12, 14–17, 19–21, 23–26, 28–30, 33, 35, 37, 39, 41–44, 47–49, 51, 53–54. Skip the others and refer to them as "in your copy".
+**If time is cut to 40 minutes, use this short path:** 1–4, 7, 12, 14–17, 19, 21, 24, 26–29, 31–33, 36, 38, 40, 42, 44, 45, 47, 50–52, 54, 56, 57. Skip the others and refer to them as "in your copy". Slides 19, 22 and 23 each have a one-sentence skim version.
 
 **Three rules for the whole meeting**
 1. Never say or imply that TBEA has been selected, approved or ordered on any project. The phrase to use is "potential TBEA supply scope".
@@ -272,7 +272,29 @@
 
 ---
 
-## Slide 19 — 127 GW installed — and wind + solar must almost triple by 2035
+## Slide 19 — Demand is at record levels — and set to almost double by 2040
+
+**Main message:** Türkiye's electricity demand hit a record in 2025 and the official target is 680 TWh by 2040.
+
+**Script:**
+"Türkiye consumed a record 361 terawatt-hours in 2025, with a record peak of almost 60 gigawatts. On 5 November, a few days ago, the Energy Minister presented the new national strategy for 2040. Demand is planned to rise to 680 terawatt-hours, almost double today. Installed capacity is planned to rise from 123 to 281 gigawatts. Behind every one of these gigawatts is a transformer, a switchgear bay and a cable."
+
+**Emphasise:** "Five November, a few days ago": the information is fresh.
+**Detailed talking points (major slide):**
+- The 2030 and 2035 bars come from the earlier National Energy Plan; the 2040 bar is the new Milli Enerji 2040 target.
+- About 90 TWh of 2040 demand is electric vehicles; electrification is the main driver.
+- The strategy also includes 10 GW of nuclear, which is outside TBEA's core scope.
+
+**Likely TBEA question:** "Are these targets realistic? Turkish plans are often optimistic."
+**Suggested response:** "That is a fair challenge. Even the current-policies scenario in the same strategy reaches about 550 TWh by 2040, which is still a 50% increase. And the grid investment we show next is needed even at the lower scenario. We do not build our case on the highest number."
+
+**If short of time (skim):** "Demand reached a record 361 terawatt-hours in 2025, and the new national strategy targets 680 by 2040, almost double."
+
+**Transition:** "Where will this new capacity come from?"
+
+---
+
+## Slide 20 — 127 GW installed — and wind + solar must almost triple by 2035
 
 **Main message:** Wind and solar must grow from about 44 GW to 120 GW by 2035, which means 8–10 GW a year.
 
@@ -290,7 +312,7 @@
 
 ---
 
-## Slide 20 — The grid must grow as fast as generation
+## Slide 21 — The grid must grow as fast as generation
 
 **Main message:** $28bn of transmission investment to 2035, HVDC planned, and transformer capacity rising by about 58% by 2040.
 
@@ -305,39 +327,68 @@
 **Likely TBEA question:** "Can TBEA participate in the HVDC programme?"
 **Suggested response:** "We see HVDC as a long-term positioning goal, not a first-year target. TBEA's UHV and converter-transformer references are world-class. The right step now is to be known to TEİAŞ and its consultants before the specification is fixed. That is something we can help prepare."
 
-**Transition:** "Let me bring the demand drivers together."
+**Transition:** "The third driver is storage, where the pipeline is large but has barely started."
 
 ---
 
-## Slide 21 — Türkiye is creating structural demand for what TBEA makes
+## Slide 22 — Storage: a 33 GW licensed pipeline, barely started
+
+**Main message:** About 33 GW of storage-linked licences exist, but only about 0.2 GW is installed. Equipment demand is still ahead.
+
+**Script:**
+"In 2022 and 2023 Türkiye gave licences for wind and solar plants with integrated storage. The rule is that storage capacity must equal the plant's capacity. About 33 gigawatts of these licences exist, more than in any EU country. But in early 2026 only about 0.2 gigawatts was installed. The government expects 2 to 3 gigawatts to come online from 2026, and the target is 140 gigawatt-hours by 2040. New regulations this year also allow storage in industrial zones and at consumer sites."
+
+**Emphasise:** The gap between 33 GW licensed and 0.2 GW installed.
+
+**Likely TBEA question:** "Will all 33 GW really be built?"
+**Suggested response:** "No, certainly not all of it. Many licences will be delayed or cancelled. But even a fraction is several gigawatts of PCS, battery systems, MV skids and transformers. And it is a private market, where price, delivery and bankability matter more than domestic preference."
+
+**If short of time (skim):** "About 33 gigawatts of storage-linked licences exist, but only around 0.2 gigawatts is built. Most of the equipment demand is still ahead."
+
+**Transition:** "Two more new sources of demand are data centers and industry."
+
+---
+
+## Slide 23 — Data centers and industry are creating new electrical load
+
+**Main message:** Data centers (1 GW target by 2030, with an Ankara cluster forming) and 218 industrial zones with their own grids are distinct private buyers.
+
+**Script:**
+"Türkiye's National AI Action Plan targets one gigawatt of data-center capacity by 2030, from about 250 megawatts today. In Ankara, a 4.1 billion dollar data-center campus broke ground last month, and more projects have been announced in the same area. These buyers purchase complete high-voltage substations, transformers, switchgear and power-quality systems, usually privately. On the right, Türkiye has 374 organised industrial zones. 218 of them operate their own electricity distribution networks. That makes them a separate buyer of substations and transformers."
+
+**Detailed talking points:**
+- The Ankara cluster is in Başkent OIZ: the Rönesans–Digital Realty campus, Khazna (up to 100 MW) and Trendyol (48 MW). These are public announcements, not our private leads.
+- Current data-center capacity estimates vary by definition. Use "about 250 MW" and do not defend a precise figure.
+
+**Likely TBEA question:** "Do you have access to these data-center projects?"
+**Suggested response:** "We are actively developing this category, particularly in Ankara. Specific accounts and our level of access are something we will share project by project once the registration mechanism is agreed." (Do not name contacts.)
+
+**If short of time (skim):** "Data centers target one gigawatt by 2030, with a new cluster in Ankara, and 218 industrial zones run their own electricity networks."
+
+**Transition:** "Let me bring these five drivers together."
+
+---
+
+## Slide 24 — Türkiye is creating structural demand for what TBEA makes
 
 **Main message:** Five demand engines, each mapped to TBEA product families. But market size is not the same as market access.
 
 **Script:**
-"Let me bring this together in five demand engines. Renewables: 120 gigawatts of wind and solar targeted by 2035. Storage: about 33 gigawatts of storage-linked licences, while only around 0.2 gigawatts is built so far. Transmission: 28 billion dollars to 2035, with HVDC planned. Data centers: a national target of one gigawatt by 2030, with a new cluster forming in Ankara. And industry: 218 industrial zones run their own electricity networks, which makes them a separate buyer. Under each one you see the TBEA product families it needs. But market size alone does not mean market access. The real question is which doors are open to a foreign manufacturer."
+"Let me bring this together. Renewables, storage, transmission, data centers and industry: five engines of demand. Under each one you see the TBEA product families it needs. This is not a generic growth story; it is demand for the kind of equipment TBEA manufactures. But market size alone does not mean market access. The real question is which doors are open to a foreign manufacturer."
 
-**Detailed talking points (if asked):**
-- Electricity demand reached a record 360.9 TWh in 2025; the new 2040 strategy (5 Nov 2026) targets 680 TWh and 281 GW of capacity.
-- Storage: 2–3 GW is expected from 2026 (government forecast); 140 GWh targeted by 2040; new 2026 rules allow storage in industrial zones and at consumer sites.
-- Data centers: about 250 MW today (estimates vary). In Ankara's Başkent OIZ, a $4.1bn Rönesans–Digital Realty campus broke ground in October 2026; Khazna (up to 100 MW) and Trendyol (48 MW) have also been announced.
-
-**Likely TBEA question:** "Will all 33 GW of storage really be built?"
-**Suggested response:** "No, certainly not all of it. But even a fraction is several gigawatts of PCS, batteries, MV skids and transformers, and it is a private market where domestic preference does not apply."
-
-**Likely TBEA question:** "Do you have access to the Ankara data-center projects?"
-**Suggested response:** "We are developing this category actively. Specific accounts are something we would share project by project, once we agree how registered projects are handled."
+**Emphasise:** End on the honest turn; it builds credibility.
 
 **Transition:** "That question was the focus of our research."
 
 ---
 
-## Slide 22 — Section 03: Where TBEA can realistically enter
+## Slide 25 — Section 03: Where TBEA can realistically enter
 
 **Script:** "We studied which doors are open to a foreign manufacturer, and which are not. We will be direct about both."
 
 ---
 
-## Slide 23 — The market is large — but the entry doors are unequal
+## Slide 26 — The market is large — but the entry doors are unequal
 
 **Main message:** Some segments are protected or commoditised. Others are open: private, IFI-financed or technically demanding.
 
@@ -354,7 +405,7 @@
 
 ---
 
-## Slide 24 — Our view of the entry routes — for discussion
+## Slide 27 — Our view of the entry routes — for discussion
 
 **Main message:** Priority entry routes are private 154 kV connections, IFI transmission packages and data-center infrastructure.
 
@@ -371,7 +422,7 @@
 
 ---
 
-## Slide 25 — Private 154 kV connection substations for renewables and storage
+## Slide 28 — Private 154 kV connection substations for renewables and storage
 
 **Main message:** Every new renewable or hybrid plant needs a connection substation. These are usually procured privately, and that is TBEA's best first door.
 
@@ -389,7 +440,7 @@
 
 ---
 
-## Slide 26 — World Bank and IFI-financed transmission packages
+## Slide 29 — World Bank and IFI-financed transmission packages
 
 **Main message:** World Bank financing (about $748m for TEİAŞ, possibly growing much larger) brings international competitive bidding, where TBEA's references count.
 
@@ -408,7 +459,7 @@
 
 ---
 
-## Slide 27 — Regional demand matches TBEA's portfolio
+## Slide 30 — Regional demand matches TBEA's portfolio
 
 **Main message:** Each demand segment needs several TBEA product families at once. TBEA's advantage is the integrated system.
 
@@ -421,7 +472,7 @@
 
 ---
 
-## Slide 28 — One supplier for the whole electrical chain
+## Slide 31 — One supplier for the whole electrical chain
 
 **Main message:** One supplier, one interface and one responsibility is relevant for Turkish buyers, and TBEA's references support it.
 
@@ -435,7 +486,7 @@
 
 ---
 
-## Slide 29 — How our capabilities complement each other
+## Slide 32 — How our capabilities complement each other
 
 **Main message:** TBEA's industrial strengths and Ulusoy's local strengths cover different parts of the same route to market.
 
@@ -446,7 +497,7 @@
 
 ---
 
-## Slide 30 — The operating chain: from first signal to the next project
+## Slide 33 — The operating chain: from first signal to the next project
 
 **Main message:** A practical way to share the work, from the first market signal to after-sales.
 
@@ -462,7 +513,7 @@
 
 ---
 
-## Slide 31 — The working model we propose
+## Slide 34 — The working model we propose
 
 **Main message:** Compared with transaction-based sales, the proposed model focuses on a long-term market position for TBEA.
 
@@ -478,13 +529,13 @@
 
 ---
 
-## Slide 32 — Section 04: Opportunities already in our network
+## Slide 35 — Section 04: Opportunities already in our network
 
 **Script:** "These are real projects, at different stages, where TBEA products could be considered. The photograph is the Karnobat site in Bulgaria, taken this year."
 
 ---
 
-## Slide 33 — Radilovo + Katselovo: two utility-scale solar + storage plants at 220 kV
+## Slide 36 — Radilovo + Katselovo: two utility-scale solar + storage plants at 220 kV
 
 **Main message:** 371 MW AC of solar plus 370 MW / 1,200 MWh of battery storage, across two 220 kV substations, at development stage.
 
@@ -506,7 +557,7 @@
 
 ---
 
-## Slide 34 — Radilovo + Katselovo: electrical architecture and potential TBEA supply scope
+## Slide 37 — Radilovo + Katselovo: electrical architecture and potential TBEA supply scope
 
 **Main message:** Most blocks, from the PV array and battery to the 220 kV connection, fall within TBEA product families.
 
@@ -522,7 +573,7 @@
 
 ---
 
-## Slide 35 — Karnobat: a project already built, connected and expanding
+## Slide 38 — Karnobat: a project already built, connected and expanding
 
 **Main message:** Karnobat is real and operating: 33/110 kV substations and 110 kV lines are built, with 150 MW solar and 45 MW / 90 MWh storage.
 
@@ -541,7 +592,7 @@
 
 ---
 
-## Slide 36 — Karnobat: potential TBEA scope for the expansion
+## Slide 39 — Karnobat: potential TBEA scope for the expansion
 
 **Main message:** A concrete, near-term scope: remaining solar phases, 45 MW / 90 MWh BESS, MV/110 kV transformers and secondary systems.
 
@@ -557,7 +608,7 @@
 
 ---
 
-## Slide 37 — PLAKE and Golem Kamen: 140 MW of planned wind power
+## Slide 40 — PLAKE and Golem Kamen: 140 MW of planned wind power
 
 **Main message:** Two 70 MW wind projects. PLAKE has defined specifications (2 × 40 MVA, 110/20 kV, ACSR line).
 
@@ -571,7 +622,7 @@
 
 ---
 
-## Slide 38 — Wind electrical architecture and potential TBEA scope
+## Slide 41 — Wind electrical architecture and potential TBEA scope
 
 **Main message:** For each turbine (tower, cables, step-up transformer) through the 20 kV collection to the 110 kV substation, TBEA has the product families.
 
@@ -584,7 +635,7 @@
 
 ---
 
-## Slide 39 — Off-grid solar + storage: a modular, repeatable design
+## Slide 42 — Off-grid solar + storage: a modular, repeatable design
 
 **Main message:** An off-grid PV + BESS system in the Middle East with three options (5 / 10 / 20 MW), plus three engineering questions for TBEA.
 
@@ -600,7 +651,7 @@
 
 ---
 
-## Slide 40 — A complete TBEA-family package: PV, PCS, BESS, MV and EMS
+## Slide 43 — A complete TBEA-family package: PV, PCS, BESS, MV and EMS
 
 **Main message:** A complete TBEA-family package with defined quantities for each option.
 
@@ -611,7 +662,7 @@
 
 ---
 
-## Slide 41 — Opportunities beyond a single country
+## Slide 44 — Opportunities beyond a single country
 
 **Main message:** Four opportunities in three markets, with about 680 MW of generation and up to about 1.37 GWh of storage, plus the Türkiye pipeline.
 
@@ -625,7 +676,7 @@
 
 ---
 
-## Slide 42 — Where the Türkiye opportunities cluster
+## Slide 45 — Where the Türkiye opportunities cluster
 
 **Main message:** Six regional clusters, each with a different buyer and product need.
 
@@ -638,7 +689,7 @@
 
 ---
 
-## Slide 43 — Six opportunity categories we are developing
+## Slide 46 — Six opportunity categories we are developing
 
 **Main message:** Six categories with buyer, TBEA scope and timing. Named accounts are shared once registration is agreed.
 
@@ -654,7 +705,7 @@
 
 ---
 
-## Slide 44 — Türkiye already has strong, export-capable competitors
+## Slide 47 — Türkiye already has strong, export-capable competitors
 
 **Main message:** Türkiye is competitive. Entry needs the right segments, partners and qualification.
 
@@ -674,7 +725,7 @@
 
 ---
 
-## Slide 45 — What success in Türkiye requires
+## Slide 48 — What success in Türkiye requires
 
 **Main message:** Six conditions for success, and where each side can contribute.
 
@@ -685,13 +736,13 @@
 
 ---
 
-## Slide 46 — Section 05: A staged partnership model
+## Slide 49 — Section 05: A staged partnership model
 
 **Script:** "Our proposal is protected, earned and built step by step. We are not asking for blanket exclusivity on day one."
 
 ---
 
-## Slide 47 — Three stages — each one earned by the results of the last
+## Slide 50 — Three stages — each one earned by the results of the last
 
 **Main message:** Market development, then market execution, then localization, each unlocked by results.
 
@@ -709,7 +760,7 @@
 
 ---
 
-## Slide 48 — Stage 1: a proposed division of roles
+## Slide 51 — Stage 1: a proposed division of roles
 
 **Main message:** A proposed division of roles, with registered projects protected.
 
@@ -720,7 +771,7 @@
 
 ---
 
-## Slide 49 — A simple, transparent registration mechanism
+## Slide 52 — A simple, transparent registration mechanism
 
 **Main message:** Identify, register, confirm, protect, pursue jointly, with four principles. Discuss the principle today; details later.
 
@@ -742,7 +793,7 @@
 
 ---
 
-## Slide 50 — Stage 2: from first orders to a repeatable business
+## Slide 53 — Stage 2: from first orders to a repeatable business
 
 **Main message:** Local engineering, service, spares, EPC frameworks, TBEA presence and larger bids.
 
@@ -756,7 +807,7 @@
 
 ---
 
-## Slide 51 — Localization follows proven demand — it does not precede it
+## Slide 54 — Localization follows proven demand — it does not precede it
 
 **Main message:** A ladder from service center to regional supply platform, with each step taken only when volume justifies it. There is no factory on day one.
 
@@ -775,7 +826,7 @@
 
 ---
 
-## Slide 52 — What success could look like
+## Slide 55 — What success could look like
 
 **Main message:** Clear milestones and shared KPIs over three to five years, without speculative revenue forecasts.
 
@@ -789,7 +840,7 @@
 
 ---
 
-## Slide 53 — Proposed next steps
+## Slide 56 — Proposed next steps
 
 **Main message:** What Ulusoy will prepare, and where TBEA's input would help, with a simple 12-week sequence.
 
@@ -806,7 +857,7 @@
 
 ---
 
-## Slide 54 — Closing: Thank you
+## Slide 57 — Closing: Thank you
 
 **Main message:** Complementary strengths, and an invitation to explore the partnership together.
 

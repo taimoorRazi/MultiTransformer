@@ -2,7 +2,7 @@
 
 | File | Audience | Purpose |
 |---|---|---|
-| `Ulusoy - TBEA Partnership.pptx` | TBEA | 54-slide deck (5 section dividers). Speaker script embedded in slide notes. |
+| `Ulusoy - TBEA Partnership.pptx` | TBEA | 57-slide deck (5 section dividers). Speaker script embedded in slide notes. |
 | `Ulusoy - TBEA Partnership.pdf` | TBEA | PDF export of the deck |
 | `Ulusoy - TBEA Partnership - Rehearsal Script.pdf` | Ulusoy presenters | Spoken script only, slide by slide |
 | `TBEA_HQ_Presentation_Speaker_Notes_v2.md` | Ulusoy presenters | Per-slide message, script, transition, likely questions and answers; 40-minute short path |
