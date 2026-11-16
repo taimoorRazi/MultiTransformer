@@ -5,6 +5,7 @@
 | `Ulusoy - TBEA Partnership.pptx` | TBEA | 57-slide deck (5 section dividers). Speaker script embedded in slide notes. |
 | `Ulusoy - TBEA Partnership.pdf` | TBEA | PDF export of the deck |
 | `Ulusoy - TBEA Partnership - Rehearsal Script.pdf` | Ulusoy presenters | Spoken script only, slide by slide |
+| `letters/` | TBEA (after review) | Three project letters in Ulusoy's voice (EN + ZH), offtake-offer translation, and a combined print pack |
 | `TBEA_HQ_Presentation_Speaker_Notes_v2.md` | Ulusoy presenters | Per-slide message, script, transition, likely questions and answers; 40-minute short path |
 | `TBEA_HQ_Meeting_Brief.md` | **Ulusoy internal** | Objective, key messages, asks, sensitive topics, objections, questions, closing, follow-up |
 | `internal/Source_Record_v2.md` | **Ulusoy internal** | Source and confidence for every material number in the deck |
