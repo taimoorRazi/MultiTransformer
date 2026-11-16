@@ -2,7 +2,7 @@
 
 **Internal. Ulusoy only. Do not share with TBEA.**
 Meeting: TBEA Headquarters, China · November 2026
-Deck: Ulusoy_TBEA_HQ_Strategic_Partnership_v2 (58 slides; there is a 40-minute short path in the speaker notes)
+Deck: Ulusoy - TBEA Partnership (54 slides; there is a 40-minute short path in the speaker notes)
 
 ---
 
@@ -14,7 +14,7 @@ By the end of the meeting, TBEA management should conclude:
 
 **A good outcome, in order of importance:**
 1. A named TBEA team (and ideally a senior sponsor) for the partnership.
-2. Agreement in principle on project and account registration and protection.
+2. A positive first discussion of project and account registration (the principle, not terms).
 3. A date for a working session within 30 days.
 4. Agreement to start technical review of Karnobat and Radilovo/Katselovo.
 
@@ -132,11 +132,11 @@ If TBEA pushes on any of these, say: *"That is an important point. We suggest we
 
 ## 9. Recommended meeting closing
 
-After slide 56 (requests), pause and let TBEA respond. Then close with slide 57 and say:
+After slide 53 (proposed next steps), pause and let TBEA respond. Do not push for decisions in the room. Then say:
 
-> "To summarise what we hope we can agree today: first, that this partnership is worth building; second, who in TBEA will lead it with us; and third, a date for the working session in the next 30 days. Is that something we can agree?"
+> "Thank you for the discussion. If TBEA sees value in continuing, perhaps we could agree on a contact person, so we can send the materials and propose dates for a working session."
 
-Then move to slide 58 and finish. Let the most senior TBEA person respond first. Before leaving:
+Then move to slide 54 (thank you) and finish. Let the most senior TBEA person respond first. Before leaving:
 - Confirm names, titles and contact details of the TBEA team. Exchange business cards with both hands.
 - Confirm the follow-up date, or at least the week.
 - Agree who sends the meeting summary (offer that Ulusoy does, within 48 hours).
@@ -148,7 +148,7 @@ Then move to slide 58 and finish. Let the most senior TBEA person respond first.
 
 **Within 48 hours**
 - Send a thank-you letter and a one-page meeting summary to TBEA (agreed points, next steps, owners, dates).
-- Send the PDF of the deck. Consider removing slides 45–46 (the Türkiye pipeline) from the shared version if the discussion suggests caution.
+- Send the PDF of the deck. Consider removing slides 42–43 (the Türkiye pipeline) from the shared version if the discussion suggests caution.
 
 **Within 2 weeks**
 - Send an NDA and a draft registration framework (one page: what is registered, confirmation time, protection principle, overlap rule).

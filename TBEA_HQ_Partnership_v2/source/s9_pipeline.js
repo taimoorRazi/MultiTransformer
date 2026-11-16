@@ -51,7 +51,7 @@ module.exports = async (ctx) => {
   // 47 — Competitive landscape
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Competitive reality", title: "Türkiye already has strong, export-capable competitors",
-    sub: "We respect this market. TBEA cannot enter by simply exporting a catalogue." });
+    sub: "A competitive market: entry needs the right segments, partners and qualification." });
   const grp = [["TURKISH MANUFACTURERS", C.NAVY, [["Astor Enerji", "Transformers & switchgear · ~$1.84bn order backlog, mostly export"], ["Europower Enerji", "Transformers · new ~$100m transformer factory"],
       ["BEST", "Power transformers up to 1,250 MVA / 765 kV"], ["EKOS", "Transformers & compact substations · exports to 38+ countries"], ["Kontrolmatik / Pomega", "BESS and LFP cell plant (~3 GWh)"]]],
     ["GLOBAL OEMs WITH LOCAL PLANTS", C.DEEP, [["Hitachi Energy", "New Dilovası power-transformer factory (June 2026)"], ["Siemens", "LV/MV switchgear manufacturing in Gebze"], ["Other multinationals", "Local sales, service and selected assembly"]]],
@@ -81,7 +81,7 @@ module.exports = async (ctx) => {
   const req = [["LuCompass", "Correct segment selection", "Start where the door is open: private, IFI-financed, technically demanding", "U"],
     ["LuHardHat", "Local EPC alliances", "Turkish EPCs install, commission and often choose the equipment", "U"],
     ["LuFileCheck", "Qualification", "TEİAŞ specifications, type tests, IEC certificates, documentation", "T"],
-    ["LuTrophy", "References", "Regional references first; the first Turkish reference changes everything", "J"],
+    ["LuTrophy", "References", "Regional references first; a first Turkish reference matters greatly", "J"],
     ["LuWrench", "Service capability", "Local engineering, spares and fast response after delivery", "J"],
     ["LuRadar", "Commercial intelligence", "Who buys, when, through whom — and at what price", "U"]];
   const own = { U: ["Ulusoy", C.NAVY], T: ["TBEA", C.TB], J: ["Joint", C.BLUE] };
@@ -94,5 +94,5 @@ module.exports = async (ctx) => {
     T(s, d, { x: x + 0.22, y: y + 1.0, w: 3.5, h: 0.72, fontSize: 11.5, color: C.MUTED });
   }
   rect(s, MX, 5.85, 12.133, 0.95, C.TB, { rounded: true, r: 0.06 });
-  T(s, "That is precisely the layer Ulusoy proposes to build — with TBEA, for the long term.", { x: MX + 0.35, y: 5.85, w: 11.5, h: 0.95, fontSize: 18, bold: true, color: C.WHITE, valign: "middle" });
+  T(s, "These are the areas where we believe Ulusoy can contribute most, together with TBEA.", { x: MX + 0.35, y: 5.85, w: 11.5, h: 0.95, fontSize: 18, bold: true, color: C.WHITE, valign: "middle" });
 };

@@ -20,7 +20,7 @@ module.exports = async (ctx) => {
   // 2 — Why we are here
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Purpose of this meeting", title: "Why we are here",
-    sub: "Not to sell one project — to propose a long-term way of building TBEA's business in our region." });
+    sub: "To explore how Ulusoy and TBEA could build a long-term business together in our region." });
   const py = 1.95, ph = 3.45;
   // TBEA panel
   rect(s, MX, py, 5.0, ph, C.TB, { rounded: true, r: 0.06 });
@@ -51,7 +51,7 @@ module.exports = async (ctx) => {
   // result band
   rect(s, MX, 5.72, 12.133, 1.1, C.PALE, { rounded: true, r: 0.06 });
   T(s, "TOGETHER", { x: MX + 0.45, y: 6.12, w: 2.0, h: 0.3, fontSize: 12, bold: true, color: C.BLUE, charSpacing: 3 });
-  T(s, "A repeatable regional business platform for energy and grid infrastructure — built project by project, protected, and designed to last.",
+  T(s, "A long-term regional business in energy and grid infrastructure — built step by step, project by project.",
     { x: MX + 2.45, y: 5.75, w: 9.3, h: 1.05, fontSize: 18, bold: true, color: C.INK, valign: "middle" });
 
   // 3 — Journey
@@ -63,7 +63,7 @@ module.exports = async (ctx) => {
     ["Where TBEA can enter", "The realistic entry routes our research identified"],
     ["Opportunities in our network", "Real projects in Bulgaria, North Macedonia, the Middle East and Türkiye"],
     ["Partnership model", "A staged, protected, long-term structure"],
-    ["Next steps", "What we propose to agree after this meeting"]];
+    ["Next steps", "What we suggest as practical next steps"]];
   const sx = MX + 0.1, gap = 2.02, cy = 2.3;
   line(s, sx + 0.45, cy + 0.45, sx + gap * 5 + 0.45, cy + 0.45, C.ICE, 3);
   steps.forEach(([t, d], i) => {
@@ -74,7 +74,7 @@ module.exports = async (ctx) => {
     T(s, d, { x: x - 0.1, y: cy + 2.05, w: 1.8, h: 1.4, fontSize: 13, color: C.MUTED });
   });
   rect(s, MX, 6.0, 12.133, 0.72, C.PALE, { rounded: true, r: 0.06 });
-  T(s, "Our goal for today: agree that this partnership is worth building — and agree the first working steps.",
+  T(s, "Our aim today: share our view, hear TBEA's view, and see whether a joint working session makes sense.",
     { x: MX + 0.4, y: 6.0, w: 11.4, h: 0.72, fontSize: 15, bold: true, color: C.DEEP, valign: "middle" });
 };
 function W_(w) { return w; }

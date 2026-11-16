@@ -39,8 +39,8 @@ module.exports = async (ctx) => {
 
   // 51 — Stage 1 roles
   s = ctx.slide("LIGHT_TB", SEC);
-  ctx.head(s, { eyebrow: "Stage 1 · Market development", title: "Stage 1: clear roles from the first day", tb: true,
-    sub: "Ulusoy builds the market. TBEA provides the technical and industrial strength to win it." });
+  ctx.head(s, { eyebrow: "Stage 1 · Market development", title: "Stage 1: a proposed division of roles", tb: true,
+    sub: "Ulusoy focuses on market development; TBEA on technical and industrial support." });
   const ur = ["Originates opportunities and develops customers", "Maps decision chains and procurement timing", "Introduces and aligns EPC partners", "Coordinates TBEA technical teams with customers", "Supports tenders: documents, clarifications, schedule", "Supports commercial negotiation"];
   const tr = ["Technical solutions and engineering", "Pricing and commercial offers", "References and qualification documents", "Type-test reports and certificates", "Factory support and visits for customers"];
   rect(s, MX, 1.85, 5.6, 3.95, C.NAVY, { rounded: true, r: 0.06 });
@@ -86,7 +86,7 @@ module.exports = async (ctx) => {
     T(s, d, { x: x + 0.2, y: 5.1, w: 2.6, h: 0.8, fontSize: 11.5, color: C.MUTED });
   });
   rect(s, MX, 6.2, 12.133, 0.6, C.NAVY, { rounded: true, r: 0.06 });
-  T(s, "Proposal for today: agree the principle. Detailed terms are prepared together in the follow-up working session.", { x: MX + 0.3, y: 6.2, w: 11.6, h: 0.6, fontSize: 13, bold: true, color: C.WHITE, valign: "middle" });
+  T(s, "Our suggestion: discuss the principle today, and prepare the details together in a working session.", { x: MX + 0.3, y: 6.2, w: 11.6, h: 0.6, fontSize: 13, bold: true, color: C.WHITE, valign: "middle" });
 
   // 53 — Stage 2
   s = ctx.slide("LIGHT_TB", SEC);

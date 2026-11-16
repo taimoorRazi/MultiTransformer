@@ -1,16 +1,17 @@
 # TBEA HQ Presentation — Speaker Script (v2)
 
-**Deck:** Ulusoy_TBEA_HQ_Strategic_Partnership_v2 (58 slides, including 5 short section dividers)
+**Deck:** Ulusoy - TBEA Partnership (54 slides, including 5 short section dividers)
 **Audience:** TBEA senior management and business-unit executives
 **Target length:** 60–75 minutes of presenting plus discussion. Dividers take about 10 seconds each.
 **Language:** Speak slowly and simply. Many listeners are non-native English speakers, and some may be following through an interpreter. Pause after every number.
 
-**If time is cut to 40 minutes, use this short path:** 1–3, 4, 7, 12, 14, 15, 16, 17, 19, 21, 24, 26, 27, 28, 29, 31, 32, 33, 36, 38, 40, 42, 44, 45, 47, 50, 51, 52, 54, 56, 57, 58. Skip the others and refer to them as "in the appendix of your copy".
+**If time is cut to 40 minutes, use this short path:** 1–4, 7, 12, 14–17, 19–21, 23–26, 28–30, 33, 35, 37, 39, 41–44, 47–49, 51, 53–54. Skip the others and refer to them as "in your copy".
 
 **Three rules for the whole meeting**
 1. Never say or imply that TBEA has been selected, approved or ordered on any project. The phrase to use is "potential TBEA supply scope".
 2. Do not name individual decision-makers or private accounts in Türkiye. Named accounts are shared after the registration mechanism is agreed.
-3. Do not discuss commission, margins or exclusivity terms in this meeting. The aim is agreement in principle and a working session.
+3. Do not discuss commission, margins or exclusivity terms in this meeting. The aim is a contact person and a working session.
+4. Keep the tone factual and modest. Let the facts speak; avoid superlatives and pressure.
 
 ---
 
@@ -32,29 +33,29 @@
 
 ## Slide 2 — Why we are here
 
-**Main message:** TBEA has industrial capability; Ulusoy has market access. Together they make a repeatable regional business platform.
+**Main message:** TBEA has industrial capability; Ulusoy has local market access. We would like to explore building a long-term business together.
 
 **Script:**
-"On the left is TBEA. You make almost every part of the electrical system, with real engineering depth and references in more than ninety countries. On the right is Ulusoy. We have 89 years of relationships in Türkiye. We have real projects in the region and access to developers, EPC contractors and industrial groups. We are proposing to bring these two halves together. We do not want one transaction. We want a platform that produces projects year after year."
+"On the left is TBEA. You make almost every part of the electrical system, with strong engineering and references in more than ninety countries. On the right is Ulusoy. We have 89 years of relationships in Türkiye, some real projects in the region, and access to developers, EPC contractors and industrial groups. We see these two sides as complementary. Our interest is not a single transaction. We would like to explore whether we can build a long-term regional business together, step by step."
 
-**Emphasise:** "Not one project — a repeatable platform."
-**Do not dwell:** Do not list our projects yet; they come later.
+**Emphasise:** Complementary, long-term, step by step.
+**Do not dwell:** Do not list projects yet.
 
-**Transition:** "Here is how we will take you through this today."
+**Transition:** "Let me show how we have organised today's discussion."
 
 **Likely TBEA question:** "What exactly do you want from us?"
-**Suggested response:** "By the end of this meeting we will ask for eight concrete decisions. The most important are a named TBEA team, agreement in principle on project registration, and a working session within 30 days. We will show all eight on one slide."
+**Suggested response:** "At the end we will suggest a few practical next steps, mainly a contact person and a working session. We would also very much like to hear TBEA's own view on Türkiye and the region."
 
 ---
 
 ## Slide 3 — Our conversation today
 
-**Main message:** One continuous story with a clear end point.
+**Main message:** One continuous story, and a two-way discussion.
 
 **Script:**
-"We will go through six steps. First, who Ulusoy is, because you need to know who you would be working with. Second, why Türkiye matters now. Third, where a foreign manufacturer can realistically enter, which is the core of our research. Fourth, the real projects we already have. Fifth, how we propose to structure the partnership. And finally, what we suggest we agree today."
+"We will go through six steps. First, who Ulusoy is, because you need to know who you would be working with. Second, why Türkiye matters now. Third, where we think a foreign manufacturer can realistically enter. Fourth, the projects we already have. Fifth, how a partnership could be structured. And finally, some practical next steps. Our aim today is to share our view, hear yours, and see whether a joint working session makes sense."
 
-**Transition:** "Let me start with who we are, and why our history matters for this partnership."
+**Transition:** "Let me start with who we are."
 
 ---
 
@@ -173,14 +174,14 @@
 
 ---
 
-## Slide 12 — Representing international brands — for decades
+## Slide 12 — Long-term partnerships with international brands
 
 **Main message:** Ulusoy has represented foreign brands such as Volvo and Neoplan, and now a Chinese manufacturer, for decades. That includes sales, service, spares and reputation.
 
 **Script:**
 "From 1981 Ulusoy was Türkiye's general distributor for Volvo trucks, construction vehicles and coaches. In 1994 we formed a joint company with Swedish capital. We were also the Neoplan distributor and built showrooms, workshops and a service network. Today Ulusoy Robotics is the authorized distributor of Lonyu Robot, a Chinese AGV manufacturer. We understand what it means to carry another company's name in our market. When a customer has a problem at two in the morning, the partner has to answer the phone."
 
-**Emphasise:** "Decades, not deals." Volvo is the strongest proof point.
+**Emphasise:** The length of these partnerships. Volvo is the strongest example.
 **Do not dwell:** Do not discuss why the Volvo relationship ended, if it comes up. Keep it positive.
 
 **Likely TBEA question:** "Why did the Volvo distributorship end?"
@@ -195,7 +196,7 @@
 **Main message:** Ulusoy owns and operates licensed generation, so it understands the buyer's side of electrical equipment.
 
 **Script:**
-"Since 2010 we have owned İlk Elektrik, with two hydroelectric plants totalling 25 megawatts in Sinop. It is a modest size, but it gives us something important. We have bought, connected and operated electrical assets ourselves. We know the licensing process, the grid-connection process and the utility interfaces in Türkiye. When we talk to developers, we talk as an owner, not only as a seller."
+"Since 2010 we have owned İlk Elektrik, with two hydroelectric plants totalling 25 megawatts in Sinop. It is a modest size, but it gives us something important. We have bought, connected and operated electrical assets ourselves. We know the licensing process, the grid-connection process and the utility interfaces in Türkiye. It also helps us understand the owner's perspective when we work with developers."
 
 **Do not dwell:** Do not oversell the 25 MW.
 
@@ -208,28 +209,28 @@
 
 ## Slide 14 — Technology: robotics, automation and software
 
-**Main message:** Ulusoy already does for a Chinese industrial manufacturer what it proposes to do for TBEA.
+**Main message:** Ulusoy already works day to day with a Chinese industrial manufacturer in Türkiye.
 
 **Script:**
-"Ulusoy Robotics brings industrial robotics and heavy-duty AGVs to Turkish factories. We are the authorized distributor of Lonyu Robot. In practice, we introduce the technology, qualify the customer, coordinate engineering with the factory in China, and support the customer locally. This is exactly the model we propose for TBEA, at a much larger scale, in energy and grid infrastructure."
+"Ulusoy Robotics brings industrial robotics and heavy-duty AGVs to Turkish factories. We are the authorized distributor of Lonyu Robot. In practice, we introduce the technology, qualify the customer, coordinate engineering with the factory in China, and support the customer locally. It is a similar working model to the one we would like to discuss with TBEA for energy and grid equipment."
 
-**Emphasise:** "The same model, at larger scale."
+**Emphasise:** Practical experience of working with a Chinese factory.
 
 **Likely TBEA question:** "How many AGV projects have you delivered?"
 **Suggested response:** Give the accurate current number; if early, say: "The business is in its growth phase. It has taught us how to work day to day with a Chinese factory's engineering team."
 
-**Transition:** "Let me summarise why TBEA can trust us with market development."
+**Transition:** "Let me summarise what the group brings."
 
 ---
 
 ## Slide 15 — Why Ulusoy today
 
-**Main message:** Nine capabilities, and one reason above all: long-term family ownership.
+**Main message:** Nine group strengths, and long-term family ownership above all.
 
 **Script:**
-"To summarise our first section: we have senior relationships, infrastructure experience, industrial customer access, project development, logistics, international business, energy, technology, and long-term family ownership. If I had to choose one, it is the last. A market-development partnership only works if both sides invest for years. We are built for that."
+"To summarise the first section: senior relationships, infrastructure experience, industrial customer access, project development, logistics, international business, energy, technology, and long-term family ownership. The last one matters most for a partnership like this. Market development takes years, and both sides need to invest patiently. That is how our group has always worked."
 
-**Transition:** "Now let me show where Ulusoy sits geographically, and how this history turns into a platform for TBEA."
+**Transition:** "Now let me show where Ulusoy sits geographically, and how this history connects to energy and grid equipment."
 
 ---
 
@@ -247,14 +248,14 @@
 
 ---
 
-## Slide 17 — Ulusoy as TBEA's local market-development layer
+## Slide 17 — How a local partner can support TBEA in the region
 
 **Main message:** Ulusoy provides ten commercial functions between TBEA and six customer groups.
 
 **Script:**
-"At the top is TBEA: products, engineering, technology, references and financing access. At the bottom are the customers who actually buy: developers and independent power producers, EPC contractors, utility and TEİAŞ packages, industrial groups and industrial zones, data centers, and projects in neighbouring countries. In the middle is the local commercial layer that a factory in China cannot easily build: market intelligence, origination, senior access, EPC relationships, tender intelligence, coordination, financing coordination and customer management. Information flows both ways. Solutions go down, and demand intelligence comes back up to TBEA."
+"At the top is TBEA: products, engineering, technology, references and financing access. At the bottom are the customers who actually buy: developers and independent power producers, EPC contractors, utility and TEİAŞ packages, industrial groups and industrial zones, data centers, and projects in neighbouring countries. In the middle are the local functions a partner can provide: market intelligence, origination, senior access, EPC relationships, tender intelligence, coordination, financing coordination and customer management. Information flows both ways. Solutions go down, and demand intelligence comes back up to TBEA."
 
-**Emphasise:** "Two-way flow: we bring intelligence back to TBEA."
+**Emphasise:** The two-way flow: market information comes back to TBEA.
 
 **Likely TBEA question:** "TBEA already has an overseas sales organisation. Why do we need this layer?"
 **Suggested response:** "Your overseas organisation is strong in markets where TBEA is established. In Türkiye the buyers are fragmented and private. Developers, EPCs and industrial groups decide through personal relationships and local qualification. Our role is not to replace TBEA's international team. It is to give that team a local market-development arm with access it does not have today."
@@ -265,33 +266,13 @@
 
 ## Slide 18 — Section 02: Why Türkiye matters now
 
-**Script:** "Türkiye is entering a structural electricity and grid investment cycle. This is a long cycle, not a short boom. Let me show you five numbers."
+**Script:** "Türkiye is entering a structural electricity and grid investment cycle. This is a long cycle, not a short boom. Let me show you the key numbers."
 
 **Transition:** Go straight to the next slide.
 
 ---
 
-## Slide 19 — Demand is at record levels — and set to almost double by 2040
-
-**Main message:** Türkiye's electricity demand hit a record in 2025 and the official target is 680 TWh by 2040.
-
-**Script:**
-"Türkiye consumed a record 361 terawatt-hours in 2025, with a record peak of almost 60 gigawatts. On 5 November, a few days ago, the Energy Minister presented the new national strategy for 2040. Demand is planned to rise to 680 terawatt-hours, almost double today. Installed capacity is planned to rise from 123 to 281 gigawatts. Behind every one of these gigawatts is a transformer, a switchgear bay and a cable."
-
-**Emphasise:** "Five November, a few days ago": the information is fresh.
-**Detailed talking points (major slide):**
-- The 2030 and 2035 bars come from the earlier National Energy Plan; the 2040 bar is the new Milli Enerji 2040 target.
-- About 90 TWh of 2040 demand is electric vehicles; electrification is the main driver.
-- The strategy also includes 10 GW of nuclear, which is outside TBEA's core scope.
-
-**Likely TBEA question:** "Are these targets realistic? Turkish plans are often optimistic."
-**Suggested response:** "That is a fair challenge. Even the current-policies scenario in the same strategy reaches about 550 TWh by 2040, which is still a 50% increase. And the grid investment we show next is needed even at the lower scenario. We do not build our case on the highest number."
-
-**Transition:** "Where will this new capacity come from?"
-
----
-
-## Slide 20 — 127 GW installed — and wind + solar must almost triple by 2035
+## Slide 19 — 127 GW installed — and wind + solar must almost triple by 2035
 
 **Main message:** Wind and solar must grow from about 44 GW to 120 GW by 2035, which means 8–10 GW a year.
 
@@ -309,7 +290,7 @@
 
 ---
 
-## Slide 21 — The grid must grow as fast as generation
+## Slide 20 — The grid must grow as fast as generation
 
 **Main message:** $28bn of transmission investment to 2035, HVDC planned, and transformer capacity rising by about 58% by 2040.
 
@@ -324,71 +305,46 @@
 **Likely TBEA question:** "Can TBEA participate in the HVDC programme?"
 **Suggested response:** "We see HVDC as a long-term positioning goal, not a first-year target. TBEA's UHV and converter-transformer references are world-class. The right step now is to be known to TEİAŞ and its consultants before the specification is fixed. That is something we can help prepare."
 
-**Transition:** "The third driver is storage, where the pipeline is huge but has barely started."
+**Transition:** "Let me bring the demand drivers together."
 
 ---
 
-## Slide 22 — Storage: a 33 GW licensed pipeline, barely started
+## Slide 21 — Türkiye is creating structural demand for what TBEA makes
 
-**Main message:** About 33 GW of storage-linked licences exist, but only about 0.2 GW is installed. Equipment demand is still ahead.
-
-**Script:**
-"In 2022 and 2023 Türkiye gave licences for wind and solar plants with integrated storage. The rule is that storage capacity must equal the plant's capacity. About 33 gigawatts of these licences exist, more than in any EU country. But in early 2026 only about 0.2 gigawatts was installed. The government expects 2 to 3 gigawatts to come online from 2026, and the target is 140 gigawatt-hours by 2040. New regulations this year also allow storage in industrial zones and at consumer sites."
-
-**Emphasise:** The gap between 33 GW licensed and 0.2 GW installed.
-
-**Likely TBEA question:** "Will all 33 GW really be built?"
-**Suggested response:** "No, certainly not all of it. Many licences will be delayed or cancelled. But even a fraction is several gigawatts of PCS, battery systems, MV skids and transformers. And it is a private market, where price, delivery and bankability matter more than domestic preference."
-
-**Transition:** "Two more new sources of demand are data centers and industry."
-
----
-
-## Slide 23 — Data centers and industry are creating new electrical load
-
-**Main message:** Data centers (1 GW target by 2030, with an Ankara cluster forming) and 218 industrial zones with their own grids are distinct private buyers.
+**Main message:** Five demand engines, each mapped to TBEA product families. But market size is not the same as market access.
 
 **Script:**
-"Türkiye's National AI Action Plan targets one gigawatt of data-center capacity by 2030, from about 250 megawatts today. In Ankara, a 4.1 billion dollar data-center campus broke ground last month, and more projects have been announced in the same area. These buyers purchase complete high-voltage substations, transformers, switchgear and power-quality systems, usually privately. On the right, Türkiye has 374 organised industrial zones. 218 of them operate their own electricity distribution networks. That makes them a separate buyer of substations and transformers."
+"Let me bring this together in five demand engines. Renewables: 120 gigawatts of wind and solar targeted by 2035. Storage: about 33 gigawatts of storage-linked licences, while only around 0.2 gigawatts is built so far. Transmission: 28 billion dollars to 2035, with HVDC planned. Data centers: a national target of one gigawatt by 2030, with a new cluster forming in Ankara. And industry: 218 industrial zones run their own electricity networks, which makes them a separate buyer. Under each one you see the TBEA product families it needs. But market size alone does not mean market access. The real question is which doors are open to a foreign manufacturer."
 
-**Detailed talking points:**
-- The Ankara cluster is in Başkent OIZ: the Rönesans–Digital Realty campus, Khazna (up to 100 MW) and Trendyol (48 MW). These are public announcements, not our private leads.
-- Current data-center capacity estimates vary by definition. Use "about 250 MW" and do not defend a precise figure.
+**Detailed talking points (if asked):**
+- Electricity demand reached a record 360.9 TWh in 2025; the new 2040 strategy (5 Nov 2026) targets 680 TWh and 281 GW of capacity.
+- Storage: 2–3 GW is expected from 2026 (government forecast); 140 GWh targeted by 2040; new 2026 rules allow storage in industrial zones and at consumer sites.
+- Data centers: about 250 MW today (estimates vary). In Ankara's Başkent OIZ, a $4.1bn Rönesans–Digital Realty campus broke ground in October 2026; Khazna (up to 100 MW) and Trendyol (48 MW) have also been announced.
 
-**Likely TBEA question:** "Do you have access to these data-center projects?"
-**Suggested response:** "We are actively developing this category, particularly in Ankara. Specific accounts and our level of access are something we will share project by project once the registration mechanism is agreed." (Do not name contacts.)
+**Likely TBEA question:** "Will all 33 GW of storage really be built?"
+**Suggested response:** "No, certainly not all of it. But even a fraction is several gigawatts of PCS, batteries, MV skids and transformers, and it is a private market where domestic preference does not apply."
 
-**Transition:** "Let me bring these five drivers together."
-
----
-
-## Slide 24 — Türkiye is creating structural demand for what TBEA makes
-
-**Main message:** Each of the five demand engines maps onto TBEA product families. But market size is not market access.
-
-**Script:**
-"Renewables, storage, transmission, data centers and industry: five engines of demand. Under each one you see the TBEA product families it needs. This is not a generic growth story. It is demand for exactly what TBEA manufactures. But I want to be honest with you. Market size alone does not mean market access. The real question is which doors are open to a foreign manufacturer."
-
-**Emphasise:** End on the honest turn; it builds credibility.
+**Likely TBEA question:** "Do you have access to the Ankara data-center projects?"
+**Suggested response:** "We are developing this category actively. Specific accounts are something we would share project by project, once we agree how registered projects are handled."
 
 **Transition:** "That question was the focus of our research."
 
 ---
 
-## Slide 25 — Section 03: Where TBEA can realistically enter
+## Slide 22 — Section 03: Where TBEA can realistically enter
 
 **Script:** "We studied which doors are open to a foreign manufacturer, and which are not. We will be direct about both."
 
 ---
 
-## Slide 26 — The market is large — but the entry doors are unequal
+## Slide 23 — The market is large — but the entry doors are unequal
 
 **Main message:** Some segments are protected or commoditised. Others are open: private, IFI-financed or technically demanding.
 
 **Script:**
 "On the left are the segments we do not recommend entering first. Commodity distribution equipment has strong, export-capable Turkish producers and competes mainly on price. Ordinary public tenders give domestic goods a price advantage of up to 15%. Some categories have local-content rules and established utility suppliers. On the right are the doors that are open. Private 154 kV connection substations. World Bank and other IFI-financed transmission packages. Renewable and storage connections. Data-center electrical infrastructure. Selected battery balance-of-plant. Component supply. Mobile and special substations. And, in the longer term, HVDC."
 
-**Emphasise:** "We do not recommend competing everywhere."
+**Emphasise:** Some segments are realistic, others are not — and we say so openly.
 **Do not dwell:** Do not explain the research method.
 
 **Likely TBEA question:** "Exactly how does the 15% domestic preference work?"
@@ -398,14 +354,14 @@
 
 ---
 
-## Slide 27 — Where to start: open doors with real volume
+## Slide 24 — Our view of the entry routes — for discussion
 
 **Main message:** Priority entry routes are private 154 kV connections, IFI transmission packages and data-center infrastructure.
 
 **Script:**
 "The horizontal axis shows how open a segment is to a foreign manufacturer working with a local partner. The vertical axis shows the size and growth of demand. The top right is where we recommend starting: private renewable and storage connection substations, World Bank and IFI transmission packages, and data-center infrastructure. Battery balance-of-plant and component supply follow. Public tenders with domestic preference and commodity distribution equipment are large, but protected. HVDC is large but longer term."
 
-**Emphasise:** This is indicative positioning for discussion, not a scoring model.
+**Emphasise:** This is our view, for discussion. **Pause here and ask:** "Does this match how TBEA sees Türkiye? Where would you start?"
 **Do not:** Reveal any internal scoring or weighting. If asked, say "it is a qualitative synthesis of our research".
 
 **Likely TBEA question:** "What is the market size of each bubble in dollars?"
@@ -415,7 +371,7 @@
 
 ---
 
-## Slide 28 — Private 154 kV connection substations for renewables and storage
+## Slide 25 — Private 154 kV connection substations for renewables and storage
 
 **Main message:** Every new renewable or hybrid plant needs a connection substation. These are usually procured privately, and that is TBEA's best first door.
 
@@ -433,7 +389,7 @@
 
 ---
 
-## Slide 29 — World Bank and IFI-financed transmission packages
+## Slide 26 — World Bank and IFI-financed transmission packages
 
 **Main message:** World Bank financing (about $748m for TEİAŞ, possibly growing much larger) brings international competitive bidding, where TBEA's references count.
 
@@ -452,7 +408,7 @@
 
 ---
 
-## Slide 30 — Regional demand matches TBEA's portfolio
+## Slide 27 — Regional demand matches TBEA's portfolio
 
 **Main message:** Each demand segment needs several TBEA product families at once. TBEA's advantage is the integrated system.
 
@@ -465,12 +421,12 @@
 
 ---
 
-## Slide 31 — One supplier for the whole electrical chain
+## Slide 28 — One supplier for the whole electrical chain
 
-**Main message:** One supplier, one interface and one responsibility is a strong sales argument, backed by proof points Turkish buyers will ask for.
+**Main message:** One supplier, one interface and one responsibility is relevant for Turkish buyers, and TBEA's references support it.
 
 **Script:**
-"Turkish developers and EPCs today often buy inverters from one supplier, transformers from another and switchgear from a third, then spend months managing interfaces. TBEA can offer the whole chain: generation, MV collection, substation, control, storage and transmission. And Turkish buyers will ask for proof. These are the proof points we will use: 500,000 MVA of annual transformer capacity, more than 20,000 GIS bays delivered, more than ninety countries, more than 30 billion dollars of overseas projects, and IEC and EN compliance."
+"Turkish developers and EPCs today often buy inverters from one supplier, transformers from another and switchgear from a third, then spend months managing interfaces. TBEA can offer the whole chain: generation, MV collection, substation, control, storage and transmission. Turkish buyers will also ask for references. These are the ones we would use: 500,000 MVA of annual transformer capacity, more than 20,000 GIS bays delivered, more than ninety countries, more than 30 billion dollars of overseas projects, and IEC and EN compliance."
 
 **Likely TBEA question:** "Would customers really buy a full package from one supplier?"
 **Suggested response:** "Not always. Large developers sometimes split packages. But many mid-size developers and EPCs prefer one counterparty, especially for storage and connection substations. We will offer both: the full package where it fits, and individual families where it does not."
@@ -479,56 +435,56 @@
 
 ---
 
-## Slide 32 — Two halves of one route to market
+## Slide 29 — How our capabilities complement each other
 
-**Main message:** TBEA capability plus Ulusoy capability equals a repeatable route to market.
+**Main message:** TBEA's industrial strengths and Ulusoy's local strengths cover different parts of the same route to market.
 
 **Script:**
-"On the left is what TBEA brings and Ulusoy cannot build: manufacturing, engineering, technology, international references, scale and financing access. In the middle is what Ulusoy brings and TBEA cannot easily build from China: market intelligence, origination, senior access, EPC alliances, local coordination, tender intelligence, local execution relationships and a regional pipeline. Together, the result is a repeatable route to market, project after project and account after account."
+"On the left are TBEA's strengths: manufacturing, engineering, technology, international references, scale and financing access. In the middle are the local strengths Ulusoy brings: market intelligence, project origination, senior access, EPC relationships, local coordination, tender intelligence, local execution relationships and a regional pipeline. Each side covers what is difficult for the other. Together, they could form a long-term route to market in Türkiye, the Balkans and the Middle East."
 
-**Transition:** "In practice, this is how the chain works."
+**Transition:** "Here is how the work could be shared in practice."
 
 ---
 
-## Slide 33 — The operating chain: from first signal to the next project
+## Slide 30 — The operating chain: from first signal to the next project
 
-**Main message:** Ulusoy runs the commercial process end to end with TBEA. It is not a messenger.
+**Main message:** A practical way to share the work, from the first market signal to after-sales.
 
 **Script:**
-"Nine steps. Ulusoy leads the first three: market intelligence, originating the opportunity and gaining customer access. Then we work jointly on the technical match, the EPC and financing structure, and the tender and negotiation. TBEA leads delivery. Service is joint. And then Ulusoy turns the completed project into the next opportunity, with the same customer or the same EPC. This loop is how a market position is built."
+"Nine steps. Ulusoy leads the first three: market intelligence, originating the opportunity and gaining customer access. Then we work jointly on the technical match, the EPC and financing structure, and the tender and negotiation. TBEA leads delivery. Service is joint. And then Ulusoy turns the completed project into the next opportunity, with the same customer or the same EPC. Over time, this loop builds a market position."
 
 **Emphasise:** The colour coding of who leads each step.
 
 **Likely TBEA question:** "Who carries the commercial risk in the tender?"
 **Suggested response:** "That depends on the project structure: direct supply by TBEA, or supply through a Turkish EPC. We do not want to fix this today. We propose to agree it project by project, within the framework we will prepare together."
 
-**Transition:** "This is why we describe ourselves as a market-development layer, not an intermediary."
+**Transition:** "This leads to the working model we propose."
 
 ---
 
-## Slide 34 — Not an intermediary — a market-development layer
+## Slide 31 — The working model we propose
 
-**Main message:** The difference between an agent and a market-development partner is starting point, information and continuity.
+**Main message:** Compared with transaction-based sales, the proposed model focuses on a long-term market position for TBEA.
 
 **Script:**
-"A typical agent appears when an RFQ already exists, passes price messages, and moves on after the sale. We start before the project is designed. We maintain senior relationships, share market and tender intelligence with TBEA, and stay for service and the next project. The result for TBEA is not occasional orders but a durable, growing market position."
+"In transaction-based sales, the work usually starts when an RFQ already exists, and the relationship often ends after the order. The model we propose starts earlier, before the project is designed. It keeps senior relationships, shares market and tender information with TBEA, and continues with service and the next project. The aim is a long-term market position for TBEA, rather than individual orders."
 
-**Do not:** Mention commission or fees. If asked, say commercial terms will be proposed in the working session.
+**Do not:** Criticise agents or other partners. Do not mention fees or commission.
 
-**Likely TBEA question:** "How are you paid in this model?"
-**Suggested response:** "We will propose a clear and fair structure in the working session, aligned with TBEA's existing partner policies. Today we would like to agree the principle and the roles first."
+**Likely TBEA question:** "How would you be compensated in this model?"
+**Suggested response:** "We would prefer to prepare a clear proposal for the working session, in line with TBEA's existing partner policies. Today we would like to discuss the principle and the roles."
 
-**Transition:** "This is not theoretical. Let me show you the projects we already have."
-
----
-
-## Slide 35 — Section 04: Opportunities already in our network
-
-**Script:** "This is not theoretical. These are live solar, storage and wind projects where TBEA products could be specified. The photograph behind me is the Karnobat site in Bulgaria, taken this year."
+**Transition:** "Let me now show the projects we already have."
 
 ---
 
-## Slide 36 — Radilovo + Katselovo: two utility-scale solar + storage plants at 220 kV
+## Slide 32 — Section 04: Opportunities already in our network
+
+**Script:** "These are real projects, at different stages, where TBEA products could be considered. The photograph is the Karnobat site in Bulgaria, taken this year."
+
+---
+
+## Slide 33 — Radilovo + Katselovo: two utility-scale solar + storage plants at 220 kV
 
 **Main message:** 371 MW AC of solar plus 370 MW / 1,200 MWh of battery storage, across two 220 kV substations, at development stage.
 
@@ -550,9 +506,9 @@
 
 ---
 
-## Slide 37 — Radilovo + Katselovo: electrical architecture and potential TBEA supply scope
+## Slide 34 — Radilovo + Katselovo: electrical architecture and potential TBEA supply scope
 
-**Main message:** Almost every block from PV array and battery to the 220 kV connection is a TBEA product family.
+**Main message:** Most blocks, from the PV array and battery to the 220 kV connection, fall within TBEA product families.
 
 **Script:**
 "On the top lane is the solar plant: mounting structures, string inverters and step-up transformers. On the bottom lane is the storage: LFP battery containers, PCS and step-up transformers. Both feed a 33 kV collection system. From there, main power transformers step up to 220 kV, through 220 kV switchgear and instrument transformers, onto the 220 kV line. Below are the secondary systems: protection, automation, battery EMS and auxiliary power. The light blue boxes are TBEA product families. The blue text shows confirmed project requirements. Quantities and brands are not yet defined."
@@ -566,7 +522,7 @@
 
 ---
 
-## Slide 38 — Karnobat: a project already built, connected and expanding
+## Slide 35 — Karnobat: a project already built, connected and expanding
 
 **Main message:** Karnobat is real and operating: 33/110 kV substations and 110 kV lines are built, with 150 MW solar and 45 MW / 90 MWh storage.
 
@@ -585,7 +541,7 @@
 
 ---
 
-## Slide 39 — Karnobat: potential TBEA scope for the expansion
+## Slide 36 — Karnobat: potential TBEA scope for the expansion
 
 **Main message:** A concrete, near-term scope: remaining solar phases, 45 MW / 90 MWh BESS, MV/110 kV transformers and secondary systems.
 
@@ -601,12 +557,12 @@
 
 ---
 
-## Slide 40 — PLAKE and Golem Kamen: 140 MW of planned wind power
+## Slide 37 — PLAKE and Golem Kamen: 140 MW of planned wind power
 
 **Main message:** Two 70 MW wind projects. PLAKE has defined specifications (2 × 40 MVA, 110/20 kV, ACSR line).
 
 **Script:**
-"In North Macedonia we have two wind projects of 70 megawatts each, PLAKE and Golem Kamen: 140 megawatts in total and 20 planned turbine locations. PLAKE is more advanced. It has a 20 kV collection system, two 40-MVA 110/20 kV main transformers and an overhead line on one of two alternative routes, 24 or 30 kilometres. Golem Kamen's figures are preliminary, with a 110 or 220 kV connection still being studied. A third site is at the wind-measurement stage. And there is a unique point: TBEA can supply from the steel tower to the substation."
+"In North Macedonia we have two wind projects of 70 megawatts each, PLAKE and Golem Kamen: 140 megawatts in total and 20 planned turbine locations. PLAKE is more advanced. It has a 20 kV collection system, two 40-MVA 110/20 kV main transformers and an overhead line on one of two alternative routes, 24 or 30 kilometres. Golem Kamen's figures are preliminary, with a 110 or 220 kV connection still being studied. A third site is at the wind-measurement stage. TBEA's portfolio also covers the steel towers, not only the substation."
 
 **Likely TBEA question:** "Who supplies the turbines?"
 **Suggested response:** "Turbine selection is separate. Our focus with TBEA is the electrical balance of plant and, where it fits, towers. We will share the turbine status in the working session."
@@ -615,7 +571,7 @@
 
 ---
 
-## Slide 41 — Wind electrical architecture and potential TBEA scope
+## Slide 38 — Wind electrical architecture and potential TBEA scope
 
 **Main message:** For each turbine (tower, cables, step-up transformer) through the 20 kV collection to the 110 kV substation, TBEA has the product families.
 
@@ -628,7 +584,7 @@
 
 ---
 
-## Slide 42 — Off-grid solar + storage: a modular, repeatable design
+## Slide 39 — Off-grid solar + storage: a modular, repeatable design
 
 **Main message:** An off-grid PV + BESS system in the Middle East with three options (5 / 10 / 20 MW), plus three engineering questions for TBEA.
 
@@ -644,7 +600,7 @@
 
 ---
 
-## Slide 43 — A complete TBEA-family package: PV, PCS, BESS, MV and EMS
+## Slide 40 — A complete TBEA-family package: PV, PCS, BESS, MV and EMS
 
 **Main message:** A complete TBEA-family package with defined quantities for each option.
 
@@ -655,12 +611,12 @@
 
 ---
 
-## Slide 44 — Opportunities beyond a single country
+## Slide 41 — Opportunities beyond a single country
 
-**Main message:** Four live opportunities in three markets, with about 680 MW of generation and up to about 1.37 GWh of storage, plus the Türkiye pipeline.
+**Main message:** Four opportunities in three markets, with about 680 MW of generation and up to about 1.37 GWh of storage, plus the Türkiye pipeline.
 
 **Script:**
-"Together these opportunities represent about 680 megawatts of solar and wind and up to about 1.37 gigawatt-hours of storage, in Bulgaria, North Macedonia and the Middle East. Karnobat includes about 29 megawatts that are already operating. And this is before the Türkiye pipeline, which is our largest market. The message is simple: Ulusoy already brings opportunities in several markets. A partnership turns these into a repeatable pipeline."
+"Together these opportunities represent about 680 megawatts of solar and wind and up to about 1.37 gigawatt-hours of storage, in Bulgaria, North Macedonia and the Middle East. Karnobat includes about 29 megawatts that are already operating. And this is before the Türkiye pipeline, which is our largest market. We would like to review these opportunities together with TBEA's engineers."
 
 **Likely TBEA question:** "What is the total equipment value?"
 **Suggested response:** "We prefer not to quote a total before TBEA's engineers have reviewed the scopes. A joint estimate will be more credible. That can be an output of the working session."
@@ -669,7 +625,7 @@
 
 ---
 
-## Slide 45 — Where the Türkiye opportunities cluster
+## Slide 42 — Where the Türkiye opportunities cluster
 
 **Main message:** Six regional clusters, each with a different buyer and product need.
 
@@ -682,7 +638,7 @@
 
 ---
 
-## Slide 46 — Six opportunity categories we are developing
+## Slide 43 — Six opportunity categories we are developing
 
 **Main message:** Six categories with buyer, TBEA scope and timing. Named accounts are shared once registration is agreed.
 
@@ -698,12 +654,12 @@
 
 ---
 
-## Slide 47 — Türkiye already has strong, export-capable competitors
+## Slide 44 — Türkiye already has strong, export-capable competitors
 
-**Main message:** Türkiye has strong local manufacturers and global OEMs with local plants. TBEA cannot enter by exporting a catalogue.
+**Main message:** Türkiye is competitive. Entry needs the right segments, partners and qualification.
 
 **Script:**
-"I want to be realistic. Türkiye has strong transformer and switchgear manufacturers. Astor has an order backlog of about 1.8 billion dollars, mostly for export. Europower is building a new transformer factory. BEST makes transformers up to 765 kilovolts. EKOS exports to more than 38 countries. Kontrolmatik is building a battery-cell plant. Hitachi Energy opened a new transformer factory near İstanbul in June. What does this mean? Local champions win public tenders with domestic preference, and we should not fight them there first. But local factories are full because of global demand, so delivery slots are a real opening. And price alone does not win. References, qualification and local service do."
+"Türkiye is a competitive market. Türkiye has strong transformer and switchgear manufacturers. Astor has an order backlog of about 1.8 billion dollars, mostly for export. Europower is building a new transformer factory. BEST makes transformers up to 765 kilovolts. EKOS exports to more than 38 countries. Kontrolmatik is building a battery-cell plant. Hitachi Energy opened a new transformer factory near İstanbul in June. What does this mean? Local champions win public tenders with domestic preference, and we should not fight them there first. But local factories are full because of global demand, so delivery slots are a real opening. And price alone does not win. References, qualification and local service do."
 
 **Detailed talking points (major slide):**
 - Speak with respect. Do not criticise competitors.
@@ -718,24 +674,24 @@
 
 ---
 
-## Slide 48 — What success in Türkiye requires
+## Slide 45 — What success in Türkiye requires
 
-**Main message:** Six conditions. Ulusoy provides most of the commercial ones, TBEA the qualification, and the rest are joint.
+**Main message:** Six conditions for success, and where each side can contribute.
 
 **Script:**
-"Six conditions: choosing the right segments, local EPC alliances, qualification, references, service capability and commercial intelligence. TBEA leads qualification. We lead segment selection, EPC alliances and commercial intelligence. References and service we build together, and the first Turkish reference changes everything. That is precisely the layer Ulusoy proposes to build, with TBEA, for the long term."
+"We see six conditions: choosing the right segments, local EPC relationships, qualification, references, service capability and commercial intelligence. TBEA naturally leads on qualification. Ulusoy can contribute most on segment selection, EPC relationships and commercial intelligence. References and service would be built together, and a first Turkish reference matters greatly. These are the areas where we believe Ulusoy can contribute most, together with TBEA."
 
-**Transition:** "So how should we structure this partnership?"
+**Transition:** "So how could a partnership be structured?"
 
 ---
 
-## Slide 49 — Section 05: A staged partnership model
+## Slide 46 — Section 05: A staged partnership model
 
 **Script:** "Our proposal is protected, earned and built step by step. We are not asking for blanket exclusivity on day one."
 
 ---
 
-## Slide 50 — Three stages — each one earned by the results of the last
+## Slide 47 — Three stages — each one earned by the results of the last
 
 **Main message:** Market development, then market execution, then localization, each unlocked by results.
 
@@ -753,9 +709,9 @@
 
 ---
 
-## Slide 51 — Stage 1: clear roles from the first day
+## Slide 48 — Stage 1: a proposed division of roles
 
-**Main message:** Clear roles for each side, and registered projects are protected.
+**Main message:** A proposed division of roles, with registered projects protected.
 
 **Script:**
 "In Stage 1, Ulusoy originates opportunities and develops customers, maps decision chains, introduces EPC partners, coordinates TBEA's technical teams with customers, and supports tenders and negotiations. TBEA provides technical solutions and engineering, pricing, references, qualification documents, type-test reports and factory support. And one principle at the bottom: projects and accounts introduced by Ulusoy are formally registered with TBEA and protected."
@@ -764,12 +720,12 @@
 
 ---
 
-## Slide 52 — A simple, transparent registration mechanism
+## Slide 49 — A simple, transparent registration mechanism
 
-**Main message:** Identify, register, confirm, protect, pursue jointly, with four principles. We agree the principle today and the terms later.
+**Main message:** Identify, register, confirm, protect, pursue jointly, with four principles. Discuss the principle today; details later.
 
 **Script:**
-"Registration is simple. Ulusoy identifies a project or account and registers it with TBEA: customer, project, scope, stage and evidence. TBEA confirms within an agreed time. The project is then protected for an agreed period, renewed as long as it is actively developed. Any direct enquiries for that project are routed through the same channel. Four principles: transparency, one point of contact, protection based on activity, and a clear rule for overlaps agreed in advance. Today we ask only to agree the principle. We prepare the detailed terms together in the working session."
+"Registration is simple. Ulusoy identifies a project or account and registers it with TBEA: customer, project, scope, stage and evidence. TBEA confirms within an agreed time. The project is then protected for an agreed period, renewed as long as it is actively developed. Any direct enquiries for that project are routed through the same channel. Four principles: transparency, one point of contact, protection based on activity, and a clear rule for overlaps agreed in advance. Our suggestion is to discuss the principle today, and prepare the details together in a working session."
 
 **Detailed talking points (major slide):**
 - Protection matters because market development costs time and money before any order. Without protection no partner can invest.
@@ -786,7 +742,7 @@
 
 ---
 
-## Slide 53 — Stage 2: from first orders to a repeatable business
+## Slide 50 — Stage 2: from first orders to a repeatable business
 
 **Main message:** Local engineering, service, spares, EPC frameworks, TBEA presence and larger bids.
 
@@ -800,7 +756,7 @@
 
 ---
 
-## Slide 54 — Localization follows proven demand — it does not precede it
+## Slide 51 — Localization follows proven demand — it does not precede it
 
 **Main message:** A ladder from service center to regional supply platform, with each step taken only when volume justifies it. There is no factory on day one.
 
@@ -819,57 +775,45 @@
 
 ---
 
-## Slide 55 — What success could look like
+## Slide 52 — What success could look like
 
 **Main message:** Clear milestones and shared KPIs over three to five years, without speculative revenue forecasts.
 
 **Script:**
-"In year one: the registration mechanism in place, priority products qualified, EPC alliances signed and the first orders won. In years two and three: several orders per year, local service and spares, the first transmission or IFI package and larger storage projects. In years three to five: Türkiye as a regional hub, local assembly if justified, and projects in the Balkans and the Middle East. We propose to track five things together: registered opportunities, products qualified, bids submitted, orders won and service capability. We deliberately do not show a revenue forecast. We would rather build one together from the real pipeline."
+"In year one: the registration mechanism in place, priority products qualified, EPC alliances signed and the first orders won. In years two and three: several orders per year, local service and spares, the first transmission or IFI package and larger storage projects. In years three to five: Türkiye as a regional hub, local assembly if justified, and projects in the Balkans and the Middle East. Five things we could track together are: registered opportunities, products qualified, bids submitted, orders won and service capability. We deliberately do not show a revenue forecast. We would rather build one together from the real pipeline."
 
 **Likely TBEA question:** "What revenue do you expect in the first three years?"
 **Suggested response:** "We prefer to build that forecast with TBEA's engineers and pricing, from the actual registered projects. A number today would be a guess. A number after the working session will be a plan."
 
-**Transition:** "To get there, we need some decisions from TBEA headquarters."
+**Transition:** "Let me finish with some practical next steps."
 
 ---
 
-## Slide 56 — What we ask from TBEA headquarters
+## Slide 53 — Proposed next steps
 
-**Main message:** Eight concrete decisions.
+**Main message:** What Ulusoy will prepare, and where TBEA's input would help, with a simple 12-week sequence.
 
 **Script:**
-"We have eight requests. One: nominate the responsible TBEA team and a senior sponsor. Two: agree in principle on registration and protection. Three: identify the priority product families for Türkiye and the region. Four: provide qualification, type-test and reference packages for those products. Five: allow direct coordination with the relevant factories and engineering teams. Six: review the initial pipeline together, starting with Bulgaria and North Macedonia. Seven: evaluate financing support where it strengthens a bid. And eight: schedule a working session within 30 days."
+"Let me suggest some practical next steps. On our side, we will prepare the project files for Karnobat, Radilovo–Katselovo and PLAKE under NDA. We will map the TEİAŞ technical requirements for 154 kV transformers, GIS and instrument transformers. We will draft the project-registration principles for joint review. And we can arrange customer and EPC meetings in Türkiye for a joint visit. From TBEA, we would welcome three things: a contact person or team for this work, TBEA's view on priority product families for Türkiye, and, if possible, a date for a working session within the next month. The sequence below is only a suggestion: contacts and documents in the first two weeks, technical review of the first projects, a working session in İstanbul, and first joint offers where TBEA sees a fit."
 
-**Emphasise:** Pause after this slide and let TBEA respond. The most important are numbers 1, 2 and 8.
+**Emphasise:** Ulusoy's commitments come first. Then pause, and let TBEA respond.
+**Do not:** Push for decisions in the room. Senior management usually decides internally afterwards.
 
-**Likely TBEA question:** "We need to discuss internally before committing."
-**Suggested response:** "Of course. Could we agree today on the team contact and a date for the working session? The rest can follow from that session."
+**Likely TBEA question:** "We need to discuss this internally first."
+**Suggested response:** "Of course. Perhaps we could agree on a contact person, so we can send the materials and propose dates for the working session."
 
-**Transition:** "Here is how we suggest the first 90 days could look."
+**Transition:** "Thank you. Let me close."
 
 ---
 
-## Slide 57 — The first 90 days after this meeting
+## Slide 54 — Closing: Thank you
 
-**Main message:** A practical 90-day sequence, and today's desired outcome.
+**Main message:** Complementary strengths, and an invitation to explore the partnership together.
 
 **Script:**
-"Week zero is today: agree the principles and the team. In weeks one and two, the TBEA team is nominated and factory contacts are shared. In weeks three and four, registration terms are drafted and the first projects registered. In weeks four to six, qualification packages for the priority products. In weeks six to eight, a joint working session in İstanbul with customer and EPC meetings. And in weeks eight to twelve, the first joint offers for Bulgaria, North Macedonia and the first Türkiye bids. What we hope for today is simple: a shared decision to build this partnership, a named TBEA team and a date for the working session."
+"Thank you very much for your time and for receiving us here. TBEA brings technology and industrial scale. Ulusoy brings local market access and projects. Our founder built the business on one principle, Everything on Time, and we would bring the same discipline to this work. We look forward to exploring this partnership together, and we would be glad to hear your thoughts."
 
-**Transition:** "Let me close with one thought."
-
----
-
-## Slide 58 — Closing: Let us build the bridge together
-
-**Main message:** TBEA has the technology and scale; Ulusoy has the market access and pipeline. Build the bridge together.
-
-**Script:**
-"TBEA has the technology and the industrial scale. Ulusoy has the market access and the project pipeline. Our founder built the business on one principle, Everything on Time, and we intend to bring the same discipline to this partnership. Let us build the bridge together, between China and Türkiye, and from Türkiye to the region. Thank you. We would be very glad to hear your thoughts."
-
-**Emphasise:** Stop talking after "your thoughts". Let the most senior TBEA person respond first.
-
----
+**Emphasise:** Stop after "your thoughts". Let the most senior TBEA person respond first.
 
 ## Appendix — Quick reference: key numbers and their status
 

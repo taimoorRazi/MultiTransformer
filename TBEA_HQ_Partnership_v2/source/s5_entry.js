@@ -12,7 +12,7 @@ module.exports = async (ctx) => {
   // 26 — Unequal doors
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Research finding", title: "The market is large — but the entry doors are unequal",
-    sub: "We do not recommend competing everywhere. We recommend entering where a foreign manufacturer can actually win." });
+    sub: "Some segments are realistic for a foreign manufacturer; others are difficult. Our view on both." });
   // left: difficult
   rect(s, MX, 1.85, 4.55, 4.95, C.PALE, { rounded: true, r: 0.06 });
   await ctx.iconCircle(s, "LuLock", MX + 0.3, 2.05, 0.7, C.WHITE, C.MUTED);
@@ -45,7 +45,7 @@ module.exports = async (ctx) => {
 
   // 27 — Attractiveness matrix
   s = ctx.slide("LIGHT", SEC);
-  ctx.head(s, { eyebrow: "Entry-route map", title: "Where to start: open doors with real volume",
+  ctx.head(s, { eyebrow: "Entry-route map", title: "Our view of the entry routes — for discussion",
     sub: "Qualitative positioning of segments for a foreign manufacturer working with a local partner." });
   const gx = 1.45, gy = 1.85, gw = 7.4, gh = 4.75;
   rect(s, gx + gw / 2, gy, gw / 2, gh / 2, C.TBL);

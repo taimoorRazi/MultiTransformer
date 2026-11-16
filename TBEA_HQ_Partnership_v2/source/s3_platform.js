@@ -20,7 +20,7 @@ module.exports = async (ctx) => {
 
   // 17 — The local commercial layer
   s = ctx.slide("LIGHT_TB", SEC);
-  ctx.head(s, { eyebrow: "What Ulusoy contributes", title: "Ulusoy as TBEA's local market-development layer",
+  ctx.head(s, { eyebrow: "What Ulusoy contributes", title: "How a local partner can support TBEA in the region",
     sub: "One commercial system between TBEA's factories and the customers who buy in Türkiye and the region." });
   // TBEA box
   rect(s, 3.4, 1.8, 6.53, 0.78, C.TB, { rounded: true, r: 0.06 });

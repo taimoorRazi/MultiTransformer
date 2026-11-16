@@ -163,13 +163,13 @@ module.exports = async (ctx) => {
     T(s, t, { x: tx + 1.25, y: y - 0.02, w: 4.7, h: 0.4, fontSize: 12.5 });
   });
   rect(s, MX, 6.0, 12.133, 0.78, C.NAVY, { rounded: true, r: 0.06 });
-  T(s, "Concession, port investment and an Italian company structure: Ulusoy knows how to develop and operate long-term infrastructure across borders.",
+  T(s, "Concession, port investment and an Italian company structure: experience in developing and operating long-term infrastructure across borders.",
     { x: MX + 0.35, y: 6.0, w: 11.5, h: 0.78, fontSize: 13.5, color: C.WHITE, valign: "middle", bold: true });
   ctx.src(s, SRC);
 
   // 12 — International partnership heritage
   s = ctx.slide("LIGHT", SEC);
-  ctx.head(s, { eyebrow: "International partnership heritage", title: "Representing international brands — for decades",
+  ctx.head(s, { eyebrow: "International partnership heritage", title: "Long-term partnerships with international brands",
     sub: "Sales, after-sales service, spare parts and reputation: the full responsibility of a long-term partner." });
   img(s, "ul_volvo.png", MX, 1.85, 4.6, 3.0);
   T(s, "Volvo showroom, Yenibosna, İstanbul", { x: MX, y: 4.9, w: 4.6, h: 0.25, fontSize: 9, color: C.MUTED, italic: true });
@@ -205,7 +205,7 @@ module.exports = async (ctx) => {
   T(s, "WHAT THIS GIVES US", { x: MX + 0.3, y: 3.92, w: 5, h: 0.25, fontSize: 10, bold: true, color: C.BLUE, charSpacing: 2 });
   T(s, [{ text: "The equipment buyer's view: we have bought, connected and operated electrical assets", options: { bullet: true, breakLine: true } },
     { text: "First-hand experience of licensing, grid connection and utility interfaces in Türkiye", options: { bullet: true, breakLine: true } },
-    { text: "Credibility with developers and IPPs — we speak as an owner, not only as a seller", options: { bullet: true } }],
+    { text: "An understanding of the owner's perspective when working with developers and IPPs", options: { bullet: true } }],
     { x: MX + 0.3, y: 4.28, w: 5.35, h: 2.3, fontSize: 13.5, paraSpaceAfter: 8 });
   ctx.src(s, SRC);
 
@@ -228,12 +228,12 @@ module.exports = async (ctx) => {
   T(s, "ALREADY WORKING WITH CHINESE INDUSTRY", { x: MX + 0.45, y: 4.98, w: 8, h: 0.28, fontSize: 11, bold: true, color: C.MID, charSpacing: 2 });
   T(s, "Ulusoy Robotics is the authorized distributor in Türkiye for Lonyu Robot, a Chinese heavy-load AGV manufacturer. We introduce the technology, qualify customers, coordinate engineering with the factory, and support customers locally.",
     { x: MX + 0.45, y: 5.32, w: 7.6, h: 1.3, fontSize: 13.5, color: C.WHITE });
-  T(s, "The same model we propose for TBEA — at a larger scale, in energy and grid infrastructure.", { x: 8.9, y: 5.0, w: 3.6, h: 1.6, fontSize: 15, bold: true, color: C.ICE, valign: "middle", italic: true });
+  T(s, "A similar working model to the one we are discussing for energy and grid equipment.", { x: 8.9, y: 5.0, w: 3.6, h: 1.6, fontSize: 15, bold: true, color: C.ICE, valign: "middle", italic: true });
   ctx.src(s, SRC + " ulusoyrobotics.com");
 
   // 15 — Why Ulusoy today
   s = ctx.slide("LIGHT", SEC);
-  ctx.head(s, { eyebrow: "Group strengths", title: "Why Ulusoy today", sub: "Why TBEA can trust Ulusoy with market development." });
+  ctx.head(s, { eyebrow: "Group strengths", title: "Why Ulusoy today", sub: "What the group brings to a long-term partnership." });
   const wu = [["LuUsers", "Senior-level relationships", "Access to owners and decision-makers built over 89 years"],
     ["LuAnchor", "Infrastructure experience", "Ports, fleets, industrial plants, hotels — built and operated"],
     ["LuFactory", "Industrial customer access", "Long relationships across Turkish industry and logistics"],

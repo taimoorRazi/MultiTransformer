@@ -35,7 +35,7 @@ module.exports = async (ctx) => {
   // 31 — Integrated system
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Why TBEA fits", title: "One supplier for the whole electrical chain", tb: true,
-    sub: "Fewer interfaces, one technical responsibility, one commercial counterpart — a strong argument for Turkish developers and EPCs." });
+    sub: "Fewer interfaces, one technical responsibility and one commercial counterpart — relevant for Turkish developers and EPCs." });
   const chain = [["tbea_inverter.png", "Generation", "PV inverters · wind turbine transformers · towers"], ["tbea_mv_skid.png", "MV collection", "Step-up skids · RMUs · MV cables"],
     ["tbea_power_trafo.png", "Substation", "Power transformers · GIS · CT/VT"], ["tbea_relay.png", "Control", "Relays · automation · SCADA · EMS"],
     ["tbea_battery.png", "Storage", "LFP containers · PCS · BESS skids"], ["tbea_gis_550.png", "Transmission", "HV cables · conductors · GIS · HVDC equipment"]];
@@ -48,7 +48,7 @@ module.exports = async (ctx) => {
     T(s, d, { x: x + 0.12, y: 3.72, w: 1.68, h: 1.0, fontSize: 11, color: C.MUTED });
     if (i < 5) line(s, x + 1.9, 3.32, x + 2.05, 3.32, C.TB, 2, { end: "triangle" });
   });
-  T(s, "PROOF POINTS TURKISH BUYERS WILL ASK FOR", { x: MX, y: 5.05, w: 8, h: 0.28, fontSize: 10.5, bold: true, color: C.TB, charSpacing: 1.5 });
+  T(s, "REFERENCES TURKISH BUYERS TYPICALLY ASK FOR", { x: MX, y: 5.05, w: 8, h: 0.28, fontSize: 10.5, bold: true, color: C.TB, charSpacing: 1.5 });
   const pp = [["500,000 MVA", "annual transformer production capacity"], ["20,000+", "GIS bays delivered (72.5–800 kV)"], ["90+", "countries and regions served"], ["$30bn+", "overseas projects signed"], ["IEC · EN", "standards compliance across the portfolio"]];
   pp.forEach(([n, l], i) => {
     const x = MX + i * 2.45;
@@ -60,8 +60,8 @@ module.exports = async (ctx) => {
 
   // 32 — The equation
   s = ctx.slide("LIGHT_TB", SEC);
-  ctx.head(s, { eyebrow: "What Ulusoy adds", title: "Two halves of one route to market", tb: true,
-    sub: "TBEA brings what Ulusoy cannot build. Ulusoy brings what TBEA cannot easily build from China." });
+  ctx.head(s, { eyebrow: "What Ulusoy adds", title: "How our capabilities complement each other", tb: true,
+    sub: "TBEA's industrial strengths and Ulusoy's local strengths cover different parts of the same route to market." });
   const tb = ["Manufacturing", "Engineering", "Technology", "International references", "Scale", "Financing access"];
   const ul = ["Market intelligence", "Project origination", "Senior-level access", "EPC alliances", "Local commercial coordination", "Tender intelligence", "Local execution relationships", "Regional project pipeline"];
   rect(s, MX, 1.85, 3.6, 4.95, C.TB, { rounded: true, r: 0.06 });
@@ -75,13 +75,13 @@ module.exports = async (ctx) => {
   rect(s, 9.4, 1.85, 3.33, 4.95, C.TBL, { rounded: true, r: 0.06, line: { color: C.TB, width: 1.5 } });
   await ctx.iconCircle(s, "LuRepeat", 10.56, 2.2, 1.0, C.WHITE, C.TB);
   T(s, "COMBINED PLATFORM", { x: 9.6, y: 3.4, w: 2.93, h: 0.3, fontSize: 12, bold: true, color: C.TB, align: "center", charSpacing: 2 });
-  T(s, "A repeatable route to market", { x: 9.6, y: 3.75, w: 2.93, h: 0.9, fontSize: 20, bold: true, color: C.INK, align: "center" });
+  T(s, "A long-term route to market", { x: 9.6, y: 3.75, w: 2.93, h: 0.9, fontSize: 20, bold: true, color: C.INK, align: "center" });
   T(s, "Project after project, account after account — in Türkiye, the Balkans and the Middle East.", { x: 9.6, y: 4.75, w: 2.93, h: 1.3, fontSize: 12.5, color: C.MUTED, align: "center" });
 
   // 33 — Operating chain
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "What Ulusoy adds", title: "The operating chain: from first signal to the next project", tb: true,
-    sub: "Ulusoy is not a messenger between buyer and factory. We run the commercial process end to end — with TBEA." });
+    sub: "How the work could be shared, from the first market signal to after-sales." });
   const steps = [["LuRadar", "Market intelligence", "U"], ["LuTarget", "Opportunity origination", "U"], ["LuUsers", "Customer access", "U"], ["LuCpu", "Technical match", "J"], ["LuCoins", "EPC / financing structure", "J"],
     ["LuGavel", "Tender & negotiation", "J"], ["LuTruck", "Delivery", "T"], ["LuWrench", "Service", "J"], ["LuRepeat", "Next project", "U"]];
   const own = { U: ["Ulusoy leads", C.NAVY], T: ["TBEA leads", C.TB], J: ["Joint", C.BLUE] };
@@ -106,16 +106,16 @@ module.exports = async (ctx) => {
 
   // 34 — Not an intermediary
   s = ctx.slide("LIGHT_TB", SEC);
-  ctx.head(s, { eyebrow: "What Ulusoy adds", title: "Not an intermediary — a market-development layer", tb: true,
-    sub: "The difference matters for how TBEA should structure the relationship." });
+  ctx.head(s, { eyebrow: "What Ulusoy adds", title: "The working model we propose", tb: true,
+    sub: "Compared with transaction-based sales, the focus is a long-term market position for TBEA." });
   const cmp = [["Focus", "One transaction", "A multi-year pipeline of projects and accounts"], ["Where it starts", "After an RFQ is already issued", "Before the project is designed — at origination"],
-    ["Customer relationship", "Passes price messages", "Senior access and long-term account management"], ["Information for TBEA", "Little or none", "Market, tender and competitor intelligence shared with TBEA"],
-    ["After the sale", "Moves on", "Service coordination, spares, references and the next project"], ["Result for TBEA", "Occasional orders", "A durable, growing market position in the region"]];
+    ["Customer relationship", "Price and offer coordination", "Senior access and long-term account management"], ["Information for TBEA", "Limited", "Market, tender and competitor intelligence shared with TBEA"],
+    ["After the sale", "Relationship often ends", "Service coordination, spares, references and the next project"], ["Result for TBEA", "Individual orders", "A durable, growing market position in the region"]];
   const c1 = MX, c2 = 3.4, c3 = 7.3, rw = 12.73;
   rect(s, c2, 1.8, 3.75, 0.6, C.PALE, { rounded: true, r: 0.05 });
-  T(s, "Typical agent or trader", { x: c2, y: 1.8, w: 3.75, h: 0.6, fontSize: 14, bold: true, color: C.MUTED, align: "center", valign: "middle" });
+  T(s, "Transaction-based sales", { x: c2, y: 1.8, w: 3.75, h: 0.6, fontSize: 14, bold: true, color: C.MUTED, align: "center", valign: "middle" });
   rect(s, c3, 1.8, rw - c3, 0.6, C.TB, { rounded: true, r: 0.05 });
-  T(s, "Ulusoy as market-development partner", { x: c3, y: 1.8, w: rw - c3, h: 0.6, fontSize: 14, bold: true, color: C.WHITE, align: "center", valign: "middle" });
+  T(s, "Market-development model (proposed)", { x: c3, y: 1.8, w: rw - c3, h: 0.6, fontSize: 14, bold: true, color: C.WHITE, align: "center", valign: "middle" });
   cmp.forEach(([a, b, c], i) => {
     const y = 2.52 + i * 0.72;
     rect(s, c1, y, rw - c1, 0.64, i % 2 ? C.WHITE : C.PALE);

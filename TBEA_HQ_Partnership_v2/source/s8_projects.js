@@ -61,7 +61,7 @@ module.exports = async (ctx) => {
   let s = ctx.slide("DARK", SEC);
   img(s, "karnobat3.jpg", 8.2, 0, 5.133, 7.5, { fx: 0.4 });
   rect(s, 8.2, 0, 5.133, 7.5, C.NAVY, { transparency: 45 });
-  ctx.divider(s, "04", "Opportunities already in our network", "This is not theoretical.",
+  ctx.divider(s, "04", "Opportunities already in our network", "Real projects, at different stages.",
     "Live solar, storage and wind projects where TBEA products could be specified — in Bulgaria, North Macedonia and the Middle East.");
   T(s, "Karnobat solar site, Bulgaria (2026)", { x: 8.3, y: 7.08, w: 4.85, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 
@@ -99,7 +99,7 @@ module.exports = async (ctx) => {
   // 37 — Radilovo + Katselovo architecture & scope
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Bulgaria · Radilovo + Katselovo", title: "Electrical architecture and potential TBEA supply scope", tb: true,
-    sub: "From the solar array and battery container to the 220 kV grid connection — almost every block is a TBEA product family." });
+    sub: "From the solar array and battery container to the 220 kV grid connection — most blocks fall within TBEA product families." });
   let yb = arch(s, { lanes: [{ label: "SOLAR PV", blocks: [["PV mounting structures", "176 + 195 MW AC"], ["String inverters", ""], ["PV step-up transformers", "LV / 33 kV"]] },
     { label: "BATTERY STORAGE", blocks: [["LFP battery containers", "700 + 500 MWh"], ["Bidirectional PCS", "175 + 195 MW"], ["BESS step-up transformers", "LV / 33 kV"]] }],
     bus: { label: "33 kV collection: MV cables + switchgear" },
@@ -171,7 +171,7 @@ module.exports = async (ctx) => {
   });
   ctx.tag(s, "POTENTIAL TBEA SUPPLY — NOT SELECTED", MX, 6.2, 3.6);
   rect(s, 7.0, 5.6, 5.73, 1.2, C.PALE, { rounded: true, r: 0.06 });
-  T(s, [{ text: "Unique fit: ", options: { bold: true, color: C.TB } }, { text: "TBEA can supply from the steel tower to the 110 kV substation. A third site (Makedonski Brod) is at the wind-measurement stage; its capacity is not yet defined." }],
+  T(s, [{ text: "Portfolio fit: ", options: { bold: true, color: C.TB } }, { text: "TBEA's portfolio covers the steel tower through to the 110 kV substation. A third site (Makedonski Brod) is at the wind-measurement stage; its capacity is not yet defined." }],
     { x: 7.2, y: 5.6, w: 5.35, h: 1.2, fontSize: 12, valign: "middle" });
   ctx.src(s, "Source: project documentation held by Ulusoy's development partners (Oct 2026). Golem Kamen figures are preliminary.");
 
@@ -247,6 +247,6 @@ module.exports = async (ctx) => {
     T(s, st, { x: 11.1, y: y + 0.4, w: 1.5, h: 0.4, fontSize: 10, bold: true, color: i === 4 ? C.MID : C.TB, align: "right" });
   });
   rect(s, MX, 6.05, 6.7, 0.75, C.TBL, { rounded: true, r: 0.06 });
-  T(s, "Ulusoy already brings opportunities in four markets. A partnership turns these into a repeatable pipeline.", { x: MX + 0.2, y: 6.05, w: 6.35, h: 0.75, fontSize: 12.5, bold: true, color: C.TB, valign: "middle" });
+  T(s, "Opportunities in four markets that we would like to review together with TBEA's engineers.", { x: MX + 0.2, y: 6.05, w: 6.35, h: 0.75, fontSize: 12.5, bold: true, color: C.TB, valign: "middle" });
   ctx.src(s, "Source: project documentation (2026). Capacities are planned / working values; Karnobat includes 28.9 MW already operating. Map locations approximate; Middle East location indicative.");
 };
