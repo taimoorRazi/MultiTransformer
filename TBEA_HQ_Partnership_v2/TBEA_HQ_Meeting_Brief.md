@@ -55,9 +55,9 @@ By the end of the meeting, TBEA management should conclude:
 - Internal probability scoring, the pipeline dashboard, or how we rank opportunities.
 - Names of individual decision-makers, the strength of our relationships with them, or the customer database.
 - Competitor pricing or weaknesses.
-- Project-level confidential details: Karnobat company registration and permit numbers, the developer's financial-model figures (IRR, debt amounts, covenants), or draft contract terms for Radilovo/Katselovo.
+- Project-level confidential details: Karnobat company registration and permit numbers, the developer's financial-model figures (IRR, debt amounts, covenants), or draft contract terms for Radilovo/Katselovo. (The €185/MWh offtake offer and the expected EU grant **can** be shared: they are in the project letters, with the partner's agreement.)
 - The name of the Middle East country or client unless we have explicit permission.
-- The developer partner's company name (the decks are branded "Tanay Energy"), unless you have agreed in advance to disclose it.
+- The developer partner's personal name. The letters are written in Ulusoy's voice ("our partner"). Note that the offer translation does show the project company (Green Projects Development EOOD).
 
 **Avoid claiming:**
 - That TBEA is selected, approved or ordered on any project.
@@ -70,6 +70,8 @@ By the end of the meeting, TBEA management should conclude:
 - Questions about why we are not already working with another manufacturer. Answer: "We chose to approach TBEA first because of the portfolio fit."
 
 ---
+
+**Handouts:** the project letters print pack (three letters in English and Chinese, the offer translation and the original offer) can be handed over after the presentation, ideally once TBEA has named a contact. Do not hand over the full project presentations yet; offer them for the working session.
 
 ## 5. Likely objections
 

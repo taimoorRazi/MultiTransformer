@@ -75,9 +75,18 @@
 | 36–37 | Radilovo 176 MW AC / 175 MW / 700 MWh; Katselovo 195 MW AC / 195 MW / 500 MWh; total 371 MW AC, 370 MW / 1,200 MWh; 33/220 kV; 9,056 m and ~12.5 km lines to Aleko and Dve Mogili | 02_Bulgaristan_Radilovo_Katselovo_TBEA deck | Working values. Deck notes flag a DD figure of 175 MW for Radilovo PV versus 176 MW in feasibility. The user brief specifies 371 MW AC; keep "working values" wording. |
 | 38–39 | 150 MW total (28.9 existing + 121.1 new; 5 × 20 + 21.1); 45 MW / 90 MWh; 110 kV; 150 / 25 MW export/import; use permits 2023, 2025, 6 Oct 2026; MV/110 kV OLTC 98–123 kV; 3 CT + 3 VT; IEC 60870-5-104 | Karnobat_Energy_English deck (15 Nov 2026) | Permit numbers, company registration and manager name deliberately **not** shown. |
 | 39 | Developer has project-finance model (senior debt + equity) | Karnobat financial model presentation | No figures shown (model is 100 MW AC / 118 MWp PV-only; IRR, debt and model errors are internal). |
-| 40–41 | PLAKE 70 MW, 10 locations, 20 kV, 2 × 40 MVA 110/20 kV YNd11 ONAF, ACSR 240/40, 24 / 30 km routes; Golem Kamen 70 MW, 10 locations, 20 kV prelim., 80–100 MVA range, 110 or 220 kV; Makedonski Brod at measurement stage | 01_North_Macedonia_Wind_Projects_TBEA_EN deck | — |
+| 40–41 | PLAKE 70 MW, 10 locations, 20 kV, 2 × 40 MVA 110/20 kV YNd11 ONAF, ACSR 240/40, ~7 km line (partner confirmation, Nov 2026; earlier deck showed 24 / 30 km); Golem Kamen 70 MW, 10 locations, 20 kV prelim., 80–100 MVA range, 110 or 220 kV; Makedonski Brod at measurement stage, ~12 km grid line | 01_North_Macedonia_Wind_Projects_TBEA_EN deck | — |
 | 42–43 | 5 / 10 / 20 MW; 20 / 40 / 80 MWh; 7.007 / 14.014 / 28.028 MWp; 250 kW inverters 20 / 40 / 80; 3.15 MVA skids 2 / 4 / 8; ~5.016 MWh containers 5 / 10 / 20; 33/11 kV 2 × 6.3 / 12.5 / 25 MVA; 36 kV 25 kA; 55 °C; TB-S2000 50 °C limit; TS250 derating 208 kW at 50 °C | 03_Middle_East_Offgrid_TBEA_EN deck | Location not disclosed. |
 | 44 | ≈680 MW (371 + 150 + 140 + 20); ≈1.37 GWh (1,200 + 90 + 80) | Sum of the above | 20 MW / 80 MWh is the largest ME option. |
+
+## D2. Offtake offer and prices (slide 36, letters)
+
+| Fact | Source | Note |
+|---|---|---|
+| €185/MWh excl. VAT, 36 months, payment 15 days, valid 10 days | Ritam-4-TB OOD offer No. 352 E, 16.11.2026 | Original Bulgarian document in the print pack |
+| IBEX day-ahead: Sep 2026 ≈ €166, Oct 2026 ≈ €232/MWh; Nov days €184–349 | News reports of IBEX results (serbia-energy.eu, BTA, Novini247, EnergyinEU) | ibex.bg not directly accessible from the research environment; verify on ibex.bg |
+| 500 MWh EU grant expected; ~4.5-year payback | Partner's project letter | Partner estimates, not verified |
+| €54/MWh in Karnobat model | Karnobat financial model (Jul 2026) | Partner: based on last year's price levels |
 
 ## E. Images
 

@@ -540,12 +540,14 @@
 **Main message:** 371 MW AC of solar plus 370 MW / 1,200 MWh of battery storage, across two 220 kV substations, at development stage.
 
 **Script:**
-"Radilovo and Katselovo are two sites in Bulgaria, developed as one programme. Together they have 371 megawatts AC of solar and 370 megawatts with 1,200 megawatt-hours of battery storage. Each site has its own 33/220 kV substation and a 220 kV line: about 9 kilometres at Radilovo to the Aleko substation and about 12.5 kilometres at Katselovo to Dve Mogili. These are development-stage projects. The capacities are current working values, and the final design and suppliers are not yet fixed. That is exactly why the timing is right for TBEA."
+"Radilovo and Katselovo are two sites in Bulgaria, developed as one programme. Together they have 371 megawatts AC of solar and 370 megawatts with 1,200 megawatt-hours of battery storage. Each site has its own 33/220 kV substation and a 220 kV line: about 9 kilometres at Radilovo to the Aleko substation and about 12.5 kilometres at Katselovo to Dve Mogili. These are development-stage projects. The developer has received a three-year offtake offer at 185 euros per megawatt-hour from a licensed Bulgarian trader, and expects EU grant support for 500 megawatt-hours of the storage. The final design and suppliers are not yet fixed, which is why the timing is right for TBEA."
 
 **Detailed talking points (major slide):**
 - Be precise: "potential TBEA supply scope", not "TBEA project".
 - PV and battery power are separate figures, not a combined export capacity.
 - The photograph is a TBEA reference site, used for illustration.
+- **Offtake offer context:** IBEX day-ahead prices averaged about €166/MWh in September and €232/MWh in October 2026, so €185 for three years is credible. The project letter and offer translation in the print pack give the details.
+- **If asked about the Karnobat model's €54/MWh:** the partner explains it was based on last year's price levels; prices are much higher today. The model is deliberately cautious, so the project still works under very conservative prices.
 
 **Likely TBEA question:** "What is the project's status: permits, grid connection, financing?"
 **Suggested response:** "It is at development stage. We can share the detailed status, permits and timeline under NDA in the working session. What matters today is that the equipment specification is still open."
@@ -613,7 +615,7 @@
 **Main message:** Two 70 MW wind projects. PLAKE has defined specifications (2 × 40 MVA, 110/20 kV, ACSR line).
 
 **Script:**
-"In North Macedonia we have two wind projects of 70 megawatts each, PLAKE and Golem Kamen: 140 megawatts in total and 20 planned turbine locations. PLAKE is more advanced. It has a 20 kV collection system, two 40-MVA 110/20 kV main transformers and an overhead line on one of two alternative routes, 24 or 30 kilometres. Golem Kamen's figures are preliminary, with a 110 or 220 kV connection still being studied. A third site is at the wind-measurement stage. TBEA's portfolio also covers the steel towers, not only the substation."
+"In North Macedonia we have two wind projects of 70 megawatts each, PLAKE and Golem Kamen: 140 megawatts in total and 20 planned turbine locations. PLAKE is more advanced. It has a 20 kV collection system, two 40-MVA 110/20 kV main transformers and an overhead line of about 7 kilometres to the grid. Golem Kamen's figures are preliminary, with a 110 or 220 kV connection still being studied. A third site, Makedonski Brod, is at the wind-measurement stage, with a planned grid line of about 12 kilometres. TBEA's portfolio also covers the steel towers, not only the substation."
 
 **Likely TBEA question:** "Who supplies the turbines?"
 **Suggested response:** "Turbine selection is separate. Our focus with TBEA is the electrical balance of plant and, where it fits, towers. We will share the turbine status in the working session."
@@ -627,7 +629,7 @@
 **Main message:** For each turbine (tower, cables, step-up transformer) through the 20 kV collection to the 110 kV substation, TBEA has the product families.
 
 **Script:**
-"Each of the 20 turbine locations needs a tower, generator and nacelle cables, and a turbine step-up transformer. These feed a 20 kV collection system with XLPE cables and RMUs. At the substation, PLAKE's two 40-MVA main transformers step up to 110 kV, through switchgear and instrument transformers, onto the overhead line to Ohrid or Bitola. Secondary systems complete the scope."
+"Each of the 20 turbine locations needs a tower, generator and nacelle cables, and a turbine step-up transformer. These feed a 20 kV collection system with XLPE cables and RMUs. At the substation, PLAKE's two 40-MVA main transformers step up to 110 kV, through switchgear and instrument transformers, onto an overhead line of about 7 kilometres to the national grid. Secondary systems complete the scope."
 
 **Do not dwell:** It follows the same logic as Bulgaria.
 
@@ -643,6 +645,7 @@
 "This is an island power system for a site in the Middle East without a utility connection. There are three sizes: 5, 10 or 20 megawatts, with 20, 40 or 80 megawatt-hours of storage. The design is modular, so it can be repeated at other off-grid sites. We already see three engineering points to work on with TBEA. First, the site ambient temperature is 55 °C, while the catalogue limit for the battery container is 50 °C. Second, inverter derating at high temperature. Third, grid-forming PCS for a system with no utility grid."
 
 **Emphasise:** The engineering questions show technical seriousness, and they give TBEA engineers a reason to engage.
+**Talking point (if relevant):** our partner plans to assemble BESS and MV skids at its factories in İzmir and Manisa for export to the Middle East. This could become the local integration step described in Stage 3. Annual volumes would be defined jointly, based on confirmed demand.
 
 **Likely TBEA question:** "Which country, and who is the client?"
 **Suggested response:** "We have not shown the location in this presentation. We will share it with the responsible TBEA team once the project is registered."

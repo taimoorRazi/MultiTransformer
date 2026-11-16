@@ -215,6 +215,12 @@ Battery branch: `LFP containers (DC) → PCS (DC↔AC) → step-up transformer �
 
 ### Radilovo + Katselovo (Bulgaria)
 
+- **Offtake offer:** a licensed Bulgarian trader (Ritam-4-TB) offered **€185/MWh** excl. VAT for **36 months**, for the plant's solar output, paid within 15 days. The offer is dated 16 Nov 2026 and valid for 10 days. The partner says **€185 is the price for the next three years**.
+- **Market context (IBEX day-ahead, all-hours average):** Sep 2026 about **€166/MWh**, Oct 2026 about **€232/MWh**, single days in November **€184–349/MWh** (about €273 on the day the partner checked). So €185 fixed for three years is credible: a trader pays below spot to cover risk and margin.
+- **Caveat:** solar sells mostly at midday, when prices are lowest; in October the daytime average was slightly below the all-hours average. The fair benchmark is the full-year solar-hour price, not autumn averages.
+- **EU grant:** expected to cover **500 MWh** of the 1,200 MWh storage. This is "expected", not awarded.
+- **Partner's payback estimate:** about **4.5 years**, *if* the offer becomes a contract and the grant and battery-trading revenues are realised. Payback runs beyond the 3-year offer, so part depends on later market prices.
+
 - 176 + 195 = **371 MW AC PV**. 175 + 195 = **370 MW** battery power. 700 + 500 = **1,200 MWh**.
 - Radilovo is a **4-hour** battery, suited to energy shifting. Katselovo is about **2.6 h**.
 - Two separate **33/220 kV substations**. Lines: Radilovo → Aleko (9.1 km), Katselovo → Dve Mogili (about 12.5 km).
@@ -233,13 +239,14 @@ Battery branch: `LFP containers (DC) → PCS (DC↔AC) → step-up transformer �
   - The model covers a 100 MW AC / 118 MWp PV-only case: €73.8m capex, 65% senior debt (EURIBOR + 3.1%).
   - Project IRR is about 6% and sponsor IRR about 9.8%; minimum DSCR is 1.40×.
   - The model has known inconsistencies.
+  - **Why €54/MWh in the model:** the partner says it reflects last year's price levels. Prices are much higher now (see Radilovo below). If asked, call the model "deliberately cautious".
 
 ### PLAKE + Golem Kamen (North Macedonia)
 
 - 70 + 70 = **140 MW**, 20 turbine locations (about 7 MW per turbine).
-- **PLAKE:** 20 kV collection; **2 × 40 MVA, 110/20 kV, YNd11, ONAF**; ACSR 240/40 line on alternative routes of 24 km (Ohrid) or 30 km (Bitola 1).
+- **PLAKE:** 20 kV collection; **2 × 40 MVA, 110/20 kV, YNd11, ONAF**; ACSR 240/40 overhead line of **about 7 km** to the grid (confirmed by the partner, Nov 2026; an earlier presentation showed 24 / 30 km alternatives, which is outdated).
 - **Golem Kamen:** preliminary. Connection may be 110 kV or 220 kV; the 80–100 MVA figure is a substation range, not a single transformer rating.
-- Makedonski Brod / STARCI is at the measurement stage, with no capacity yet.
+- Makedonski Brod / STARCI is at the measurement stage, with no capacity yet; planned grid line **about 12 km**.
 - TBEA's portfolio covers wind towers, nacelle transformers and cables. That is a "full electrical balance-of-plant + towers" story.
 - The national TSO is **MEPSO**.
 

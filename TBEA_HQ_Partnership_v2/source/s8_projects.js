@@ -92,7 +92,7 @@ module.exports = async (ctx) => {
     });
   });
   rect(s, 6.15, 6.0, 6.58, 0.8, C.PALE, { rounded: true, r: 0.06 });
-  T(s, "Status: development stage. Capacities are the current working values in project documents; final design, equipment quantities and suppliers are not yet fixed.",
+  T(s, "Development stage. A 3-year offtake offer (€185/MWh) has been received, and EU grant support is expected for 500 MWh of the storage. Final design, quantities and suppliers are not yet fixed.",
     { x: 6.35, y: 6.0, w: 6.25, h: 0.8, fontSize: 11.5, color: C.MUTED, valign: "middle" });
   ctx.src(s, "Source: project documentation held by Ulusoy's development partners (2026). Capacities subject to final design and permits.");
 
@@ -155,7 +155,7 @@ module.exports = async (ctx) => {
     sub: "Two wind projects in the south-west of the country, with further sites in early development." });
   img(s, "tbea_wind2.png", 7.0, 1.85, 5.73, 3.3);
   T(s, "Illustrative: TBEA wind power reference site", { x: 7.0, y: 5.18, w: 5.73, h: 0.24, fontSize: 8.5, color: C.MUTED, italic: true });
-  const nm = [["PLAKE", "70 MW", [["Turbine locations", "10 planned"], ["Collection", "20 kV"], ["Main transformers", "2 × 40 MVA, 110/20 kV"], ["Grid line", "ACSR 240/40 · 24 km or 30 km route"]]],
+  const nm = [["PLAKE", "70 MW", [["Turbine locations", "10 planned"], ["Collection", "20 kV"], ["Main transformers", "2 × 40 MVA, 110/20 kV"], ["Grid line", "ACSR 240/40 · approx. 7 km"]]],
     ["GOLEM KAMEN", "70 MW", [["Turbine locations", "10 planned"], ["Collection", "20 kV (preliminary)"], ["Substation range", "80–100 MVA (preliminary)"], ["Connection", "110 kV or 220 kV option"]]]];
   nm.forEach(([n, c, rows], i) => {
     const x = MX + i * 3.2;
@@ -171,7 +171,7 @@ module.exports = async (ctx) => {
   });
   ctx.tag(s, "POTENTIAL TBEA SUPPLY — NOT SELECTED", MX, 6.2, 3.6);
   rect(s, 7.0, 5.6, 5.73, 1.2, C.PALE, { rounded: true, r: 0.06 });
-  T(s, [{ text: "Portfolio fit: ", options: { bold: true, color: C.TB } }, { text: "TBEA's portfolio covers the steel tower through to the 110 kV substation. A third site (Makedonski Brod) is at the wind-measurement stage; its capacity is not yet defined." }],
+  T(s, [{ text: "Portfolio fit: ", options: { bold: true, color: C.TB } }, { text: "TBEA's portfolio covers the steel tower through to the 110 kV substation. A third site (Makedonski Brod, approx. 12 km grid line) is at the wind-measurement stage; its capacity is not yet defined." }],
     { x: 7.2, y: 5.6, w: 5.35, h: 1.2, fontSize: 12, valign: "middle" });
   ctx.src(s, "Source: project documentation held by Ulusoy's development partners (Oct 2026). Golem Kamen figures are preliminary.");
 
@@ -181,8 +181,8 @@ module.exports = async (ctx) => {
     sub: "PLAKE is the more advanced project: its main transformer and line specifications are already defined." });
   yb = arch(s, { top: 2.7, lanes: [{ label: "EACH WIND TURBINE (20 LOCATIONS)", blocks: [["Steel tower", "20 locations"], ["Generator & nacelle cables", ""], ["Turbine step-up transformer", "LV / 20 kV"]] }],
     bus: { label: "20 kV collection: XLPE cables + switchgear / RMUs" },
-    right: [["Main power transformers", "PLAKE: 2 × 40 MVA"], ["110 kV switchgear + CT/VT", "GIS or AIS — open"], ["Overhead line", "ACSR 240/40"]],
-    grid: ["110 kV grid", "Ohrid or Bitola 1"], secondary: ["Transformer / line protection", "Substation automation", "AC/DC auxiliary power", "LV distribution panels"] });
+    right: [["Main power transformers", "PLAKE: 2 × 40 MVA"], ["110 kV switchgear + CT/VT", "GIS or AIS — open"], ["Overhead line", "ACSR 240/40 · ~7 km"]],
+    grid: ["110 kV grid", "MEPSO (national TSO)"], secondary: ["Transformer / line protection", "Substation automation", "AC/DC auxiliary power", "LV distribution panels"] });
   legend(s, yb + 0.3, "Golem Kamen: 110 kV or 220 kV connection still under study.");
   ctx.src(s, "Source: project documentation (Oct 2026); TBEA product portfolio. Potential scope only — no TBEA selection, approval or order exists.");
 
