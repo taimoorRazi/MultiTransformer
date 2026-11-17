@@ -13,7 +13,7 @@ module.exports = async (ctx) => {
   T(s, "Building a Regional Energy & Grid Partnership", { x: MX, y: 3.45, w: 5.6, h: 1.1, fontSize: 26, color: C.WHITE });
   T(s, "TÜRKİYE  ·  BALKANS  ·  MIDDLE EAST", { x: MX, y: 4.7, w: 5.6, h: 0.32, fontSize: 13, bold: true, color: C.MID, charSpacing: 3 });
   line(s, MX, 5.95, MX + 5.3, 5.95, C.DEEP, 0.75);
-  T(s, "Presented to TBEA management  ·  TBEA Headquarters, China  ·  November 2026", { x: MX, y: 6.08, w: 5.7, h: 0.3, fontSize: 11, color: C.MID });
+  T(s, "Presented to TBEA management  ·  Hengyang, China  ·  November 2026", { x: MX, y: 6.08, w: 5.7, h: 0.3, fontSize: 11, color: C.MID });
   T(s, "Confidential — prepared for discussion with TBEA", { x: MX, y: 6.42, w: 5.7, h: 0.26, fontSize: 9, color: "7E93A8", italic: true });
   T(s, "TBEA wind power reference site", { x: 6.75, y: 7.08, w: 6.3, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 

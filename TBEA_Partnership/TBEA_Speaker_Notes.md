@@ -1,4 +1,4 @@
-# TBEA HQ Presentation — Speaker Script (v2)
+# TBEA Meeting, Hengyang — Speaker Script
 
 **Deck:** Ulusoy - TBEA Partnership (57 slides, including 5 short section dividers)
 **Audience:** TBEA senior management and business-unit executives
@@ -6,6 +6,9 @@
 **Language:** Speak slowly and simply. Many listeners are non-native English speakers, and some may be following through an interpreter. Pause after every number.
 
 **If time is cut to 40 minutes, use this short path:** 1–4, 7, 12, 14–17, 19, 21, 24, 26–29, 31–33, 36, 38, 40, 42, 44, 45, 47, 50–52, 54, 56, 57. Skip the others and refer to them as "in your copy". Slides 19, 22 and 23 each have a one-sentence skim version.
+
+**The Hengyang angle**
+Hengyang is one of TBEA's main transformer manufacturing bases, so expect transformer specialists in the room. Where the slides touch transformers, slow down and invite their view, especially on slide 28 (154 kV connection substations: 154 kV transformers and the 170 kV equipment class) and on each project's main-transformer needs (slides 37, 39, 41, 43). The meeting brief has a one-page summary of the transformer needs across all projects.
 
 **Three rules for the whole meeting**
 1. Never say or imply that TBEA has been selected, approved or ordered on any project. The phrase to use is "potential TBEA supply scope".
@@ -20,7 +23,7 @@
 **Main message:** This is a strategic partnership proposal, not a company introduction.
 
 **Script:**
-"Good morning, and thank you for receiving us at TBEA headquarters. We have travelled here with one purpose. We believe Ulusoy and TBEA can build a long-term business together in Türkiye, the Balkans and the Middle East. Today we want to show you why we believe this, and to agree on the first practical steps."
+"Good morning, and thank you for receiving us here in Hengyang. It is a privilege to visit one of TBEA's major transformer manufacturing bases. We have travelled here with one purpose. We believe Ulusoy and TBEA can build a long-term business together in Türkiye, the Balkans and the Middle East. Today we want to show you why we believe this, and to agree on the first practical steps."
 
 **Emphasise:** The word *partnership* and the three regions. Thank the hosts by name and title, following Chinese protocol: the most senior host first.
 **Do not dwell:** Keep it to 30 seconds.
@@ -239,7 +242,7 @@
 **Main message:** Ulusoy is positioned between TBEA in China and demand in Türkiye, the Balkans, the Middle East and Central Asia.
 
 **Script:**
-"This operating history created relationships and capabilities. Today we apply the same platform to energy and industrial technology. On the right is TBEA in Xinjiang. On the left is Türkiye, our home market and the biggest opportunity. From Türkiye we already reach the Balkans, where we have live projects in Bulgaria and North Macedonia. We have long relationships in the Middle East, and Central Asia is a natural extension later."
+"This operating history created relationships and capabilities. Today we apply the same platform to energy and industrial technology. On the right is TBEA, headquartered in Xinjiang, with major manufacturing bases such as Hengyang, where we are today. On the left is Türkiye, our home market and the biggest opportunity. From Türkiye we already reach the Balkans, where we have live projects in Bulgaria and North Macedonia. We have long relationships in the Middle East, and Central Asia is a natural extension later."
 
 **Emphasise:** Türkiye first, then the region.
 **Do not dwell:** Do not over-promise Central Asia.

@@ -82,6 +82,8 @@ def map_platform():
     for dest in [(23.5, 42.6), (21.3, 41.6), (44.5, 30.5), (47.5, 24.5), (63.0, 41.0), (45.0, 41.8)]:
         arc(ax, (35.5, 39.0), dest, bend=0.18, color=BLUE, lw=1.8, ls=(0, (4, 3)), arrow=True)
     dot(ax, *cn, c=TBEA, s=90); dot(ax, 32.85, 39.93, c=NAVY, s=50)
+    ax.scatter([112.57], [26.89], s=150, c="white", zorder=8, edgecolors=TBEA, linewidths=1.5)
+    ax.text(111.3, 26.6, "Hengyang", fontsize=11, color="white", weight="bold", ha="right", va="center", zorder=9)
     ax.text(88.5, 38.6, "TBEA", fontsize=18, color="white", weight="bold", ha="left", zorder=9)
     ax.text(88.5, 36.6, "Xinjiang · China", fontsize=11, color="white", ha="left", zorder=9)
     label(ax, 35.5, 36.6, "TÜRKİYE", dx=0, dy=-1.9, size=15, c=NAVY, weight="bold", ha="center")

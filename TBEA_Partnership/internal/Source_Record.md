@@ -1,4 +1,4 @@
-# Source Record — Ulusoy × TBEA HQ Deck v2
+# Source Record — Ulusoy × TBEA Deck
 
 **Internal. Ulusoy only.** This file lists where every material number in the TBEA-facing deck comes from. The full market research pack, with all URLs and confidence notes, is in `Turkiye_Market_Research_Nov2026.md`.
 

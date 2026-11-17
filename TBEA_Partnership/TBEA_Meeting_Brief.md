@@ -1,7 +1,7 @@
-# TBEA HQ Meeting Brief — Ulusoy Delegation
+# TBEA Meeting Brief, Hengyang — Ulusoy Delegation
 
 **Internal. Ulusoy only. Do not share with TBEA.**
-Meeting: TBEA Headquarters, China · November 2026
+Meeting: TBEA, Hengyang (Hunan), China · November 2026
 Deck: Ulusoy - TBEA Partnership (57 slides; there is a 40-minute short path in the speaker notes)
 
 ---
@@ -23,6 +23,20 @@ By the end of the meeting, TBEA management should conclude:
 **An acceptable minimum:** a contact person and a follow-up date. Do not leave without at least this.
 
 ---
+
+### The Hengyang angle
+Hengyang is one of TBEA's main transformer manufacturing bases. The hosts will likely include the transformer business, so transformer needs are the most concrete topic we can bring. Across our projects:
+
+| Project | Transformer needs (confirmed or indicated) |
+|---|---|
+| Radilovo + Katselovo (BG) | Two 33/220 kV substations: main transformers (number and MVA still open; likely 150–250 MVA class); PV and BESS step-up transformers to 33 kV |
+| Karnobat (BG) | MV/110 kV step-up transformer with on-load tap changer (98–123 kV); step-up transformers for remaining PV phases and the 45 MW BESS |
+| PLAKE (MK) | 2 × 40 MVA, 110/20 kV, YNd11, ONAF (specified); turbine step-up transformers (20 locations) |
+| Golem Kamen (MK) | 80–100 MVA substation range, 110 or 220 kV (preliminary) |
+| Middle East off-grid | 2 × 6.3 / 12.5 / 25 MVA 33/11 kV OLTC transformers; 3.15 MVA 0.8/33 kV skid transformers (16 in the 20 MW option) |
+| Türkiye pipeline | 154/33 kV and 400/154 kV power transformers for renewable, storage, data-center and industrial-zone substations |
+
+**Questions for the Hengyang team:** which ratings and voltage classes are built here; experience with 154 kV systems (and 170 kV-class equipment); IEC type tests for those designs; export references in Europe and the Middle East; and current delivery slots for 154 kV and 220 kV-class units.
 
 ## 2. Five messages TBEA must remember
 

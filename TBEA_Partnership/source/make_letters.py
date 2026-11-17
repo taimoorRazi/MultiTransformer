@@ -8,7 +8,7 @@ from docx.oxml.ns import qn
 from docx.enum.text import WD_BREAK
 
 S = "/tmp/claude-0/-home-user-MultiTransformer/781dfe07-793a-5a60-ad45-b2b15a87b96b/scratchpad/"
-OUT = "/home/user/MultiTransformer/TBEA_HQ_Partnership_v2/letters/"
+OUT = "/home/user/MultiTransformer/TBEA_Partnership/letters/"
 os.makedirs(OUT, exist_ok=True); os.makedirs(S + "letters/html", exist_ok=True); os.makedirs(S + "letters/pdf", exist_ok=True)
 LOGO = S + "assets/ul_logo_blue.png"
 logo_b64 = base64.b64encode(open(LOGO, "rb").read()).decode()

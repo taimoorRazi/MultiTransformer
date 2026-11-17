@@ -1,4 +1,4 @@
-# TBEA Meeting — Knowledge Notes
+# TBEA Meeting, Hengyang — Knowledge Notes
 
 Background for answering follow-up questions. It is organised to follow the deck and is **internal only**. Slide numbers refer to the 57-slide version.
 
@@ -281,6 +281,7 @@ Battery branch: `LFP containers (DC) → PCS (DC↔AC) → step-up transformer �
 
 ## 9. TBEA quick facts (to speak their language)
 
+- **Meeting location: Hengyang (衡阳), Hunan.** TBEA Hengyang Transformer Co., Ltd. is one of TBEA's main transformer manufacturing bases, making large power transformers and reactors, including high-voltage and UHV units. Confirm the exact product range and voltage classes with the hosts.
 - **TBEA Co., Ltd.** is headquartered in Changji, Xinjiang, and is listed in Shanghai. Group revenue is about **$20bn** (2025) with 40,000+ employees.
 - **Four core industries:** electrical equipment; renewables (polysilicon via Xinte Energy; inverters; EPC); new materials (aluminium); traditional energy (coal, power).
 - **TBEA Electrical Equipment Group:** transformers, switchgear, cables, capacitors/reactors/SVG, and control and protection.
