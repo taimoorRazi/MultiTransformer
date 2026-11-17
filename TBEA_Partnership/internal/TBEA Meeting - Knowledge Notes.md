@@ -262,6 +262,13 @@ Battery branch: `LFP containers (DC) → PCS (DC↔AC) → step-up transformer �
 
 ---
 
+## 7b. Ulusoy honours (slide 6)
+
+- **Italy:** Saffet Ulusoy (1930–2012) was awarded the title of **Commendatore** by the Italian Republic for his international success in Ro-Ro transport (Anadolu Agency obituary, Feb 2012; also reported by Milliyet, NTV and others). Turkish media called it "Italy's highest honour"; in fact Commendatore is the third class of an Italian order, so do not repeat "highest". The exact order and year are not stated in the sources.
+- **Germany:** on 18 January 2002 he received a merit award in **Flensburg**, after Ulusoy's Ro-Ro vessel orders helped revive the city's struggling shipyard (biographical sources; medium confidence).
+- **Sweden:** a Swedish honour linked to Volvo (the Royal Order of the Polar Star, "North Star") is mentioned in family accounts, but **no public record was found**. Not on the slides. Ask the family for the certificate or a photo before using it.
+- **Volvo fact you can use:** Ulusoy Otomotiv was Volvo Trucks' distributor in Türkiye from 1980 until 2001, when Volvo set up its own Turkish company and Ulusoy became an authorised dealer.
+
 ## 8. Competitors (quick facts)
 
 | Company | What to know |

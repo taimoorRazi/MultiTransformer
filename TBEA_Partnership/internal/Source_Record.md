@@ -16,6 +16,7 @@
 | 4 | "16+ sectors" | Sector slide of the corporate deck (16 sectors listed, plus software, robotics, food trade and insurance) |
 | 4 | "50+ years of international business" | International TIR from 1973 |
 | 12, 14 | Lonyu Robot authorized distributor | Corporate deck, robotics slide (already public) |
+| 6 | Saffet Ulusoy: Italian Commendatore (Ro-Ro achievements); Flensburg merit award, 18 Jan 2002 | Anadolu Agency obituary (Feb 2012); Milliyet, NTV, Hürriyet obituaries; biyografi.net / BRT biographies. Flensburg award: medium confidence. Swedish Polar Star: **no public record found, not used** |
 | 11 | Çeşme Port, Trieste Gateway | Corporate deck. **Confirm current operating status before the meeting.** |
 
 ## B. Türkiye market (slides 19–24, 26, 28–29, 47)

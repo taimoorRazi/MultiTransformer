@@ -54,8 +54,13 @@ module.exports = async (ctx) => {
     img(s, f, x, 1.85, 2.3, 2.45, { fy: 0.3 });
     T(s, n, { x, y: 4.4, w: 2.35, h: 0.3, fontSize: 14, bold: true });
     T(s, y_, { x, y: 4.7, w: 2.35, h: 0.25, fontSize: 11, color: C.BLUE, bold: true });
-    T(s, d, { x, y: 5.0, w: 2.35, h: 1.6, fontSize: 11, color: C.MUTED });
+    T(s, d, { x, y: 5.0, w: 2.35, h: 1.02, fontSize: 11, color: C.MUTED });
   });
+  rect(s, MX, 6.12, 7.45, 0.74, C.PALE, { rounded: true, r: 0.06 });
+  await ctx.iconCircle(s, "LuAward", MX + 0.15, 6.2, 0.58, C.WHITE, C.BLUE);
+  T(s, [{ text: "International recognition: ", options: { bold: true, color: C.BLUE } },
+    { text: "Saffet Ulusoy was named Commendatore by the Italian Republic for international achievements in Ro-Ro transport, and was honoured in Flensburg, Germany (2002), for vessel orders that helped revive the city's shipyard." }],
+    { x: MX + 0.88, y: 6.12, w: 6.45, h: 0.74, fontSize: 10.5, color: C.INK, valign: "middle" });
   const ph = [["1920s – 1951", "Foundation", "A transport problem solved; coaching founded on punctuality."],
     ["1952 – 1994", "Expansion", "Freight, international TIR, tourism, Volvo distribution, shipping."],
     ["1995 – 2002", "Consolidation", "Companies united under one holding; industrial production added."],
@@ -67,7 +72,7 @@ module.exports = async (ctx) => {
     T(s, t, { x: x + 2.0, y: y + 0.1, w: 2.1, h: 0.3, fontSize: 14, bold: true, color: i === 3 ? C.WHITE : C.INK });
     T(s, d, { x: x + 0.25, y: y + 0.45, w: 3.85, h: 0.6, fontSize: 11.5, color: i === 3 ? C.ICE : C.MUTED });
   });
-  ctx.src(s, SRC);
+  ctx.src(s, SRC + " Honours: Anadolu Agency and national press obituaries (2012).");
 
   // 7 — Business evolution timeline
   s = ctx.slide("LIGHT", SEC);

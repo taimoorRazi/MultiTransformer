@@ -98,9 +98,10 @@ Hengyang is one of TBEA's main transformer manufacturing bases, so expect transf
 **Main message:** Long-term family ownership means decisions are made for decades.
 
 **Script:**
-"The second generation, the brothers you see here, took the business from a regional operator to a national and then international group. The four phases on the right show the logic: foundation, expansion, consolidation into a holding in 1995, and diversification since 2003. The point for TBEA is simple: we make decisions for decades, not quarters."
+"The second generation, the brothers you see here, took the business from a regional operator to a national and then international group. The four phases on the right show the logic: foundation, expansion, consolidation into a holding in 1995, and diversification since 2003. The point for TBEA is simple: we make decisions for decades, not quarters. Our partners abroad recognised this too. The Italian Republic named Saffet Ulusoy a Commendatore for his work on international Ro-Ro transport, and the city of Flensburg in Germany honoured him after our ship orders helped revive its shipyard."
 
 **Do not dwell:** Do not read the biographies.
+**Do not mention:** a Swedish award. It may be true, but there is no public record yet; add it only once the family provides the certificate.
 
 **Transition:** "Each phase built a capability that the next one used."
 

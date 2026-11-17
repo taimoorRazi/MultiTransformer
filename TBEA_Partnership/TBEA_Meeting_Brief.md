@@ -77,6 +77,7 @@ Hengyang is one of TBEA's main transformer manufacturing bases. The hosts will l
 - That TBEA is selected, approved or ordered on any project.
 - That capacities are final (they are working values).
 - That Siemens Energy has a Turkish transformer/GIS factory (unconfirmed). Say "Siemens: LV/MV switchgear in Gebze".
+- A Swedish (Volvo-related) honour for Saffet Ulusoy, until the family provides the certificate. The Italian Commendatore and the Flensburg award are documented and on slide 6. Do not call the Commendatore "Italy's highest honour".
 - Any precise current data-center MW figure (estimates conflict). Say "about 250 MW".
 
 **Handle carefully:**
