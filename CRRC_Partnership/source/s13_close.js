@@ -6,7 +6,7 @@ module.exports = async (ctx) => {
   let s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "3–5 year vision", title: "What success could look like", tb: true,
     sub: "Possible milestones, for discussion. We deliberately show no revenue forecast." });
-  const ph = [["YEAR 1", "First references", ["Ongoing project completed as a reference", "Registration mechanism in place", "Certification and bankability package", "First private orders won"], C.NAVY],
+  const ph = [["YEAR 1", "First references", ["First Turkish reference delivered", "Registration mechanism in place", "Certification and bankability package", "First private orders won"], C.NAVY],
     ["YEARS 2 – 3", "A repeatable pipeline", ["Several wind projects per year", "Local O&M team and spares", "Storage and solar alongside wind", "Local tower and blade partners"], C.BLUE],
     ["YEARS 3 – 5", "A regional platform", ["Nacelle assembly if justified", "YEKA participation", "Balkans and Middle East projects", "Strategic investment if justified"], C.TB]];
   ph.forEach(([y_, t, items, col], i) => {
@@ -68,7 +68,7 @@ module.exports = async (ctx) => {
   T(s, "CRRC  ×  ULUSOY", { x: MX, y: 1.8, w: 8, h: 0.4, fontSize: 14, bold: true, color: C.MID, charSpacing: 4 });
   T(s, "Thank you", { x: MX, y: 2.3, w: 10, h: 0.9, fontSize: 44, bold: true, color: C.WHITE });
   T(s, [{ text: "CRRC brings technology and industrial scale.", options: { breakLine: true } }, { text: "Ulusoy brings local market access and projects.", options: { breakLine: true } },
-    { text: "We look forward to building on our cooperation together.", options: { color: C.WHITE } }],
+    { text: "We look forward to building this together.", options: { color: C.WHITE } }],
     { x: MX, y: 3.45, w: 11, h: 1.8, fontSize: 22, color: C.ICE, paraSpaceAfter: 4 });
   T(s, "Türkiye  ·  Balkans  ·  Middle East", { x: MX, y: 5.6, w: 8, h: 0.35, fontSize: 15, color: C.MID, charSpacing: 2 });
   T(s, "“Everything on Time.” — since 1937", { x: MX, y: 6.55, w: 8, h: 0.35, fontSize: 13, italic: true, color: C.MID });

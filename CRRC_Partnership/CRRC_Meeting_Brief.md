@@ -3,7 +3,7 @@
 **Classification:** Ulusoy internal. Do not hand this document to CRRC.
 **Meeting:** Ulusoy × CRRC senior executives, Zhuzhou, China, November 2026
 **Deck:** Ulusoy - CRRC Partnership (59 slides). Script: CRRC_Speaker_Notes.md and the rehearsal PDF.
-**How the meeting came about:** Cem Bey's senior-level contact with CRRC executives, building on the ongoing wind project with CRRC Wind in Türkiye.
+**How the meeting came about:** Cem Bey's senior-level contact with CRRC executives, alongside the existing wind project with CRRC Wind in Türkiye. **That project gets one slide (37) and a short thank-you; it is not the theme of the presentation.**
 
 ---
 
@@ -29,9 +29,9 @@ What we do **not** need today: exclusivity, a signed agreement, prices or commis
 
 ## 2. Five messages CRRC must remember
 
-1. **We already work together.** The ongoing wind project is the foundation; this is the next step, not a cold introduction.
+1. **Ulusoy is a long-term partner**: an 89-year family group with senior access, logistics, energy experience and real projects in the region.
 2. **Türkiye is a large and growing wind market** (record 2.1 GW in 2025, 63 GW targeted by 2040), and the private segment is open now.
-3. **The first Turkish reference is everything.** Our ongoing project can be that reference.
+3. **The first Turkish reference is everything.** One well-delivered project opens the private market.
 4. **Ulusoy brings accounts before the tender**: origination, senior access, EPCs, logistics and service coordination.
 5. **A staged, protected model**: market development → market execution → localization, each earned by results. No exclusivity demanded today, no factory on day one.
 
@@ -52,7 +52,7 @@ Ask for these as **suggestions** (slide 58), not demands.
 ## 4. Sensitive topics to avoid
 
 **Never say in the room:**
-- **The name of the ongoing project, its site, customer, capacity, price or schedule.** Call it "our ongoing wind project with CRRC Wind in Türkiye". If CRRC names it, follow their lead, but do not add details.
+- **The name of the ongoing project, its site, customer, capacity, price or schedule.** On slide 37, call it "a wind project with CRRC Wind in Türkiye". If CRRC names it, follow their lead, but do not add details.
 - Individual decision-makers, private accounts or relationship strength in Türkiye.
 - Commission, margins, exclusivity terms or our negotiation position.
 - Internal probability scoring or our research method.
@@ -127,7 +127,7 @@ If pushed: "These are important. We suggest preparing a draft together for the w
 
 ## 9. Recommended meeting closing
 
-1. Summarise in three lines: we already work together; the private market is open now; a staged, protected model.
+1. Summarise in three lines: a long-term local partner; the private market is open now; a staged, protected model.
 2. Restate the three requests: a contact team, a working-session date and agreement in principle to registration.
 3. Ask directly but politely: "Would it be possible to agree today on a contact person and a date for the working session?"
 4. Thank the hosts again, most senior first. Thank those who made the meeting possible (Cem Bey's counterparts).

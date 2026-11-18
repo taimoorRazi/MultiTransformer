@@ -40,11 +40,11 @@ def map_projects_crrc():
         off = {"Radilovo": (0.0, -1.15, "center"), "Katselovo": (0.5, 0.35, "left"), "Karnobat": (0.55, -0.25, "left")}[n]
         ax.text(x + off[0], y + off[1], n, fontsize=11, color=INK, weight="bold", ha=off[2], zorder=9)
     ax.text(20.2, 39.7, "PLAKE ·\nMakedonski Brod", fontsize=11, color=INK, weight="bold", ha="center", va="top", zorder=9)
-    # Türkiye: ongoing CRRC wind project (location not shown) + pipeline
+    # Türkiye: wind pipeline
     for x, y in [(27.2, 41.4), (27.4, 38.7), (31.8, 37.2), (36.2, 36.9), (37.6, 39.6)]:
         ax.scatter([x], [y], s=150, facecolors="none", edgecolors="white", linewidths=2.0, zorder=7)
     ax.text(33.6, 38.75, "TÜRKİYE", fontsize=14, color="white", weight="bold", ha="center", zorder=9)
-    ax.text(33.6, 38.0, "ongoing project + pipeline", fontsize=10, color=MID, ha="center", zorder=9)
+    ax.text(33.6, 38.0, "wind pipeline", fontsize=10, color=MID, ha="center", zorder=9)
     ax.text(25.6, 44.6, "BULGARIA", fontsize=10, color=BLUE, weight="bold", ha="center", zorder=9)
     ax.scatter([44.5], [30.6], s=520, facecolors="none", edgecolors="#E4572E", linewidths=2.2, zorder=7, ls=(0, (3, 2)))
     dot(ax, 44.5, 30.6, c="#E4572E", s=40, ring=False)

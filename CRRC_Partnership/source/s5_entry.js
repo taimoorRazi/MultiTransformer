@@ -93,7 +93,7 @@ module.exports = async (ctx) => {
     T(s, items.map((t, j) => ({ text: t, options: { bullet: true, breakLine: j < items.length - 1 } })), { x: x + 0.25, y: 3.72, w: 3.5, h: 2.4, fontSize: 12.5, paraSpaceAfter: 6 });
   });
   rect(s, MX, 6.33, 12.133, 0.55, C.WHITE, { line: { color: C.TB, width: 1 }, rounded: true, r: 0.06 });
-  T(s, [{ text: "The first Turkish reference is the key: ", options: { bold: true, color: C.TB } }, { text: "our ongoing wind project with CRRC Wind can become that reference for every following private buyer." }],
+  T(s, [{ text: "The first Turkish reference is the key: ", options: { bold: true, color: C.TB } }, { text: "one well-delivered project becomes the reference for every following private buyer." }],
     { x: MX + 0.25, y: 6.33, w: 11.7, h: 0.55, fontSize: 12, valign: "middle" });
   ctx.src(s, "Sources: Electricity Market Licence Regulation (Oct 2023 amendment); TÜREB/TWEA fleet survey (2025); CRRC (D175 first unit Jun 2026; D195 TÜV SÜD certified Sep 2026).");
 

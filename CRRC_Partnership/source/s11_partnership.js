@@ -14,7 +14,7 @@ module.exports = async (ctx) => {
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Partnership model", title: "Three stages — each one earned by the results of the last", tb: true,
     sub: "We are not asking for exclusivity on all CRRC products today. We are proposing a structure that grows with proven demand." });
-  const st = [["STAGE 1", "Market development", "Now – 12 months", ["Complete the ongoing project as a reference", "Register and pursue first private projects", "Bankability and certification package", "Win the first orders"], C.NAVY],
+  const st = [["STAGE 1", "Market development", "Now – 12 months", ["Deliver a first Turkish reference", "Register and pursue first private projects", "Bankability and certification package", "Win the first orders"], C.NAVY],
     ["STAGE 2", "Market execution", "Years 1 – 3", ["Repeatable wind pipeline", "Local O&M and spare parts", "Storage and solar alongside wind", "Local tower and blade partners"], C.BLUE],
     ["STAGE 3", "Localization", "When volume justifies", ["Nacelle assembly in Türkiye", "Access to YEKA tenders", "Selected local manufacturing", "Regional supply platform"], C.TB]];
   st.forEach(([n, t, w, items, col], i) => {

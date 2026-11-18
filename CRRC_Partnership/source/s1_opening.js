@@ -20,7 +20,7 @@ module.exports = async (ctx) => {
   // 2 — Why we are here
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Purpose of this meeting", title: "Why we are here",
-    sub: "To build on our ongoing cooperation, and explore a long-term business together in our region." });
+    sub: "To explore a long-term business together in Türkiye, the Balkans and the Middle East." });
   const py = 1.95, ph = 3.45;
   // CRRC panel
   rect(s, MX, py, 5.0, ph, C.TB, { rounded: true, r: 0.06 });
@@ -39,7 +39,7 @@ module.exports = async (ctx) => {
   T(s, "MARKET ACCESS", { x: ux + 0.4, y: py + 0.85, w: 4.2, h: 0.3, fontSize: 12, bold: true, color: C.MID, charSpacing: 2 });
   T(s, [
     { text: "89 years of relationships in Türkiye", options: { bullet: true, breakLine: true } },
-    { text: "An ongoing wind project with CRRC Wind", options: { bullet: true, breakLine: true } },
+    { text: "Access to developers, EPCs and industry", options: { bullet: true, breakLine: true } },
     { text: "Real projects and a regional pipeline", options: { bullet: true, breakLine: true } },
     { text: "Local commercial and execution layer", options: { bullet: true } }],
     { x: ux + 0.4, y: py + 1.4, w: 4.3, h: 1.85, fontSize: 16, color: C.WHITE, paraSpaceAfter: 6 });
@@ -61,7 +61,7 @@ module.exports = async (ctx) => {
     ["Who Ulusoy is", "Nearly nine decades of operating history and partnerships"],
     ["Why Türkiye matters now", "A structural electricity and grid investment cycle"],
     ["Where CRRC can enter", "The realistic entry routes for wind, solar and storage"],
-    ["Opportunities in our network", "An ongoing wind project, plus projects in Bulgaria, North Macedonia and the Middle East"],
+    ["Opportunities in our network", "Wind, solar and storage projects in Türkiye, North Macedonia, Bulgaria and the Middle East"],
     ["Partnership model", "A staged, protected, long-term structure"],
     ["Next steps", "What we suggest as practical next steps"]];
   const sx = MX + 0.1, gap = 2.02, cy = 2.3;
@@ -74,7 +74,7 @@ module.exports = async (ctx) => {
     T(s, d, { x: x - 0.1, y: cy + 2.05, w: 1.8, h: 1.4, fontSize: 13, color: C.MUTED });
   });
   rect(s, MX, 6.0, 12.133, 0.72, C.PALE, { rounded: true, r: 0.06 });
-  T(s, "Our aim today: share our view, hear CRRC's view, and agree how to take our cooperation further.",
+  T(s, "Our aim today: share our view, hear CRRC's view, and agree practical next steps.",
     { x: MX + 0.4, y: 6.0, w: 11.4, h: 0.72, fontSize: 15, bold: true, color: C.DEEP, valign: "middle" });
 };
 function W_(w) { return w; }

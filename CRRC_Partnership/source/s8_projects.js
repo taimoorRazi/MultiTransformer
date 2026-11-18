@@ -58,8 +58,8 @@ module.exports = async (ctx) => {
   let s = ctx.slide("DARK", SEC);
   img(s, "karnobat3.jpg", 8.2, 0, 5.133, 7.5, { fx: 0.4 });
   rect(s, 8.2, 0, 5.133, 7.5, C.NAVY, { transparency: 45 });
-  ctx.divider(s, "04", "Opportunities already in our network", "An ongoing project together — and real projects at different stages.",
-    "A wind project with CRRC Wind in Türkiye, plus wind, solar and storage projects in North Macedonia, Bulgaria and the Middle East.");
+  ctx.divider(s, "04", "Opportunities already in our network", "Real projects at different stages — wind, solar and storage.",
+    "Wind in Türkiye and North Macedonia; solar and storage in Bulgaria and the Middle East.");
   T(s, "Karnobat solar site, Bulgaria (2026)", { x: 8.3, y: 7.08, w: 4.85, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 
   // Ongoing cooperation
@@ -265,9 +265,9 @@ module.exports = async (ctx) => {
   // Regional map
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Regional view", title: "Opportunities beyond a single country", tb: true,
-    sub: "An ongoing wind project in Türkiye, 127 MW of wind in North Macedonia and 500+ MW of solar with ≈1.37 GWh of storage." });
+    sub: "A Türkiye wind pipeline, 127 MW of wind in North Macedonia and 500+ MW of solar with ≈1.37 GWh of storage." });
   img(s, "map_projects_crrc.png", MX - 0.2, 1.7, 7.4, 4.16, { contain: true });
-  const rows = [["2BB673", "Ongoing wind project", "Türkiye", "CRRC Wind turbines · with Ulusoy", "In progress"],
+  const rows = [["2BB673", "Wind pipeline", "Türkiye", "Capacity extensions · repowering · hybrid", "Developing"],
     ["2BB673", "PLAKE + Makedonski Brod", "North Macedonia", "127 MW wind · 20 turbines", "Development"],
     ["F2A900", "Radilovo + Katselovo", "Bulgaria", "371 MW PV · 370 MW / 1,200 MWh BESS", "Development"],
     ["F2A900", "Karnobat", "Bulgaria", "150 MW PV · 45 MW / 90 MWh BESS", "Operating + expanding"],

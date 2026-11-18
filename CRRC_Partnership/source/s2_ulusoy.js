@@ -185,7 +185,7 @@ module.exports = async (ctx) => {
   const pc = [["LuBus", "Neoplan", "1983", "Coach distributor for Türkiye"], ["LuAnchor", "Çeşme Port", "2003", "Privatization concession — port operator"],
     ["LuLandmark", "Trieste Gateway", "2011", "Italian company with majority holding in Trieste Intermodal Maritime"],
     ["LuShip", "Chinese shipyards", "2008", "Dry-cargo vessels built in China"], ["LuBot", "Lonyu Robot", "Today", "Authorized distributor in Türkiye for a Chinese heavy-load AGV manufacturer"],
-    ["LuWind", "CRRC Wind", "2026", "Ongoing wind project cooperation in Türkiye"]];
+    ["LuZap", "İlk Elektrik", "2010", "Licensed hydroelectric generation company"]];
   for (let i = 0; i < pc.length; i++) {
     const [ic, n, y_, d] = pc[i];
     const x = 5.55 + (i % 2) * 3.62, y = 1.85 + Math.floor(i / 2) * 1.66;

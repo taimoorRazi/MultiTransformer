@@ -11,13 +11,13 @@
 Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbines, converters, IGBTs and solar and storage products. Expect wind-turbine engineers and power-electronics specialists in the room. Slow down and invite their view on the turbine platforms (slides 28, 32 and 38–39), the battery and PCS ratings for hot climates (slide 44), and the grid-forming PCS question (slides 44–45).
 
 **What is different from the TBEA meeting**
-1. **We are not strangers.** Ulusoy and CRRC Wind already have an ongoing wind project in Türkiye, and Cem Bey's senior-level contact set up this meeting. Open with gratitude for that, and present today as the next step of an existing relationship.
+1. **The existing relationship gets one slide (slide 37).** Ulusoy and CRRC Wind already work together on a wind project in Türkiye, and Cem Bey's senior-level contact set up this meeting. Mention it there, briefly and with thanks. The rest of the presentation stands on its own: Ulusoy, the market and the opportunities.
 2. **The product is the wind turbine.** Grid equipment is secondary. Speak about turbines, bankability, service and local content.
 3. **CRRC has done local manufacturing in Türkiye before**, through the CRRC MNG rail plant near Ankara. Use it as a compliment, not as a lecture.
 
 **Rules for the whole meeting**
-1. **Do not name the ongoing project**, its site, its customer or its capacity. Call it "our ongoing wind project with CRRC Wind in Türkiye". If CRRC people name it themselves, you may follow their lead, but do not add details.
-2. Never say or imply that CRRC has been selected, approved or ordered on any project other than the ongoing one. The phrase to use is "potential CRRC supply scope".
+1. **Do not name the existing project**, its site, its customer or its capacity. On slide 37, call it "a wind project with CRRC Wind in Türkiye". If CRRC people name it themselves, you may follow their lead, but do not add details.
+2. Never say or imply that CRRC has been selected, approved or ordered on any project other than the existing one. The phrase to use is "potential CRRC supply scope".
 3. Do not name individual decision-makers or private accounts in Türkiye. Named accounts are shared after the registration mechanism is agreed.
 4. Do not discuss commission, margins or exclusivity terms in this meeting. The aim is a contact team and a working session.
 5. Keep the tone factual and modest. Let the facts speak; avoid superlatives and pressure.
@@ -26,12 +26,12 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 
 ## Slide 1 — Cover: CRRC × Ulusoy — Building a Regional Renewable Energy Partnership
 
-**Main message:** This is the next step in a relationship that already exists, not a cold introduction.
+**Main message:** This is a strategic partnership proposal, not a company introduction.
 
 **Script:**
-"Good morning, and thank you for receiving us here in Zhuzhou. It is a privilege to visit the home of CRRC's wind, power-electronics and energy businesses. We come as partners who are already working together on a wind project in Türkiye. Today we want to share how we see the next steps: how we can take this cooperation from one project to a long-term business in Türkiye, the Balkans and the Middle East."
+"Good morning, and thank you for receiving us here in Zhuzhou. It is a privilege to visit the home of CRRC's wind, power-electronics and energy businesses. We have travelled here with one purpose. We believe Ulusoy and CRRC can build a long-term business together in Türkiye, the Balkans and the Middle East. Today we want to show you why we believe this, and to agree on the first practical steps."
 
-**Emphasise:** *Already working together*, and the three regions. Thank the hosts by name and title, following Chinese protocol: the most senior host first. Thank the people who made the meeting possible.
+**Emphasise:** The word *partnership* and the three regions. Thank the hosts by name and title, following Chinese protocol: the most senior host first. Thank the people who made the meeting possible.
 **Do not dwell:** Keep it to 30–40 seconds.
 
 **Transition:** "Let me first explain in one picture why we are here."
@@ -42,12 +42,12 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 
 ## Slide 2 — Why we are here
 
-**Main message:** CRRC has industrial capability; Ulusoy has local market access. We already work together and would like to build on that.
+**Main message:** CRRC has industrial capability; Ulusoy has local market access. We would like to explore building a long-term business together.
 
 **Script:**
-"On the left is CRRC. You make wind turbines from five to more than twelve megawatts onshore, and you make the key parts yourself, from the IGBT chip to the tower. You also make solar inverters, storage systems and hydrogen power supplies, with global references and scale. On the right is Ulusoy. We have 89 years of relationships in Türkiye, an ongoing wind project with CRRC Wind, real projects in the region, and a local commercial and execution team. Our interest is not a single transaction. We would like to build a long-term regional business together in wind, solar and storage, step by step, project by project."
+"On the left is CRRC. You make wind turbines from five to more than twelve megawatts onshore, and you make the key parts yourself, from the IGBT chip to the tower. You also make solar inverters, storage systems and hydrogen power supplies, with global references and scale. On the right is Ulusoy. We have 89 years of relationships in Türkiye, access to developers, EPC contractors and industrial groups, real projects in the region, and a local commercial and execution team. Our interest is not a single transaction. We would like to build a long-term regional business together in wind, solar and storage, step by step, project by project."
 
-**Emphasise:** Complementary, already working, long-term.
+**Emphasise:** Complementary, long-term, step by step.
 **Do not dwell:** Do not list the projects yet.
 
 **Transition:** "Let me show how we have organised today's discussion."
@@ -62,7 +62,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** One continuous story, and a two-way discussion.
 
 **Script:**
-"We will go through six steps. First, who Ulusoy is. Some of you already know us through our project, but not all of you. Second, why Türkiye matters now, especially for wind. Third, where we think CRRC can realistically enter. Fourth, the opportunities in our network, starting with the project we are already doing together. Fifth, how a partnership could be structured. And finally, some practical next steps. Our aim is to share our view, hear yours, and agree how to take our cooperation further."
+"We will go through six steps. First, who Ulusoy is, because you need to know who you would be working with. Second, why Türkiye matters now, especially for wind. Third, where we think CRRC can realistically enter. Fourth, the opportunities in our network: wind, solar and storage projects in four markets. Fifth, how a partnership could be structured. And finally, some practical next steps. Our aim is to share our view, hear yours, and agree practical next steps."
 
 **Transition:** "Let me start with who we are."
 
@@ -187,12 +187,12 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 
 ## Slide 12 — Long-term partnerships with international brands
 
-**Main message:** Ulusoy has represented foreign brands for decades, now works with a Chinese manufacturer, and already works with CRRC Wind.
+**Main message:** Ulusoy has represented foreign brands such as Volvo and Neoplan, and now a Chinese manufacturer, for decades. That includes sales, service, spares and reputation.
 
 **Script:**
-"From 1981 Ulusoy was Türkiye's general distributor for Volvo trucks, construction vehicles and coaches. In 1994 we formed a joint company with Swedish capital. We were also the Neoplan distributor and built showrooms, workshops and a service network. Today Ulusoy Robotics is the authorized distributor of Lonyu Robot, a Chinese AGV manufacturer. And the last card on this slide is the one that matters most today: our ongoing wind project with CRRC Wind. We understand what it means to carry another company's name in our market. When a turbine stops at two in the morning, the partner has to answer the phone."
+"From 1981 Ulusoy was Türkiye's general distributor for Volvo trucks, construction vehicles and coaches. In 1994 we formed a joint company with Swedish capital. We were also the Neoplan distributor and built showrooms, workshops and a service network. Today Ulusoy Robotics is the authorized distributor of Lonyu Robot, a Chinese AGV manufacturer. We understand what it means to carry another company's name in our market. When a turbine stops at two in the morning, the partner has to answer the phone."
 
-**Emphasise:** The length of these partnerships, and the CRRC Wind card at the end. Pause on it.
+**Emphasise:** The length of these partnerships. Volvo is the strongest example.
 **Do not dwell:** Do not discuss why the Volvo relationship ended, if it comes up. Keep it positive.
 
 **Likely CRRC question:** "Why did the Volvo distributorship end?"
@@ -223,7 +223,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** Ulusoy already works day to day with a Chinese industrial manufacturer in Türkiye.
 
 **Script:**
-"Ulusoy Robotics brings industrial robotics and heavy-duty AGVs to Turkish factories. We are the authorized distributor of Lonyu Robot. In practice, we introduce the technology, qualify the customer, coordinate engineering with the factory in China, and support the customer locally. It is a similar working model to the one we use with CRRC Wind today, and the one we would like to extend to wind, solar and storage."
+"Ulusoy Robotics brings industrial robotics and heavy-duty AGVs to Turkish factories. We are the authorized distributor of Lonyu Robot. In practice, we introduce the technology, qualify the customer, coordinate engineering with the factory in China, and support the customer locally. It is a similar working model to the one we would like to discuss with CRRC for wind, solar and storage."
 
 **Emphasise:** Practical experience of working with a Chinese factory's engineering team.
 
@@ -269,7 +269,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Emphasise:** The two-way flow: market information comes back to CRRC.
 
 **Likely CRRC question:** "CRRC already has an international sales organisation. Why do we need this layer?"
-**Suggested response:** "Your international team is strong in markets where CRRC is established. In Türkiye, wind buyers are mostly private Turkish groups. They decide through long relationships, local references and trust in after-sales service. Our role is not to replace CRRC's team. It is to give it a local market-development arm with access it does not have today, as we are already doing on our current project."
+**Suggested response:** "Your international team is strong in markets where CRRC is established. In Türkiye, wind buyers are mostly private Turkish groups. They decide through long relationships, local references and trust in after-sales service. Our role is not to replace CRRC's team. It is to give it a local market-development arm with access it does not have today."
 
 **Transition:** "Before we talk about projects, let me show why Türkiye matters now."
 
@@ -414,9 +414,9 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** The private market chooses turbines on price, delivery and bankability. That suits CRRC.
 
 **Script:**
-"The first route. Licensed wind farms in Türkiye can add capacity under the 2023 rules. About 30 percent of Türkiye's wind capacity is turbines under 3 megawatts, so repowering will come. And new private projects outside YEKA have no mandatory local-content points. These owners choose turbines on price, delivery slots and bankability. CRRC's 6.25 megawatt D175 and 7.15 megawatt D195 platforms fit this market, together with the converter, the nacelle transformer and long-term service. What it takes: type certificates, power curves and warranties that lenders accept, grid-code compliance, local service and good logistics. And the key point at the bottom: the first Turkish reference. Our ongoing project can become that reference for every private buyer that follows."
+"The first route. Licensed wind farms in Türkiye can add capacity under the 2023 rules. About 30 percent of Türkiye's wind capacity is turbines under 3 megawatts, so repowering will come. And new private projects outside YEKA have no mandatory local-content points. These owners choose turbines on price, delivery slots and bankability. CRRC's 6.25 megawatt D175 and 7.15 megawatt D195 platforms fit this market, together with the converter, the nacelle transformer and long-term service. What it takes: type certificates, power curves and warranties that lenders accept, grid-code compliance, local service and good logistics. And the key point at the bottom: the first Turkish reference. One well-delivered project becomes the reference for every private buyer that follows."
 
-**Emphasise:** The first reference. Pause and look at the CRRC Wind leaders.
+**Emphasise:** The first reference.
 **Do not dwell:** Do not quote turbine prices.
 
 **Transition:** "The second route is storage."
@@ -502,7 +502,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** A clear division of work, from the first signal to the next project.
 
 **Script:**
-"Nine steps. Ulusoy leads the first three: market intelligence, origination and customer access. The technical match, EPC and financing structure, and tender and negotiation are joint. CRRC leads delivery. Service is joint. And then Ulusoy leads the next project with the same customer or EPC. Each completed project becomes a reference and the start of the next one. This is how we are already working on our current project."
+"Nine steps. Ulusoy leads the first three: market intelligence, origination and customer access. The technical match, EPC and financing structure, and tender and negotiation are joint. CRRC leads delivery. Service is joint. And then Ulusoy leads the next project with the same customer or EPC. Each completed project becomes a reference and the start of the next one."
 
 **Emphasise:** The loop back to the next project.
 
@@ -526,7 +526,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 ## Slide 36 — Section 04: Opportunities already in our network
 
 **Script:**
-"Section four. An ongoing project together, and real projects at different stages: wind in Türkiye and North Macedonia, solar and storage in Bulgaria and the Middle East."
+"Section four. Real projects at different stages: wind in Türkiye and North Macedonia, solar and storage in Bulgaria and the Middle East."
 
 **Do not dwell:** 10 seconds.
 
@@ -534,12 +534,12 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 
 ## Slide 37 — An ongoing wind project with CRRC Wind in Türkiye
 
-**Main message:** This meeting builds on real work that is already happening.
+**Main message:** A working relationship already exists. Acknowledge it briefly, then move on to the opportunities.
 
 **Script:**
-"I want to start with what we are already doing together. Ulusoy and CRRC Wind are developing a wind project in Türkiye. A working channel exists: leadership, commercial and technical contacts are already active. Ulusoy's role is the customer relationship, local coordination and the technical-commercial process in Türkiye. This project is a reference in the making. A first CRRC Wind project in Türkiye makes every following project easier to win. And what we learn now, on bankability documents, grid-code compliance, logistics and service, we learn once and reuse. Finally, the senior-level dialogue between Ulusoy's leadership and CRRC's executives has already opened the door to today's meeting, and we are very grateful for that."
+"Before the projects, a short word on what already connects us. Ulusoy and CRRC Wind are working together on a wind project in Türkiye, and the contacts between our teams are active. We are grateful for the senior-level dialogue that made today's meeting possible. A first CRRC Wind project in Türkiye is also a useful reference for the market. Now let me show you the other opportunities in our network."
 
-**Emphasise:** Gratitude, and "reference in the making".
+**Emphasise:** Gratitude. Keep it to about 30–40 seconds.
 **Do not mention:** The project name, site, customer, capacity, price or schedule. If asked in the room, say: "We are happy to go into the details with the responsible CRRC team, in confidence."
 
 **Transition:** "Beyond Türkiye, we have wind projects in North Macedonia."
@@ -670,7 +670,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** Real opportunities in four markets.
 
 **Script:**
-"On one page: our ongoing wind project with CRRC Wind in Türkiye; 127 megawatts of wind in North Macedonia; 371 megawatts of solar with 1,200 megawatt-hours of storage at Radilovo and Katselovo; the Karnobat expansion; and the off-grid system in the Middle East. In total, more than 500 megawatts of solar and about 1.37 gigawatt-hours of storage, plus the wind. These are opportunities in four markets that we would like to review together with CRRC's engineers."
+"On one page: our wind pipeline in Türkiye; 127 megawatts of wind in North Macedonia; 371 megawatts of solar with 1,200 megawatt-hours of storage at Radilovo and Katselovo; the Karnobat expansion; and the off-grid system in the Middle East. In total, more than 500 megawatts of solar and about 1.37 gigawatt-hours of storage, plus the wind. These are opportunities in four markets that we would like to review together with CRRC's engineers."
 
 **Emphasise:** "Review together." Not "please quote".
 
@@ -730,7 +730,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** Six conditions, and who is best placed to provide each.
 
 **Script:**
-"Six conditions. Correct segment selection: start with private, hybrid and storage-linked projects. That is Ulusoy's job. Local partners: EPCs, tower and blade makers, logistics. Also Ulusoy. Certification and bankability: type certificates, power curves and warranties lenders accept. That is CRRC. References: our ongoing project changes the conversation. That is joint. Service capability: local O&M, spare parts, fast response. Joint. And commercial intelligence: who buys, when, through whom and at what price. Ulusoy. These are the areas where we believe Ulusoy can contribute most, together with CRRC."
+"Six conditions. Correct segment selection: start with private, hybrid and storage-linked projects. That is Ulusoy's job. Local partners: EPCs, tower and blade makers, logistics. Also Ulusoy. Certification and bankability: type certificates, power curves and warranties lenders accept. That is CRRC. References: a first Turkish reference project changes the conversation. That is joint. Service capability: local O&M, spare parts, fast response. Joint. And commercial intelligence: who buys, when, through whom and at what price. Ulusoy. These are the areas where we believe Ulusoy can contribute most, together with CRRC."
 
 **Transition:** "Let me now show how a partnership could be structured."
 
@@ -750,7 +750,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** A structure that grows with proven demand.
 
 **Script:**
-"We are not asking for exclusivity on all CRRC products today. We propose three stages, each one earned by the results of the last. Stage one, market development, now to twelve months: complete the ongoing project as a reference, register and pursue the first private projects, prepare the bankability and certification package, and win the first orders. Stage two, market execution, years one to three: a repeatable wind pipeline, local service and spares, storage and solar alongside wind, and local tower and blade partners. It is unlocked by a registered pipeline and the first awards. Stage three, localization, when volume justifies it: nacelle assembly in Türkiye, access to YEKA tenders and a regional supply platform. It is unlocked by repeatable volume. Four principles: start focused, protect what is originated, expand with proof, and invest only behind demand."
+"We are not asking for exclusivity on all CRRC products today. We propose three stages, each one earned by the results of the last. Stage one, market development, now to twelve months: deliver a first Turkish reference, register and pursue the first private projects, prepare the bankability and certification package, and win the first orders. Stage two, market execution, years one to three: a repeatable wind pipeline, local service and spares, storage and solar alongside wind, and local tower and blade partners. It is unlocked by a registered pipeline and the first awards. Stage three, localization, when volume justifies it: nacelle assembly in Türkiye, access to YEKA tenders and a regional supply platform. It is unlocked by repeatable volume. Four principles: start focused, protect what is originated, expand with proof, and invest only behind demand."
 
 **Emphasise:** "We are not asking for exclusivity today."
 
@@ -815,7 +815,7 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 **Main message:** Possible milestones, for discussion. No revenue forecast.
 
 **Script:**
-"Year one: first references. The ongoing project completed, the registration mechanism in place, the bankability package ready, and the first private orders won. Years two to three: a repeatable pipeline, with several wind projects per year, local service and spares, storage and solar alongside wind, and local tower and blade partners. Years three to five: a regional platform, with nacelle assembly if justified, YEKA participation, and projects in the Balkans and the Middle East. We deliberately show no revenue forecast. Instead, we suggest tracking five things together: registered opportunities, products qualified, bids submitted, orders won and service capability in place."
+"Year one: first references. A first Turkish reference delivered, the registration mechanism in place, the bankability package ready, and the first private orders won. Years two to three: a repeatable pipeline, with several wind projects per year, local service and spares, storage and solar alongside wind, and local tower and blade partners. Years three to five: a regional platform, with nacelle assembly if justified, YEKA participation, and projects in the Balkans and the Middle East. We deliberately show no revenue forecast. Instead, we suggest tracking five things together: registered opportunities, products qualified, bids submitted, orders won and service capability in place."
 
 **Transition:** "So what are the practical next steps?"
 
@@ -840,10 +840,10 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 
 ## Slide 59 — Closing: Thank you
 
-**Main message:** Technology and scale + local access and projects, building on an existing cooperation.
+**Main message:** Technology and scale + local access and projects.
 
 **Script:**
-"To close. CRRC brings technology and industrial scale. Ulusoy brings local market access and projects. We are already working together, and we look forward to building on that cooperation. Thank you again for your time and your hospitality here in Zhuzhou. We would be very glad to hear your thoughts and questions."
+"To close. CRRC brings technology and industrial scale. Ulusoy brings local market access and projects. We look forward to building this together. Thank you again for your time and your hospitality here in Zhuzhou. We would be very glad to hear your thoughts and questions."
 
 **Emphasise:** Thank the hosts again, most senior first. Then stop talking and listen.
 

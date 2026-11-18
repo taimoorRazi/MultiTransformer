@@ -83,7 +83,7 @@ module.exports = async (ctx) => {
   const req = [["LuCompass", "Correct segment selection", "Start with private, hybrid and storage-linked projects", "U"],
     ["LuHardHat", "Local partners", "EPCs, tower and blade makers, logistics — chosen with care", "U"],
     ["LuFileCheck", "Certification & bankability", "Type certificates, power curves, warranties lenders accept", "T"],
-    ["LuTrophy", "References", "A first Turkish reference — our ongoing project — changes the conversation", "J"],
+    ["LuTrophy", "References", "A first Turkish reference project changes the conversation", "J"],
     ["LuWrench", "Service capability", "Local O&M team, spare parts, fast response", "J"],
     ["LuRadar", "Commercial intelligence", "Who buys, when, through whom — and at what price", "U"]];
   const own = { U: ["Ulusoy", C.NAVY], T: ["CRRC", C.TB], J: ["Joint", C.BLUE] };
