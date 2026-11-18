@@ -4,7 +4,8 @@ Same design system as the TBEA deck, rebuilt for CRRC's scope: wind turbines fir
 
 | File | Audience | Purpose |
 |---|---|---|
-| `Ulusoy - CRRC Partnership.pptx` | CRRC | 59-slide deck (5 section dividers). Speaker script embedded in slide notes. |
+| `Ulusoy - CRRC Partnership.pptx` | CRRC | **Share version**: 59 slides, no speaker notes. Send this one. |
+| `Ulusoy - CRRC Partnership - Presenter (with notes).pptx` | **Ulusoy presenters only** | Same deck with the full speech in the slide notes. Never send externally. |
 | `Ulusoy - CRRC Partnership.pdf` | CRRC | PDF export of the deck |
 | `Ulusoy - CRRC Partnership - Rehearsal Script.pdf` | Ulusoy presenters | Spoken script only, slide by slide |
 | `CRRC_Speaker_Notes.md` | Ulusoy presenters | Per-slide message, script, transition, likely questions and answers; 40-minute short path |
