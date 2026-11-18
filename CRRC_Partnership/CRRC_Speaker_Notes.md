@@ -687,18 +687,19 @@ Zhuzhou is the home of the CRRC Zhuzhou Institute, which makes CRRC's wind turbi
 
 **Do not dwell:** On individual provinces.
 
-**Transition:** "These are the categories we are developing."
+**Transition:** "Beyond these clusters, here are the opportunity categories we are targeting."
 
 ---
 
-## Slide 48 — Six opportunity categories we are developing
+## Slide 48 — Six opportunity categories we are targeting
 
-**Main message:** Representative categories, with buyers, CRRC scope and timing. Named accounts come after registration.
+**Main message:** Four categories are open to CRRC now, with no local content needed. YEKA follows with local partners, and hydrogen is longer term. Named accounts come after registration.
 
 **Script:**
-"Six categories. Private wind and capacity extensions, and storage-integrated wind and solar, are active now. Repowering older wind farms starts now and grows over two years. Solar and hybrid solar at wind farms is also active now. YEKA wind with local partners is one to three years away. And green hydrogen and industry is two years or more. For each one you see the buyer and the CRRC scope. We will share named accounts project by project, once registration terms are agreed."
+"Here is how we see the Türkiye pipeline beyond the projects I just showed. Four categories are active now: private wind and capacity extensions, storage-linked licences, hybrid solar at wind farms, and repowering of older wind farms, which grows over the next two years. These need no local content, so CRRC can compete today. YEKA is one to three years away, because it needs local towers and blades. That is why localization is in stage three of our model. Green hydrogen is longer term. For each category you see who buys and which CRRC products fit. We will share named accounts project by project, once we agree on registration."
 
-**Emphasise:** "Named accounts come after registration." Say it calmly.
+**Emphasise:** Point at the timing tags (Now / 1–3 yrs / 2+ yrs). Stress "no local content needed" for the four "Now" categories, which answers CRRC's biggest worry about Türkiye. Say "named accounts come after registration" calmly, without apologising.
+**Numbers to have ready:** 33 GW of storage-linked licences, about 0.2 GW built; about 30% of the wind fleet under 3 MW; 1.5 GW awarded in YEKA RES-2026, no turbine orders announced yet; about 1.4 GW of hybrid solar, two-thirds at wind farms.
 **Do not mention:** Any company names.
 
 **Transition:** "Now let me be realistic about competition."

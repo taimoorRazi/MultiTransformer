@@ -27,7 +27,7 @@ module.exports = async (ctx) => {
 
   // Categories
   s = ctx.slide("LIGHT_TB", SEC);
-  ctx.head(s, { eyebrow: "Türkiye pipeline", title: "Six opportunity categories we are developing", tb: true,
+  ctx.head(s, { eyebrow: "Türkiye pipeline", title: "Six opportunity categories we are targeting", tb: true,
     sub: "Representative categories — named accounts are shared project by project once registration terms are agreed." });
   const cats = [["LuWind", "Private wind & capacity extensions", "Licensed wind IPPs", "Complete turbines, converters, nacelle transformers, service", "Now"],
     ["LuRepeat", "Repowering older wind farms", "Owners of pre-2012 wind farms", "Larger turbines replacing sub-3 MW units", "Now – 2 yrs"],
@@ -46,7 +46,7 @@ module.exports = async (ctx) => {
     T(s, "CRRC SCOPE", { x: x + 0.22, y: y + 1.6, w: 2.2, h: 0.22, fontSize: 9, bold: true, color: C.MUTED, charSpacing: 1.5 });
     T(s, sc, { x: x + 0.22, y: y + 1.81, w: 3.55, h: 0.45, fontSize: 11, color: C.TB, bold: true });
   }
-  ctx.src(s, "Source: Ulusoy market research and account development (2026). Timing indicates when the category can generate orders.");
+  ctx.src(s, "Sources: Ulusoy market research (2026) based on EPDK licence data, TÜREB fleet data and YEKA RES-2026 results. Timing is indicative: when each category can generate orders.");
 
   // Competitive landscape
   s = ctx.slide("LIGHT", SEC);
