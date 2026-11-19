@@ -12,6 +12,7 @@ Same design system as the TBEA deck, rebuilt for CRRC's scope: wind turbines fir
 | `CRRC_Meeting_Brief.md` | **Ulusoy internal** | Objective, key messages, asks, sensitive topics, objections, questions, closing, follow-up |
 | `internal/CRRC Meeting - Knowledge Notes.md/.pdf` | **Ulusoy internal** | Wind, turbine, storage and market background for follow-up questions |
 | `internal/CRRC_Wind_Research_Nov2026.md` | **Ulusoy internal** | CRRC and Türkiye wind research with sources and confidence levels |
+| `mou/Ulusoy Robotics - CRRC Wind - MOU (EN + ZH).docx/.pdf` | CRRC (after legal review) | Draft bilingual MOU: renewable energy market development, staged model, project registration. Non-binding except confidentiality, compliance and legal clauses. Bracketed items to be completed. |
 | `source/` | Ulusoy | pptxgenjs generator, map script and notes scripts (image assets not included) |
 
 The ongoing project with CRRC Wind is deliberately not named anywhere in the CRRC-facing files.
