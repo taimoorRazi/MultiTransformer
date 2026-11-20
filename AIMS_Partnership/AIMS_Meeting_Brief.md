@@ -1,8 +1,8 @@
-# AIMS Meeting Brief — Ulusoy Robotics Delegation
+# AIMS Meeting Brief — Ulusoy Delegation
 
 **Classification:** Ulusoy internal. Do not hand this document to AIMS.
-**Meeting:** Ulusoy Robotics × AIMS Technology, Shanghai (Songjiang site, 777 Sizhuan Road — confirm), 21 November 2026
-**Deck:** AIMS × Ulusoy Robotics (31 slides). Script: AIMS_Speaker_Notes.md and the rehearsal PDF.
+**Meeting:** Ulusoy × AIMS Technology (contracting entity: Ulusoy Robotics), Shanghai (Songjiang site, 777 Sizhuan Road — confirm), 21 November 2026
+**Deck:** AIMS × Ulusoy (38 slides; the Ulusoy history section is the same as in the TBEA and CRRC decks). Script: AIMS_Speaker_Notes.md and the rehearsal PDF.
 
 ---
 
@@ -88,9 +88,9 @@
 | When | Action | Owner |
 |---|---|---|
 | 24 h | Thank-you email to Xindi with the PDF deck (share version) and agreed points | Taimoor |
-| 1 week | Lead data pack (product mix, volumes, layout, takt) for 1–2 leads | Ulusoy Robotics |
-| 2 weeks | Survey dates confirmed with the customer and AIMS | Ulusoy Robotics |
-| 2 weeks | One-page "working rules for the first project" draft | Ulusoy Robotics |
+| 1 week | Lead data pack (product mix, volumes, layout, takt) for 1–2 leads | Ulusoy |
+| 2 weeks | Survey dates confirmed with the customer and AIMS | Ulusoy |
+| 2 weeks | One-page "working rules for the first project" draft | Ulusoy |
 | 3–5 weeks | Joint site survey in Türkiye | Joint |
 | 6–8 weeks | AIMS concept and budget | AIMS |
 
@@ -100,4 +100,4 @@
 - The exact ownership wording for Ulusoy Robotics within the group.
 - The number of Lonyu AGV projects delivered or quoted in Türkiye.
 - The HS 8504 export figures come from a trade aggregator (medium confidence). Say "about".
-- The status of the EKOS, LG–GO Enerji and Pomega plants is partly unverified (slides 14–15 are footnoted).
+- The status of the EKOS, LG–GO Enerji and Pomega plants is partly unverified (slides 21–22 are footnoted).

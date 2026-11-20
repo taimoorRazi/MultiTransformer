@@ -21,7 +21,7 @@ module.exports = async (ctx) => {
   });
   const rx = 6.75;
   T(s, "HOW THE FIRST PROJECT COULD RUN", { x: rx, y: 1.95, w: 5.9, h: 0.3, fontSize: 11, bold: true, color: C.TB, charSpacing: 2 });
-  const tl = [["Week 1–2", "Ulusoy Robotics shares 1–2 leads with basic data"], ["Week 3–5", "Joint site survey in Türkiye with AIMS engineers"],
+  const tl = [["Week 1–2", "Ulusoy shares 1–2 leads with basic data"], ["Week 3–5", "Joint site survey in Türkiye with AIMS engineers"],
     ["Week 6–8", "AIMS concept layout and budget price"], ["Week 8–12", "Customer reference visit to China; proposal"]];
   line(s, rx + 0.2, 2.55, rx + 0.2, 2.55 + 3 * 0.88, C.TBL, 3);
   tl.forEach(([w, d], i) => {
@@ -36,8 +36,8 @@ module.exports = async (ctx) => {
   // Proposed next steps
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Next steps", title: "Proposed next steps", tb: true,
-    sub: "Suggestions for discussion: what Ulusoy Robotics will prepare, and where AIMS's input would help." });
-  const cols = [["ULUSOY ROBOTICS WILL PREPARE", C.NAVY, ["Selection of 1–2 first leads, with basic factory data", "Dates for a joint site survey in Türkiye", "A short list of Turkish manufacturers expanding capacity", "A draft of simple working rules for joint projects"]],
+    sub: "Suggestions for discussion: what Ulusoy will prepare, and where AIMS's input would help." });
+  const cols = [["ULUSOY WILL PREPARE", C.NAVY, ["Selection of 1–2 first leads, with basic factory data", "Dates for a joint site survey in Türkiye", "A short list of Turkish manufacturers expanding capacity", "A draft of simple working rules for joint projects"]],
     ["WE WOULD WELCOME FROM AIMS", C.TB, ["A solution engineer for the first survey", "English case studies and videos for Turkish customers", "A reference visit option for a Turkish customer", "A view on integrating heavy AGVs into AIMS's system"]]];
   cols.forEach(([h, col, items], i) => {
     const x = MX + i * 6.12;
@@ -59,10 +59,10 @@ module.exports = async (ctx) => {
   img(s, "aims_hq.jpg", 0, 0, 13.333, 7.5, { fx: 0.5 });
   rect(s, 0, 0, 13.333, 7.5, C.NAVY, { transparency: 22 });
   s.addImage({ path: L.A + "ul_logo_white.png", x: MX, y: 0.62, w: 1.75, h: 0.4 });
-  T(s, "AIMS  ×  ULUSOY ROBOTICS", { x: MX, y: 2.0, w: 8, h: 0.35, fontSize: 13, bold: true, color: C.MID, charSpacing: 4 });
+  T(s, "AIMS  ×  ULUSOY", { x: MX, y: 2.0, w: 8, h: 0.35, fontSize: 13, bold: true, color: C.MID, charSpacing: 4 });
   T(s, "Thank you", { x: MX, y: 2.45, w: 8, h: 1.0, fontSize: 48, bold: true, color: C.WHITE });
   T(s, [{ text: "AIMS brings smart-factory technology and transformer-plant experience.", options: { breakLine: true } },
-    { text: "Ulusoy Robotics brings local access, heavy AGVs and service.", options: { breakLine: true } },
+    { text: "Ulusoy brings local access, heavy AGVs and service.", options: { breakLine: true } },
     { text: "Let's start with one project together." }],
     { x: MX, y: 3.65, w: 9.5, h: 1.6, fontSize: 19, color: C.WHITE, paraSpaceAfter: 6 });
   T(s, "TÜRKİYE  ·  MIDDLE EAST  ·  BALKANS  ·  CENTRAL ASIA", { x: MX, y: 5.75, w: 9, h: 0.3, fontSize: 12, color: C.MID, charSpacing: 3 });

@@ -8,10 +8,10 @@ module.exports = async (ctx) => {
   rect(s, 6.55, 0, 6.783, 7.5, C.NAVY, { transparency: 80 });
   s.addImage({ path: L.A + "ul_logo_white.png", x: MX, y: 0.62, w: 1.75, h: 0.4 });
   T(s, "STRATEGIC COOPERATION PROPOSAL", { x: MX, y: 2.05, w: 5.8, h: 0.3, fontSize: 11, bold: true, color: C.MID, charSpacing: 4 });
-  T(s, [{ text: "AIMS", options: { color: C.WHITE } }, { text: "  ×", options: { color: C.MID, breakLine: true } }, { text: "ULUSOY ROBOTICS", options: { color: C.WHITE } }],
-    { x: MX, y: 2.4, w: 5.9, h: 1.35, fontSize: 34, bold: true, lineSpacingMultiple: 0.95 });
-  T(s, "Smart Factories for Türkiye's Energy-Equipment Industry", { x: MX, y: 3.9, w: 5.7, h: 0.95, fontSize: 21, color: C.WHITE });
-  T(s, "TRANSFORMERS  ·  POWER EQUIPMENT  ·  BATTERIES  ·  SOLAR", { x: MX, y: 5.05, w: 5.95, h: 0.32, fontSize: 10.5, bold: true, color: C.MID, charSpacing: 0.5 });
+  T(s, [{ text: "AIMS", options: { color: C.WHITE } }, { text: "  ×  ", options: { color: C.MID } }, { text: "ULUSOY", options: { color: C.WHITE } }],
+    { x: MX, y: 2.45, w: 5.9, h: 0.95, fontSize: 42, bold: true });
+  T(s, "Smart Factories for Türkiye's Energy-Equipment Industry", { x: MX, y: 3.5, w: 5.7, h: 1.1, fontSize: 24, color: C.WHITE });
+  T(s, "TRANSFORMERS  ·  POWER EQUIPMENT  ·  BATTERIES  ·  SOLAR", { x: MX, y: 4.8, w: 5.95, h: 0.32, fontSize: 10.5, bold: true, color: C.MID, charSpacing: 0.5 });
   line(s, MX, 5.95, MX + 5.3, 5.95, C.DEEP, 0.75);
   T(s, "Presented to AIMS Technology  ·  Shanghai, China  ·  November 2026", { x: MX, y: 6.08, w: 5.8, h: 0.3, fontSize: 11, color: C.MID });
   T(s, "Prepared for discussion with AIMS", { x: MX, y: 6.42, w: 5.7, h: 0.26, fontSize: 9, color: "7E93A8", italic: true });
@@ -33,13 +33,13 @@ module.exports = async (ctx) => {
     { x: MX + 0.4, y: py + 1.35, w: 4.3, h: 2.0, fontSize: 15, color: C.WHITE, paraSpaceAfter: 5 });
   const ux = 13.333 - MX - 5.0;
   rect(s, ux, py, 5.0, ph, C.NAVY, { rounded: true, r: 0.06 });
-  T(s, "ULUSOY ROBOTICS", { x: ux + 0.4, y: py + 0.32, w: 4.4, h: 0.5, fontSize: 26, bold: true, color: C.WHITE });
-  T(s, "LOCAL ACCESS & EXECUTION", { x: ux + 0.4, y: py + 0.85, w: 4.2, h: 0.3, fontSize: 12, bold: true, color: C.MID, charSpacing: 2 });
+  T(s, "ULUSOY", { x: ux + 0.4, y: py + 0.32, w: 4.4, h: 0.5, fontSize: 26, bold: true, color: C.WHITE });
+  T(s, "MARKET ACCESS & EXECUTION", { x: ux + 0.4, y: py + 0.85, w: 4.2, h: 0.3, fontSize: 12, bold: true, color: C.MID, charSpacing: 2 });
   T(s, [
+    { text: "89 years of relationships in Türkiye", options: { bullet: true, breakLine: true } },
+    { text: "Access to transformer, energy-equipment and battery makers", options: { bullet: true, breakLine: true } },
     { text: "Heavy-load AGVs for transformer plants, with Lonyu Robot", options: { bullet: true, breakLine: true } },
-    { text: "Relationships with Türkiye's transformer and energy-equipment makers", options: { bullet: true, breakLine: true } },
-    { text: "Local engineering, installation and service", options: { bullet: true, breakLine: true } },
-    { text: "Backed by the 89-year Ulusoy Group", options: { bullet: true } }],
+    { text: "Local engineering, installation and service", options: { bullet: true } }],
     { x: ux + 0.4, y: py + 1.35, w: 4.3, h: 2.0, fontSize: 15, color: C.WHITE, paraSpaceAfter: 5 });
   const bx = MX + 5.0, bw = ux - bx;
   line(s, bx + 0.05, py + ph / 2, ux - 0.05, py + ph / 2, C.MID, 2.5, { dash: "dash" });
@@ -54,7 +54,7 @@ module.exports = async (ctx) => {
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Agenda", title: "Our conversation today", sub: "Five short steps — from who we are to a first joint project." });
   const steps = [
-    ["Who we are", "The Ulusoy Group and Ulusoy Robotics"],
+    ["Who Ulusoy is", "Nearly nine decades of operating history and partnerships"],
     ["Türkiye's factory wave", "New plants, expansions and the push to automate"],
     ["Where AIMS fits", "From the raw-material warehouse to the test bay"],
     ["How we work together", "Roles, project journey and a staged model"],

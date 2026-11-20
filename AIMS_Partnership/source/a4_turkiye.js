@@ -142,7 +142,7 @@ module.exports = async (ctx) => {
     T(s, t, { x: x + 0.3, y: 3.1, w: 3.4, h: 0.5, fontSize: 19, bold: true, color: C.WHITE });
     T(s, a, { x: x + 0.3, y: 3.65, w: 3.4, h: 0.7, fontSize: 13, color: "DCE6F0" });
     line(s, x + 0.3, 4.45, x + 3.6, 4.45, "FFFFFF", 0.75);
-    T(s, "AIMS + ULUSOY ROBOTICS", { x: x + 0.3, y: 4.6, w: 3.4, h: 0.28, fontSize: 10, bold: true, color: "DCE6F0", charSpacing: 1.5 });
+    T(s, "AIMS + ULUSOY", { x: x + 0.3, y: 4.6, w: 3.4, h: 0.28, fontSize: 10, bold: true, color: "DCE6F0", charSpacing: 1.5 });
     T(s, b, { x: x + 0.3, y: 4.9, w: 3.4, h: 0.75, fontSize: 13.5, bold: true, color: C.WHITE });
   }
   rect(s, MX, 6.0, 12.133, 0.8, C.PALE, { rounded: true, r: 0.06 });

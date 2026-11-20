@@ -130,7 +130,7 @@ module.exports = async (ctx) => {
     T(s, t, { x: MX + 1.0, y: y + 0.02, w: 3.75, h: 0.8, fontSize: 13 });
   });
   rect(s, MX, 5.75, 4.6, 1.0, C.NAVY, { rounded: true, r: 0.06 });
-  T(s, "Customs, cross-border trade and heavy project cargo are native to the group — directly relevant to moving turbines, blades and towers.",
+  T(s, "Customs, cross-border trade and heavy project cargo are native to the group — directly relevant to moving and installing heavy factory equipment.",
     { x: MX + 0.25, y: 5.75, w: 4.15, h: 1.0, fontSize: 12, color: C.WHITE, valign: "middle" });
   ctx.src(s, SRC + " Map shows principal historical routes and offices.");
 

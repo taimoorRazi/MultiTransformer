@@ -14,7 +14,7 @@ module.exports = async (ctx) => {
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Project journey", title: "From first contact to the next phase", tb: true,
     sub: "As AIMS suggested, its solution engineers join the customer survey — no information lost between teams." });
-  const steps = [["LuSearch", "Lead & qualification", "Ulusoy Robotics finds and qualifies the project", "U"],
+  const steps = [["LuSearch", "Lead & qualification", "Ulusoy finds and qualifies the project", "U"],
     ["LuClipboardList", "Joint site survey", "AIMS solution engineers and our team at the customer", "J"],
     ["LuRuler", "Concept & budget", "AIMS designs the concept and budget price", "A"],
     ["LuPlane", "Reference visit", "Customer visits AIMS projects in China", "J"],
@@ -41,8 +41,8 @@ module.exports = async (ctx) => {
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Export readiness", title: "What Turkish customers will ask — and our answers", tb: true,
     sub: "Most questions are about compliance, service and integration. We should answer them in the first proposal." });
-  const qa = [["LuShieldCheck", "CE marking and EU machinery rules", "Handled by a third-party CE service provider, coordinated locally by Ulusoy Robotics"],
-    ["LuWrench", "Who fixes it when it stops?", "Local Ulusoy Robotics service team, spare parts stored on site, AIMS remote support and on-site visits"],
+  const qa = [["LuShieldCheck", "CE marking and EU machinery rules", "Handled by a third-party CE service provider, coordinated locally by Ulusoy"],
+    ["LuWrench", "Who fixes it when it stops?", "Local Ulusoy service team, spare parts stored on site, AIMS remote support and on-site visits"],
     ["LuLink", "Will it connect to our ERP and machines?", "AIMS systems connect through APIs; interfaces defined in each project"],
     ["LuLanguages", "Language and training", "English interfaces; Turkish screens and training to be agreed per project"],
     ["LuAward", "Can we see it working?", "Reference visits and videos of AIMS projects in China"],
@@ -54,7 +54,7 @@ module.exports = async (ctx) => {
     T(s, q, { x: x + 1.1, y: y + 0.18, w: 4.65, h: 0.36, fontSize: 14, bold: true });
     T(s, a, { x: x + 1.1, y: y + 0.58, w: 4.65, h: 0.8, fontSize: 12, color: C.MUTED });
   }
-  ctx.src(s, "Source: AIMS answers to Ulusoy Robotics (Nov 2026). Points marked 'per project' to be confirmed in the first proposal.");
+  ctx.src(s, "Source: AIMS answers to Ulusoy (Nov 2026). Points marked 'per project' to be confirmed in the first proposal.");
 
   // Staged model
   s = ctx.slide("LIGHT_TB", SEC);

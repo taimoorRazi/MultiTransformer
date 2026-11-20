@@ -1,10 +1,10 @@
 module.exports = async (ctx) => {
   const { L, C } = ctx; const { T, rect, circle, line, img, MX } = L;
-  const SEC = "Ulusoy Robotics";
+  const SEC = "Heavy AGVs";
 
   // Heavy AGVs in transformer plants
   let s = ctx.slide("LIGHT", SEC);
-  ctx.head(s, { eyebrow: "Ulusoy Robotics today", title: "Moving the heaviest parts of a transformer factory",
+  ctx.head(s, { eyebrow: "Ulusoy today", title: "Moving the heaviest parts of a transformer factory",
     sub: "With Lonyu Robot, we bring heavy-load AGVs to Turkish plants — where cranes and forklifts limit flow and safety." });
   const tasks = [["LuLayers", "Active parts", "Core-coil assemblies between assembly, drying and tanking"],
     ["LuContainer", "Tanks", "Tanks between welding, painting, assembly and test"],
@@ -30,7 +30,7 @@ module.exports = async (ctx) => {
   rect(s, MX, 6.42, 12.133, 0.5, C.TBL, { rounded: true, r: 0.06 });
   T(s, [{ text: "The gap we see: ", options: { bold: true, color: C.TB } }, { text: "AGVs move the heavy parts — customers also ask for storage, line-side supply and one system for the whole flow." }],
     { x: MX + 0.3, y: 6.42, w: 11.6, h: 0.5, fontSize: 13, valign: "middle" });
-  ctx.src(s, "Source: Ulusoy Robotics. Lonyu Robot: Chinese heavy-load AGV manufacturer; Ulusoy Robotics is its authorized distributor in Türkiye.");
+  ctx.src(s, "Source: Ulusoy Group. Lonyu Robot: Chinese heavy-load AGV manufacturer; Ulusoy Robotics is its authorized distributor in Türkiye.");
 
   // Our network
   s = ctx.slide("LIGHT", SEC);

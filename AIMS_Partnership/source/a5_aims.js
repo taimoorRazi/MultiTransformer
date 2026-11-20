@@ -40,7 +40,7 @@ module.exports = async (ctx) => {
     T(s, k, { x: 7.25, y, w: 1.75, h: 0.32, fontSize: 12, bold: true, color: C.INK, valign: "middle" });
     T(s, v, { x: 9.05, y, w: 3.6, h: 0.32, fontSize: 12, color: C.MUTED, valign: "middle" });
   });
-  ctx.src(s, "Source: AIMS Company Profile (2026) and AIMS information shared with Ulusoy Robotics (Nov 2026).");
+  ctx.src(s, "Source: AIMS Company Profile (2026) and AIMS information shared with Ulusoy (Nov 2026).");
 
   // Transformer plant flow
   s = ctx.slide("LIGHT_TB", SEC);
@@ -55,7 +55,7 @@ module.exports = async (ctx) => {
     ["Test & dispatch", "Final test, shipping", ["Finished-goods storage"], ["To test bay and loading"]]];
   const fw = 1.66, fg = 0.085, fy = 2.45;
   T(s, "AIMS", { x: MX, y: 1.82, w: 3, h: 0.28, fontSize: 11, bold: true, color: C.TB, charSpacing: 2 });
-  T(s, "HEAVY AGVs (ULUSOY ROBOTICS · LONYU)", { x: MX, y: 4.45, w: 6, h: 0.28, fontSize: 11, bold: true, color: C.BLUE, charSpacing: 2 });
+  T(s, "HEAVY AGVs (ULUSOY · LONYU)", { x: MX, y: 4.45, w: 6, h: 0.28, fontSize: 11, bold: true, color: C.BLUE, charSpacing: 2 });
   flow.forEach(([t, d, a, u], i) => {
     const x = MX + i * (fw + fg);
     rect(s, x, 3.3, fw, 1.0, C.NAVY, { rounded: true, r: 0.05 });
@@ -106,7 +106,7 @@ module.exports = async (ctx) => {
     { text: "Core insertion, final and body assembly stations, RGV body assembly and drying lines, RGV workshop transfer", options: { bullet: true, breakLine: true } },
     { text: "AIMS's own team on site, with local installation labour", options: { bullet: true } }],
     { x: cx + 0.3, y: 4.98, w: 5.6, h: 1.8, fontSize: 12.5, color: C.WHITE, paraSpaceAfter: 4 });
-  ctx.src(s, "Source: AIMS Company Profile (2026) and AIMS project information shared with Ulusoy Robotics (Nov 2026).");
+  ctx.src(s, "Source: AIMS Company Profile (2026) and AIMS project information shared with Ulusoy (Nov 2026).");
 
   // Integrated offer
   s = ctx.slide("LIGHT_TB", SEC);
@@ -114,7 +114,7 @@ module.exports = async (ctx) => {
     sub: "Turkish customers want one responsible team. Together we can offer the whole material flow, locally supported." });
   const cols = [["AIMS", C.TB, "LuCpu", ["Factory analysis and concept design", "AS/RS, RGVs, AGVs and workstations", "WMS, WCS, LES, uRMS, MES", "Solution engineering and commissioning", "Remote support"]],
     ["TOGETHER", C.BLUE, "LuHandshake", ["Joint site surveys with Turkish customers", "One proposal and one point of contact", "Reference visits to AIMS projects in China", "Integration of heavy AGVs into the AIMS system"]],
-    ["ULUSOY ROBOTICS", C.NAVY, "LuTruck", ["Customer access and account management", "Heavy-load AGVs with Lonyu", "Local installation coordination", "Local service, spare parts and training", "Support with CE and local regulations"]]];
+    ["ULUSOY", C.NAVY, "LuTruck", ["Customer access and account management", "Heavy-load AGVs with Lonyu", "Local installation coordination", "Local service, spare parts and training", "Support with CE and local regulations"]]];
   for (const [i, [h, col, ic, items]] of cols.entries()) {
     const x = MX + i * 4.08;
     rect(s, x, 1.85, 3.92, 4.95, i === 1 ? C.PALE : col, { rounded: true, r: 0.06 });

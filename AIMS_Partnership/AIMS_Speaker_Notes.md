@@ -1,31 +1,31 @@
 # AIMS Meeting, Shanghai — Speaker Script
 
-**Deck:** AIMS × Ulusoy Robotics (31 slides, including 3 short section dividers)
+**Deck:** AIMS × Ulusoy (38 slides, including 3 short section dividers)
 **Audience:** Xindi Wang (Head of Europe) and the AIMS solution team; possibly AIMS senior management
 **Ulusoy side:** Mr. Cem (Chairman), Taimoor Razi, Zeki Akgün (adjust to the actual delegation)
-**Target length:** 40–50 minutes of presenting plus discussion. This is a working meeting, so leave room for questions.
+**Target length:** 50–60 minutes of presenting plus discussion. This is a working meeting, so leave room for questions.
 **Language:** Speak slowly and simply. Pause after every number.
 
-**If time is cut to 25 minutes, use this short path:** 1, 2, 4, 8, 10, 11, 13, 14, 17, 18, 20, 21, 23, 26, 28, 29, 30, 31.
+**If time is cut to 25 minutes, use this short path:** 1, 2, 4, 7, 12, 14, 15, 16, 17, 18, 20, 21, 24, 25, 27, 28, 30, 33, 35, 36, 37, 38. Keep the history slides (4–15) short; they are the same as in the TBEA and CRRC decks.
 
 **The context in one paragraph**
-AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load AGV work with Lonyu in transformer plants. Their proposal was clear: AIMS provides equipment, software, solution engineering and technical support, and Ulusoy Robotics leads local customer engagement, installation and after-sales service. After the online meeting (27 October), Xindi suggested "analysing one of your current leads" together as the best way to build trust. He also said AIMS does not offer a "menu": they analyse the customer, propose a concept and finalise it together. This presentation answers that invitation. We show that Türkiye is building new factories, that we have access to those manufacturers, and how we would work together, starting with one project.
+AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load AGV work with Lonyu in transformer plants. Their proposal was clear: AIMS provides equipment, software, solution engineering and technical support, and Ulusoy leads local customer engagement, installation and after-sales service. After the online meeting (27 October), Xindi suggested "analysing one of your current leads" together as the best way to build trust. He also said AIMS does not offer a "menu": they analyse the customer, propose a concept and finalise it together. This presentation answers that invitation. We show that Türkiye is building new factories, that we have access to those manufacturers, and how we would work together, starting with one project.
 
 **Rules for the whole meeting**
 1. **Do not name our leads or customers.** Speak about "a transformer maker expanding its capacity". Named leads are shared in a smaller session or under NDA, if both sides want one.
 2. **Do not quote AIMS's revenue or team figures** back to them. Xindi shared them in confidence by email. Use only the public company-profile facts on the slides.
-3. **Do not ask for exclusivity today.** AIMS has no exclusive agreement in Türkiye. Our aim is a first joint project and simple working rules. A cooperation agreement comes after the first project (slide 28).
+3. **Do not ask for exclusivity today.** AIMS has no exclusive agreement in Türkiye. Our aim is a first joint project and simple working rules. A cooperation agreement comes after the first project (slide 35).
 4. **Do not raise the TBEA Tianjin visit.** AIMS asked us to arrange that directly with TBEA. Respect their position.
-5. **Be modest about Ulusoy Robotics' track record.** It is a young company inside an 89-year group. Speak about capabilities and relationships, not a long list of delivered projects.
+5. **Be modest about Ulusoy' track record.** It is a young company inside an 89-year group. Speak about capabilities and relationships, not a long list of delivered projects.
 
 ---
 
-## Slide 1 — Cover: AIMS × Ulusoy Robotics — Smart Factories for Türkiye's Energy-Equipment Industry
+## Slide 1 — Cover: AIMS × Ulusoy — Smart Factories for Türkiye's Energy-Equipment Industry
 
 **Main message:** A practical cooperation proposal for factory projects in Türkiye.
 
 **Script:**
-"Good morning, and thank you for receiving us here in Shanghai. Xindi, thank you for reaching out to us in October, and for your detailed answers since then. They helped us understand AIMS much better. Today we would like to share how we see the Turkish market, and how AIMS and Ulusoy Robotics could start working together on real projects."
+"Good morning, and thank you for receiving us here in Shanghai. Xindi, thank you for reaching out to us in October, and for your detailed answers since then. They helped us understand AIMS much better. Today we would like to share how we see the Turkish market, and how AIMS and Ulusoy could start working together on real projects."
 
 **Emphasise:** Thanks to Xindi by name, and to the most senior AIMS person in the room first.
 **Do not dwell:** 30 seconds.
@@ -36,10 +36,10 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ## Slide 2 — Why we are here
 
-**Main message:** AIMS has smart-factory capability; Ulusoy Robotics has local access and execution. Together: automated factories for Türkiye's energy-equipment makers.
+**Main message:** AIMS has smart-factory capability; Ulusoy has local access and execution. Together: automated factories for Türkiye's energy-equipment makers.
 
 **Script:**
-"On the left is AIMS: whole-factory intralogistics, your own software from WMS to MES, and a very strong position in transformer plants in China. You told us AIMS has delivered more than half of China's transformer and power-equipment automation projects, for customers like TBEA, Eaton, Siemens and Sunten. On the right is Ulusoy Robotics: heavy-load AGVs for transformer plants with Lonyu Robot, relationships with Türkiye's transformer and energy-equipment makers, local engineering and service, and the backing of the Ulusoy Group. We believe these two sides fit well, exactly as you described in your first email."
+"On the left is AIMS: whole-factory intralogistics, your own software from WMS to MES, and a very strong position in transformer plants in China. You told us AIMS has delivered more than half of China's transformer and power-equipment automation projects, for customers like TBEA, Eaton, Siemens and Sunten. On the right is Ulusoy: heavy-load AGVs for transformer plants with Lonyu Robot, relationships with Türkiye's transformer and energy-equipment makers, local engineering and service, and the backing of the Ulusoy Group. We believe these two sides fit well, exactly as you described in your first email."
 
 **Emphasise:** "Exactly as you described in your first email." It shows we listened.
 
@@ -61,9 +61,9 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 4 — 1937–2026 (Section 01: Who we are)
+## Slide 4 — 1937–2026 (Section 01: Who is Ulusoy)
 
-**Main message:** Ulusoy Robotics is part of an 89-year family group, not a newly created trading company.
+**Main message:** Ulusoy is part of an 89-year family group, not a newly created trading company.
 
 **Script:**
 "Ulusoy was founded in 1937 with one bus. Today the group has almost nine decades of history, three generations of family leadership, more than sixteen sectors and more than fifty years of international business. Why does this matter for AIMS? A factory automation system runs for fifteen or twenty years. Your customers need a local partner who will still be there to service it. That is who we are."
@@ -73,8 +73,8 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 **Transition:** "The group started with a very practical problem."
 
-**Likely AIMS question:** "How is Ulusoy Robotics related to the Ulusoy Group?"
-**Suggested response:** "Ulusoy Robotics is a member of the Ulusoy Group. It applies the group's logistics and industrial experience to automation. Mr. Cem, our Chairman, is here today, which shows the importance the group gives to this cooperation." (Confirm the exact ownership wording before the meeting.)
+**Likely AIMS question:** "Which Ulusoy company would we work with?"
+**Suggested response:** "Ulusoy Robotics, the group's robotics and automation company, would be the contracting entity. The group stands behind it. Mr. Cem, our Chairman, is here today, which shows the importance the group gives to this cooperation." (Confirm the exact ownership wording before the meeting.)
 
 ---
 
@@ -87,11 +87,25 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 **Do not dwell:** 40 seconds.
 
-**Transition:** "Each new business was built on the one before."
+**Transition:** "Three generations then built on this principle."
 
 ---
 
-## Slide 6 — Each new sector was built on the one before
+## Slide 6 — Three generations: from regional operator to holding
+
+**Main message:** Long-term family ownership means decisions are made for decades.
+
+**Script:**
+"The second generation, the brothers you see here, took the business from a regional operator to a national and then international group. The four phases at the bottom show the logic: foundation, expansion, consolidation into a holding in 1995, and diversification since 2003. The point for AIMS is simple: we make decisions for decades, not quarters. Our partners abroad recognised this too. The Italian Republic named Saffet Ulusoy a Commendatore for his work on international Ro-Ro transport, and the city of Flensburg in Germany honoured him after our ship orders helped revive its shipyard."
+
+**Do not dwell:** Do not read the biographies.
+**Do not mention:** a Swedish award. There is no public record yet; add it only once the family provides the certificate.
+
+**Transition:** "Each phase built a capability that the next one used."
+
+---
+
+## Slide 7 — Each new sector was built on the one before
 
 **Main message:** Robotics and automation are the logical latest step of the group.
 
@@ -100,11 +114,70 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 **Emphasise:** "Moving heavy materials", which links logistics to intralogistics.
 
-**Transition:** "We also have long experience representing foreign manufacturers."
+**Transition:** "Let me show the operating capabilities behind this, starting with transport."
 
 ---
 
-## Slide 7 — Long-term partnerships with international brands
+## Slide 8 — Operating DNA: moving people and freight on schedule
+
+**Main message:** Ulusoy has run national-scale operations: fleets, terminals, people and schedules.
+
+**Script:**
+"At its peak, our coach business carried three million passengers a year, with 450 coaches and 2,000 people. In the 1970s we had the largest coach fleet in Türkiye. This built something that still matters today: relationships in every major Turkish city, and the discipline of running a complex operation every day."
+
+**Do not dwell:** These are historical peak figures. If asked, be clear that the coach business is not the group's core today.
+
+**Likely AIMS question:** "Is Ulusoy still in passenger transport?"
+**Suggested response:** "The coaching brand built the group's name, but the group has moved on to maritime, ports, energy and technology. What remains is the network and the operating discipline."
+
+**Transition:** "From national transport we went international."
+
+---
+
+## Slide 9 — International logistics: Türkiye–Europe–Middle East since 1973
+
+**Main message:** Cross-border trade, customs and heavy project cargo are native to Ulusoy, and they are part of every export project.
+
+**Script:**
+"Since 1973 we have run international transport between Türkiye, Europe and the Middle East, with our own offices in Munich, Trieste and London. In 1994 we added air cargo, containers and bonded warehousing. Why does this matter to AIMS? Automated warehouses, stacker cranes, RGV lines and workstations arrive in Türkiye as heavy project cargo. Port handling, customs and delivery to the factory are part of every project. This is something our group understands from the inside."
+
+**Emphasise:** Logistics and customs are a real cost and risk in every export project.
+**Do not dwell:** Do not promise that Ulusoy will carry the cargo itself; say "understands" and "coordinates".
+
+**Transition:** "We also took the business to sea."
+
+---
+
+## Slide 10 — Maritime and Ro-Ro: operating international infrastructure
+
+**Main message:** Ulusoy has operated international maritime infrastructure, and was already working with Chinese industry in 2008.
+
+**Script:**
+"Ulusoy Shipping started in 1981. Our Ro-Ro lines connected Türkiye with Russia and Ukraine across the Black Sea. At the peak we had eight vessels with about 194,000 tonnes of bulk capacity. One detail matters for this room: our first dry-cargo vessels in 2008 were built in China. So our working relationship with Chinese industry did not start this year. It started almost twenty years ago."
+
+**Emphasise:** The China-built vessels; this builds rapport.
+
+**Transition:** "Our most important maritime asset is a corridor to Europe."
+
+---
+
+## Slide 11 — Çeşme–Trieste: port ownership and cross-border trade
+
+**Main message:** Ulusoy has developed and operated long-term infrastructure across borders: a port concession and an Italian company.
+
+**Script:**
+"In 2000 we opened the Çeşme–Trieste corridor between Türkiye and Italy. In 2003 we acquired the operating rights for Çeşme Port through privatization. We then extended the piers and set up Trieste Gateway in Italy. This shows we know how to win a concession, invest in infrastructure and operate it for decades under European standards."
+
+**Do not dwell:** Do not go into vessel details.
+
+**Likely AIMS question:** "Does Ulusoy still operate the port and corridor today?"
+**Suggested response:** Confirm the current status accurately before the meeting. Do not over-claim. If the status has changed, say: "This is part of our operating history. What it gave us is the experience and the relationships."
+
+**Transition:** "Infrastructure is one side. The other is our history of representing international brands."
+
+---
+
+## Slide 12 — Long-term partnerships with international brands
 
 **Main message:** Ulusoy knows how to represent a foreign manufacturer: sales, service, spare parts and reputation.
 
@@ -116,16 +189,32 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 **Likely AIMS question:** "Why did the Volvo distributorship end?"
 **Suggested response:** "It ran for many years and was restructured as the market changed. What we took from it was the full experience of building a brand, a service network and spare-parts logistics." (Confirm internally beforehand.)
 
-**Transition:** "Our newest business is robotics."
+**Transition:** "We are not only a distributor. We are also an energy producer."
 
 ---
 
-## Slide 8 — Technology: robotics, automation and software
+## Slide 13 — Energy: owner and operator of grid-connected generation
 
-**Main message:** Ulusoy Robotics already works day to day with a Chinese manufacturer, in the same model we propose with AIMS.
+**Main message:** Ulusoy owns and operates licensed generation, so it understands the buyer's side.
 
 **Script:**
-"Ulusoy Robotics brings industrial robotics, heavy-duty AGVs and autonomous transport to Turkish factories. With Lonyu we introduce the technology, qualify the customer, coordinate engineering with the factory in China and support the customer locally. It is the same working model we propose with AIMS: local customer engagement, installation and service."
+"Since 2010 we have owned İlk Elektrik, with two hydroelectric plants totalling 25 megawatts in Sinop. It is a modest size, but it gives us something important. We have bought, connected and operated power plants ourselves. We know the licensing process, the grid-connection process and the utility interfaces in Türkiye. When a factory owner talks to us about downtime, investment approval or a delayed project, we understand their problem as owners."
+
+**Do not dwell:** Do not oversell the 25 MW.
+
+**Likely AIMS question:** "Do you plan to invest in manufacturing yourselves?"
+**Suggested response:** "We look at selected opportunities. Our focus in this partnership is market development for AIMS, not competing with our own customers."
+
+**Transition:** "Our newest area is technology, and it is the closest model to what we propose."
+
+---
+
+## Slide 14 — Technology: robotics, automation and software
+
+**Main message:** Ulusoy already works day to day with a Chinese manufacturer, in the same model we propose with AIMS.
+
+**Script:**
+"Ulusoy brings industrial robotics, heavy-duty AGVs and autonomous transport to Turkish factories. With Lonyu we introduce the technology, qualify the customer, coordinate engineering with the factory in China and support the customer locally. It is the same working model we propose with AIMS: local customer engagement, installation and service."
 
 **Likely AIMS question:** "How many AGV projects have you delivered in Türkiye?"
 **Suggested response:** Give the accurate current number. If early, say: "The business is in its growth phase. Our strength is access to the transformer makers and the ability to support them locally. That is why a partner like AIMS, with a complete factory offer, is important for us."
@@ -134,7 +223,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 9 — Why Ulusoy today
+## Slide 15 — Why Ulusoy today
 
 **Main message:** Group strengths, with long-term family ownership above all.
 
@@ -143,13 +232,44 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 **Do not dwell:** 30 seconds.
 
-**Transition:** "Now let me show what Ulusoy Robotics does in transformer plants today."
+**Transition:** "Now let me show where Ulusoy sits geographically."
 
 ---
 
-## Slide 10 — Moving the heaviest parts of a transformer factory
+## Slide 16 — Between Chinese industrial capability and regional demand
 
-**Main message:** Ulusoy Robotics solves heavy-part movement. Customers also need storage and system-level coordination, which is where AIMS comes in.
+**Main message:** Ulusoy sits between AIMS in China and the manufacturers investing in Türkiye and the region.
+
+**Script:**
+"This operating history created relationships and capabilities. Today we apply the same platform to industrial technology. On the right is AIMS, in Shanghai and Hefei. On the left is Türkiye, our home market and the biggest opportunity, where transformer, energy-equipment and battery makers are expanding capacity. From Türkiye we reach the Balkans, where manufacturing is moving closer to European customers, and the Middle East, where we have long trade relationships. Central Asia and the Caucasus are a natural extension later. You told us AIMS has no partners yet in the Middle East or Europe, so Türkiye can be the starting point."
+
+**Emphasise:** Türkiye first, then the region.
+**Do not dwell:** Do not over-promise Central Asia.
+
+**Transition:** "What exactly would Ulusoy do between AIMS and these customers?"
+
+---
+
+## Slide 17 — How a local partner can support AIMS in the region
+
+**Main message:** Ulusoy provides the local commercial and execution layer between AIMS and six customer groups, and information flows both ways.
+
+**Script:**
+"At the top is AIMS: factory concepts, automated storage, RGVs, software and solution engineering. At the bottom are the customers who invest: transformer manufacturers, switchgear and medium-voltage equipment makers, cable producers, battery and storage assemblers, solar module makers, and industrial groups in organised industrial zones. In the middle is what Ulusoy provides: market intelligence, project origination, senior customer access, tracking of new investments, site surveys and data collection, technical-commercial coordination, heavy-load AGVs, installation coordination, local service and spare parts, and customer relationship management. Solutions go down to the customer, and the customer's factory needs and data come back up to AIMS's engineers."
+
+**Emphasise:** "Factory needs and data come back up." It answers Xindi's point that engineers need the right information.
+**Do not mention:** Any customer names.
+
+**Transition:** "Let me show what we already do in transformer plants today."
+
+**Likely AIMS question:** "Which transformer makers do you know?"
+**Suggested response:** "We prefer to introduce each company properly, with context and timing. For the first project we would like to bring one or two specific leads to a smaller session with your solution engineers." (If Mr. Cem decides to name one lead in the room, follow his lead.)
+
+---
+
+## Slide 18 — Moving the heaviest parts of a transformer factory
+
+**Main message:** Ulusoy solves heavy-part movement. Customers also need storage and system-level coordination, which is where AIMS comes in.
 
 **Script:**
 "In a transformer plant the heaviest and most difficult moves are active parts, tanks, large coils and finished units. Many Turkish plants still use overhead cranes and forklifts, which limit flow and create safety risks. With Lonyu we bring heavy-load AGVs for these moves. For customers we survey the material flow, design routes with the factory, install, commission, train operators and provide service. But when we talk to customers, they ask for more: storage, line-side supply, and one system that coordinates the whole flow. That is the gap AIMS can fill."
@@ -157,28 +277,11 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 **Emphasise:** "The gap we see." It is the reason for this partnership.
 **Do not dwell:** Do not quote AGV capacities unless you have Lonyu's exact figures.
 
-**Transition:** "Who are these customers?"
+**Transition:** "Now let me show why Türkiye is building new factories now."
 
 ---
 
-## Slide 11 — Relationships across Türkiye's power-equipment industry
-
-**Main message:** Our network covers the manufacturers that are expanding. Names come project by project.
-
-**Script:**
-"Our relationships cover six groups: transformer manufacturers, both large Turkish groups and multinational plants; switchgear and medium-voltage equipment makers; cable and conductor producers; battery and storage assemblers; solar module makers; and industrial groups and organised industrial zones. Several of these companies are expanding capacity or planning new plants right now. We will introduce named accounts project by project, together with your solution team."
-
-**Emphasise:** "Together with your solution team." This answers Xindi's point about engineers joining the survey.
-**Do not mention:** Any company names.
-
-**Transition:** "Let me show why this is happening now in Türkiye."
-
-**Likely AIMS question:** "Which transformer makers do you know?"
-**Suggested response:** "We prefer to introduce each company properly, with context and timing. For the first project we would like to bring one or two specific leads to a smaller session with your solution engineers." (If Mr. Cem decides to name one lead in the room, follow his lead.)
-
----
-
-## Slide 12 — Section 02: Türkiye's factory wave
+## Slide 19 — Section 02: Türkiye's factory wave
 
 **Script:**
 "Section two. Türkiye's energy-equipment makers are expanding fast, to serve the domestic grid, the Middle East, Europe and increasingly the United States."
@@ -187,7 +290,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 13 — A fast-growing export industry with full order books
+## Slide 20 — A fast-growing export industry with full order books
 
 **Main message:** Turkish transformer exports grew strongly, and demand at home and abroad is structural.
 
@@ -204,7 +307,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 14 — New transformer plants are being built now
+## Slide 21 — New transformer plants are being built now
 
 **Main message:** More than US$500m of new transformer capacity announced or opened since 2025. Each new hall is a chance to design automation in from day one.
 
@@ -221,7 +324,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 15 — Batteries, solar and cars: the same wave in AIMS's other sectors
+## Slide 22 — Batteries, solar and cars: the same wave in AIMS's other sectors
 
 **Main message:** New plants in batteries, solar and automotive: the same sectors where AIMS has references.
 
@@ -235,7 +338,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 16 — The state is paying for high-tech factories and robots
+## Slide 23 — The state is paying for high-tech factories and robots
 
 **Main message:** Incentives, industrial zones and FDI all support modern manufacturing.
 
@@ -249,7 +352,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 17 — Low automation today, rising pressure to change
+## Slide 24 — Low automation today, rising pressure to change
 
 **Main message:** Low robot density outside automotive, plus rising costs and buyer demands, means room to grow.
 
@@ -262,7 +365,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 18 — Türkiye is moving from manual to modern factories
+## Slide 25 — Türkiye is moving from manual to modern factories
 
 **Main message:** Three types of projects, each a fit for AIMS's whole-factory approach.
 
@@ -275,7 +378,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 19 — Section 03: Where AIMS fits
+## Slide 26 — Section 03: Where AIMS fits
 
 **Script:**
 "Section three: where AIMS fits, from the raw-material warehouse to the test bay."
@@ -284,7 +387,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 20 — A whole-factory partner, not an equipment seller
+## Slide 27 — A whole-factory partner, not an equipment seller
 
 **Main message:** We understand AIMS's approach: analyse, design one concept, deliver equipment and software together.
 
@@ -298,7 +401,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 21 — Where automation fits in a transformer factory
+## Slide 28 — Where automation fits in a transformer factory
 
 **Main message:** AIMS covers storage, transfer, workstations and software; heavy AGVs add flexible movement of the largest parts. One software layer coordinates it.
 
@@ -315,7 +418,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 22 — TBEA Tianjin and Eaglerise Thailand
+## Slide 29 — TBEA Tianjin and Eaglerise Thailand
 
 **Main message:** Two references that answer Turkish customers' first questions: scale and export delivery.
 
@@ -330,12 +433,12 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 23 — One solution, from warehouse to test bay
+## Slide 30 — One solution, from warehouse to test bay
 
-**Main message:** One responsible team: AIMS for concept, equipment and software; Ulusoy Robotics for customer access, heavy AGVs and local service; jointly for surveys, proposals and visits.
+**Main message:** One responsible team: AIMS for concept, equipment and software; Ulusoy for customer access, heavy AGVs and local service; jointly for surveys, proposals and visits.
 
 **Script:**
-"Turkish customers want one responsible team. AIMS brings factory analysis and concept design, AS/RS, RGVs and workstations, the software, solution engineering and commissioning, and remote support. Ulusoy Robotics brings customer access and account management, heavy AGVs with Lonyu, local installation coordination, local service, spare parts and training, and support with CE and local regulations. Together we do joint site surveys, one proposal with one point of contact, reference visits to your projects in China, and the integration of heavy AGVs into your system. This is the model Xindi proposed in October, and we agree with it."
+"Turkish customers want one responsible team. AIMS brings factory analysis and concept design, AS/RS, RGVs and workstations, the software, solution engineering and commissioning, and remote support. Ulusoy brings customer access and account management, heavy AGVs with Lonyu, local installation coordination, local service, spare parts and training, and support with CE and local regulations. Together we do joint site surveys, one proposal with one point of contact, reference visits to your projects in China, and the integration of heavy AGVs into your system. This is the model Xindi proposed in October, and we agree with it."
 
 **Emphasise:** "This is the model Xindi proposed."
 
@@ -346,7 +449,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 24 — Results that matter to Turkish manufacturers
+## Slide 31 — Results that matter to Turkish manufacturers
 
 **Main message:** AIMS's results in solar, batteries and metals match the plants Türkiye is building.
 
@@ -359,7 +462,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 25 — Section 04: How we could work together
+## Slide 32 — Section 04: How we could work together
 
 **Script:**
 "Section four. Clear roles, one project journey and a staged model, based on what AIMS proposed in our first conversations."
@@ -368,12 +471,12 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 26 — From first contact to the next phase
+## Slide 33 — From first contact to the next phase
 
 **Main message:** A seven-step journey with clear ownership. AIMS's engineers join the survey directly.
 
 **Script:**
-"Seven steps. Ulusoy Robotics finds and qualifies the lead. Then a joint site survey: as Xindi suggested, your solution engineers come with us to the customer, so no information is lost between teams. AIMS designs the concept and budget price. The customer visits AIMS projects in China. We agree one proposal together. AIMS delivers and commissions, and we coordinate locally. Finally, local service and spares, and the next phase with the same customer. For the concept, AIMS needs product mix, annual volumes, building layout and takt times. We collect these together during the survey."
+"Seven steps. Ulusoy finds and qualifies the lead. Then a joint site survey: as Xindi suggested, your solution engineers come with us to the customer, so no information is lost between teams. AIMS designs the concept and budget price. The customer visits AIMS projects in China. We agree one proposal together. AIMS delivers and commissions, and we coordinate locally. Finally, local service and spares, and the next phase with the same customer. For the concept, AIMS needs product mix, annual volumes, building layout and takt times. We collect these together during the survey."
 
 **Emphasise:** "No information lost between teams." Use Xindi's own words.
 
@@ -384,7 +487,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 27 — What Turkish customers will ask — and our answers
+## Slide 34 — What Turkish customers will ask — and our answers
 
 **Main message:** Compliance, service, integration, language, references and timing. We have answers for each.
 
@@ -397,7 +500,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 28 — Start with one project, then build a long-term presence
+## Slide 35 — Start with one project, then build a long-term presence
 
 **Main message:** A staged model. Neither side commits to more than the next step.
 
@@ -414,7 +517,7 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 29 — Start with one real project
+## Slide 36 — Start with one real project
 
 **Main message:** Xindi suggested analysing one lead together. We agree, and propose criteria and a timeline.
 
@@ -427,12 +530,12 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 30 — Proposed next steps
+## Slide 37 — Proposed next steps
 
 **Main message:** Mutual next steps, and a concrete ask for today.
 
 **Script:**
-"On our side, Ulusoy Robotics will prepare one or two first leads with basic factory data, dates for a joint site survey in Türkiye, a short list of Turkish manufacturers that are expanding, and a draft of simple working rules for joint projects. From AIMS, we would welcome a solution engineer for the first survey, English case studies and videos for Turkish customers, a reference-visit option for a Turkish customer, and your view on integrating heavy AGVs into your system. Our suggestion for today: agree on the first lead to analyse, a survey date, and one contact person on each side."
+"On our side, Ulusoy will prepare one or two first leads with basic factory data, dates for a joint site survey in Türkiye, a short list of Turkish manufacturers that are expanding, and a draft of simple working rules for joint projects. From AIMS, we would welcome a solution engineer for the first survey, English case studies and videos for Turkish customers, a reference-visit option for a Turkish customer, and your view on integrating heavy AGVs into your system. Our suggestion for today: agree on the first lead to analyse, a survey date, and one contact person on each side."
 
 **Emphasise:** The three concrete asks for today.
 
@@ -443,12 +546,12 @@ AIMS approached us first (Xindi's email of 16 October). They saw our heavy-load 
 
 ---
 
-## Slide 31 — Thank you
+## Slide 38 — Thank you
 
-**Main message:** AIMS's technology plus Ulusoy Robotics' local access. Let's start with one project.
+**Main message:** AIMS's technology plus Ulusoy' local access. Let's start with one project.
 
 **Script:**
-"To close. AIMS brings smart-factory technology and transformer-plant experience. Ulusoy Robotics brings local access, heavy AGVs and service. Let's start with one project together. Thank you again for your hospitality here in Shanghai. We would be glad to hear your thoughts and questions."
+"To close. AIMS brings smart-factory technology and transformer-plant experience. Ulusoy brings local access, heavy AGVs and service. Let's start with one project together. Thank you again for your hospitality here in Shanghai. We would be glad to hear your thoughts and questions."
 
 **Emphasise:** Thank the hosts again, most senior first. Then stop and listen.
 

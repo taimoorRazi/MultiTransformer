@@ -77,15 +77,15 @@ function makeCtx(p) {
   await L.loadDims();
   const p = new pptxgen();
   p.layout = "LAYOUT_WIDE";
-  p.author = "Ulusoy Robotics";
+  p.author = "Ulusoy Group";
   p.company = "Ulusoy Group";
-  p.title = "AIMS × Ulusoy Robotics — Smart Factories for Türkiye";
+  p.title = "AIMS × Ulusoy — Smart Factories for Türkiye";
   p.theme = { headFontFace: "Arial", bodyFontFace: "Arial" };
 
   defineMasters(p);
   const ctx = makeCtx(p);
-  const sections = ["a1_opening", "s2_ulusoy", "a3_robotics", "a4_turkiye", "a5_aims", "a6_model", "a7_close"];
-  ["s2_ulusoy:3", "s2_ulusoy:5", "s2_ulusoy:6", "s2_ulusoy:7", "s2_ulusoy:8", "s2_ulusoy:10"].forEach(k => ctx.drop.add(k));
+  const sections = ["a1_opening", "s2_ulusoy", "s3_platform", "a3_robotics", "a4_turkiye", "a5_aims", "a6_model", "a7_close"];
+  ["a3_robotics:2"].forEach(k => ctx.drop.add(k));
   for (const m of sections) {
     if (!fs.existsSync(__dirname + "/" + m + ".js")) { console.log("skip", m); continue; }
     ctx.mod = m; ctx.local = 0;
