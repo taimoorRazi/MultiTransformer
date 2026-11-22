@@ -14,3 +14,15 @@ Same Ulusoy design system as the TBEA, CRRC and AIMS decks, with an indigo partn
 | `source/` | Ulusoy | pptxgenjs generator and scripts |
 
 Do not share `internal/` or the presenter version with AILU.
+
+## Alternative: short version (introduction + MOU)
+
+| File | Audience | Purpose |
+|---|---|---|
+| `AILU × Ulusoy - Intro & MOU.pptx` | AILU | **Share version**: 25 slides, no notes. Ulusoy introduction, our plan in outline, MOU proposal. No research figures. |
+| `AILU × Ulusoy - Intro & MOU - Presenter (with notes).pptx` | **Ulusoy presenters only** | Same deck with the speech in the notes |
+| `AILU × Ulusoy - Intro & MOU.pdf` | AILU | PDF export |
+| `AILU × Ulusoy - Intro & MOU - Rehearsal Script.pdf` | Ulusoy presenters | Spoken script only |
+| `AILU_Speaker_Notes - Short (Intro + MOU).md` | Ulusoy presenters | Full speaker notes for the short version |
+
+The full 36-slide deck and the research remain as backup for a later meeting.
