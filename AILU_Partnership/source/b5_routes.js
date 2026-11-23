@@ -4,11 +4,11 @@ module.exports = async (ctx) => {
 
   // Divider
   let s = ctx.slide("DARK", SEC);
-  img(s, "ailu_revopac.jpg", 8.2, 0, 5.133, 7.5, { fx: 0.5 });
+  img(s, "ul_coach_fleet.png", 8.2, 0, 5.133, 7.5, { fx: 0.5 });
   rect(s, 8.2, 0, 5.133, 7.5, C.NAVY, { transparency: 45 });
   ctx.divider(s, "03", "Where AILU can win", "Lead with the products where AILU has a clear edge.",
     "Our recommended order of entry — for discussion.");
-  T(s, "REVOPAC showroom, AILU", { x: 8.3, y: 7.08, w: 4.8, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
+  T(s, "Ulusoy coach fleet, İstanbul", { x: 8.3, y: 7.08, w: 4.8, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 
   // Product priorities
   s = ctx.slide("LIGHT_TB", SEC);
@@ -59,17 +59,15 @@ module.exports = async (ctx) => {
   s = ctx.slide("LIGHT_TB", SEC);
   ctx.head(s, { eyebrow: "Priority route 2", title: "Specialty sacks for building chemicals, food and chemicals", tb: true,
     sub: "Win a few qualified accounts first — quality and reliability decide, then volume follows." });
-  img(s, "ailu_floor2.jpg", MX, 1.85, 3.6, 4.95);
-  T(s, "AILU sack production, Shanghai", { x: MX, y: 6.84, w: 3.6, h: 0.2, fontSize: 8, italic: true, color: C.MUTED });
   const blk = [["TARGET FORMATS", "25 kg PE-lined valve sacks · heat-seal and food-grade sacks · square-bottom and SOS sacks · moisture-barrier sacks"],
     ["FIRST ACCOUNTS", "3–5 accounts per segment: building-chemical brands, dairy and food-ingredient plants, chemical and pigment producers, Turkish plants of AILU's global customers"],
     ["WHAT IT TAKES", "Samples and line trials on the customer's filler · a competitive delivered price · a clear MOQ per print design · 6–8 weeks sea transit, so buffer stock in Türkiye"],
     ["ULUSOY'S ROLE", "Buyer access, trial coordination, import and customs, warehousing, local delivery and claims handling"]];
   blk.forEach(([h, d], i) => {
     const y = 1.85 + i * 1.25;
-    rect(s, 4.45, y, 8.28, 1.12, i === 3 ? C.TBL : C.PALE, { rounded: true, r: 0.06 });
-    T(s, h, { x: 4.7, y: y + 0.12, w: 7.8, h: 0.28, fontSize: 11, bold: true, color: C.TB, charSpacing: 2 });
-    T(s, d, { x: 4.7, y: y + 0.42, w: 7.85, h: 0.65, fontSize: 12.5, color: C.INK });
+    rect(s, MX, y, 12.133, 1.12, i === 3 ? C.TBL : C.PALE, { rounded: true, r: 0.06 });
+    T(s, h, { x: MX + 0.3, y: y + 0.12, w: 11.5, h: 0.28, fontSize: 11, bold: true, color: C.TB, charSpacing: 2 });
+    T(s, d, { x: MX + 0.3, y: y + 0.42, w: 11.5, h: 0.65, fontSize: 13.5, color: C.INK });
   });
 
   // Route 3 & 4

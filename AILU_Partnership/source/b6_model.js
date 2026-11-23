@@ -4,7 +4,8 @@ module.exports = async (ctx) => {
 
   // Divider
   let s = ctx.slide("DARK", SEC);
-  img(s, "ailu_floor2.jpg", 8.2, 0, 5.133, 7.5, { fx: 0.5 });
+  img(s, "ul_hq.png", 8.2, 0, 5.133, 7.5, { fx: 0.5 });
+  T(s, "Ulusoy Holding headquarters, İstanbul", { x: 8.3, y: 7.08, w: 4.8, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
   rect(s, 8.2, 0, 5.133, 7.5, C.NAVY, { transparency: 45 });
   ctx.divider(s, "04", "How we could work together", "Clear roles, a simple customer journey, a staged model.",
     "Each step earned by results — no large commitment on day one.");

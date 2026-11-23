@@ -4,7 +4,7 @@ module.exports = async (ctx) => {
 
   // 1 — Cover
   let s = ctx.slide("BLANK_DARK", SEC);
-  img(s, "ailu_floor.jpg", 6.55, 0, 6.783, 7.5, { fx: 0.5 });
+  img(s, "ul_roro.png", 6.55, 0, 6.783, 7.5, { fx: 0.5 });
   rect(s, 6.55, 0, 6.783, 7.5, C.NAVY, { transparency: 80 });
   s.addImage({ path: L.A + "ul_logo_white.png", x: MX, y: 0.62, w: 1.75, h: 0.4 });
   T(s, "STRATEGIC PARTNERSHIP PROPOSAL", { x: MX, y: 2.05, w: 5.8, h: 0.3, fontSize: 11, bold: true, color: C.MID, charSpacing: 4 });
@@ -15,7 +15,7 @@ module.exports = async (ctx) => {
   line(s, MX, 5.95, MX + 5.3, 5.95, C.DEEP, 0.75);
   T(s, "Presented to AILU Group  ·  Shanghai, China  ·  November 2026", { x: MX, y: 6.08, w: 5.8, h: 0.3, fontSize: 11, color: C.MID });
   T(s, "Prepared for discussion with AILU", { x: MX, y: 6.42, w: 5.7, h: 0.26, fontSize: 9, color: "7E93A8", italic: true });
-  T(s, "AILU production hall, Shanghai", { x: 6.75, y: 7.08, w: 6.3, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
+  T(s, "Ulusoy Ro-Ro operations", { x: 6.75, y: 7.08, w: 6.3, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 
   // 2 — Why we are here
   s = ctx.slide("LIGHT_TB", SEC);

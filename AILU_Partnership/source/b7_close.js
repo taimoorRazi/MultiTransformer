@@ -44,7 +44,7 @@ module.exports = async (ctx) => {
 
   // Closing
   s = ctx.slide("BLANK_DARK", SEC);
-  img(s, "ailu_floor.jpg", 0, 0, 13.333, 7.5, { fx: 0.5 });
+  img(s, "ul_tir.png", 0, 0, 13.333, 7.5, { fx: 0.5 });
   rect(s, 0, 0, 13.333, 7.5, C.NAVY, { transparency: 22 });
   s.addImage({ path: L.A + "ul_logo_white.png", x: MX, y: 0.62, w: 1.75, h: 0.4 });
   T(s, "AILU  ×  ULUSOY", { x: MX, y: 2.0, w: 8, h: 0.35, fontSize: 13, bold: true, color: C.MID, charSpacing: 4 });
@@ -55,5 +55,5 @@ module.exports = async (ctx) => {
     { x: MX, y: 3.65, w: 9.8, h: 1.6, fontSize: 19, color: C.WHITE, paraSpaceAfter: 6 });
   T(s, "TÜRKİYE  ·  MIDDLE EAST  ·  BALKANS  ·  CENTRAL ASIA", { x: MX, y: 5.75, w: 9, h: 0.3, fontSize: 12, color: C.MID, charSpacing: 3 });
   T(s, "“Everything on Time.” — since 1937", { x: MX, y: 6.55, w: 6, h: 0.3, fontSize: 11, italic: true, color: C.MID });
-  T(s, "AILU production hall, Shanghai", { x: 7.0, y: 7.08, w: 6.1, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
+  T(s, "Ulusoy international transport", { x: 7.0, y: 7.08, w: 6.1, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 };

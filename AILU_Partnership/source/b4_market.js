@@ -106,16 +106,17 @@ module.exports = async (ctx) => {
   s = ctx.slide("LIGHT", SEC);
   ctx.head(s, { eyebrow: "Packing systems · cosmetics", title: "Packing lines and cosmetic tubes: selective openings",
     sub: "Two smaller opportunities that build on AILU's REVOPAC and IKKO businesses." });
-  const two = [["aila_rev", "ailu_revopac.jpg", "PACKING & FILLING LINES (REVOPAC)", ["Cement, dry-mix, fertiliser and food plants are expanding and automating", "Buyers usually compare against European filling lines", "AILU can offer the sack and the filling line from one supplier"]],
-    ["aila_tube", "ailu_tubes.jpg", "COSMETIC TUBES (IKKO)", ["Turkish cosmetics exports grew 11.8% in 2025", "Strong local bottle and jar makers — commodity items are hard to win", "Openings: premium laminated, PCR and sugar-cane tubes for exporting brands"]]];
-  two.forEach(([k, f, h, items], i) => {
+  const two = [["LuFactory", null, "PACKING & FILLING LINES (REVOPAC)", ["Cement, dry-mix, fertiliser and food plants are expanding and automating", "Buyers usually compare against European filling lines", "AILU can offer the sack and the filling line from one supplier"]],
+    ["LuSparkles", null, "COSMETIC TUBES (IKKO)", ["Turkish cosmetics exports grew 11.8% in 2025", "Strong local bottle and jar makers — commodity items are hard to win", "Openings: premium laminated, PCR and sugar-cane tubes for exporting brands"]]];
+  for (const [i, [ic, f, h, items]] of two.entries()) {
     const x = MX + i * 6.12;
-    img(s, f, x, 1.85, 5.95, 2.4);
-    rect(s, x, 4.25, 5.95, 2.55, C.PALE);
-    T(s, h, { x: x + 0.3, y: 4.4, w: 5.4, h: 0.3, fontSize: 11.5, bold: true, color: C.TB, charSpacing: 1.5 });
-    T(s, items.map((t, j) => ({ text: t, options: { bullet: true, breakLine: j < items.length - 1 } })), { x: x + 0.3, y: 4.8, w: 5.4, h: 1.9, fontSize: 13, paraSpaceAfter: 6 });
-  });
-  ctx.src(s, "Sources: Hürriyet Daily News (cosmetics exports 2025); Ulusoy market review. Photos: AILU showroom, Shanghai.");
+    rect(s, x, 1.85, 5.95, 1.35, i ? C.NAVY : C.TB, { rounded: true, r: 0.06 });
+    await ctx.iconCircle(s, ic, x + 0.3, 2.13, 0.8, C.WHITE, i ? C.NAVY : C.TB);
+    T(s, h, { x: x + 1.35, y: 1.85, w: 4.4, h: 1.35, fontSize: 15, bold: true, color: C.WHITE, valign: "middle", charSpacing: 1 });
+    rect(s, x, 3.3, 5.95, 3.5, C.PALE, { rounded: true, r: 0.06 });
+    T(s, items.map((t, j) => ({ text: t, options: { bullet: true, breakLine: j < items.length - 1 } })), { x: x + 0.35, y: 3.55, w: 5.3, h: 3.1, fontSize: 15, paraSpaceAfter: 12 });
+  }
+  ctx.src(s, "Sources: Hürriyet Daily News (cosmetics exports 2025); Ulusoy market review.");
 
   // Trade rules
   s = ctx.slide("LIGHT_TB", SEC);

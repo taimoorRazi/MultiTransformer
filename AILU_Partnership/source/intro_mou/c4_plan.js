@@ -4,11 +4,11 @@ module.exports = async (ctx) => {
 
   // Divider
   let s = ctx.slide("DARK", SEC);
-  img(s, "ailu_floor2.jpg", 8.2, 0, 5.133, 7.5, { fx: 0.5 });
+  img(s, "ul_hq.png", 8.2, 0, 5.133, 7.5, { fx: 0.5 });
   rect(s, 8.2, 0, 5.133, 7.5, C.NAVY, { transparency: 45 });
   ctx.divider(s, "03", "Our plan for AILU in Türkiye", "From market study to first customers.",
     "What Ulusoy would do in the first months of our cooperation.");
-  T(s, "AILU production hall, Shanghai", { x: 8.3, y: 7.08, w: 4.8, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
+  T(s, "Ulusoy Holding headquarters, İstanbul", { x: 8.3, y: 7.08, w: 4.8, h: 0.24, fontSize: 8, color: C.WHITE, italic: true, align: "right" });
 
   // Four-phase plan
   s = ctx.slide("LIGHT_TB", SEC);
