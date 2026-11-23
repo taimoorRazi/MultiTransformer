@@ -50,11 +50,11 @@ AIMS can automate plants for **both oil-type and dry-type transformers**. Typica
 
 **Reference: Eaglerise, Thailand.** An export project for a transformer manufacturer, from contract to final acceptance in about **12 months**. Scope: core insertion, assembly stations, RGV body assembly and drying lines, and workshop transfer.
 
-## 5. How a project works (and why it is low-risk to start)
+## 5. How a project works
 
 1. **Online meeting:** AIMS's sales and solution engineers, together with Ulusoy, learn about the plant: products, volumes, layout and pain points.
 2. **Site visit:** to collect data.
-3. **Free concept and feasibility study:** AIMS prepares layout drawings, calculations and the key figures for investors, **free of charge**. This takes 2 weeks for a simple project and about 1 month for a complex one, refined over several meetings.
+3. **Concept:** AIMS prepares layout drawings, calculations and the key figures for investors. This takes 2 weeks for a simple project and about 1 month for a complex one, refined over several meetings.
 4. **Approval:** the customer approves the final concept. AIMS then delivers the bill of quantities and final price within a few days.
 5. **Implementation:** AIMS's project managers lead the suppliers and the local installation team. Installation typically takes **2–6 months**.
 6. **Acceptance, training and after-sales service:** Ulusoy supports locally and AIMS supports remotely and on site.
@@ -89,7 +89,7 @@ AIMS provides the concept, equipment, software and engineering.
 4. How do you store raw materials (steel coils, foil, wire) and finished products today?
 5. Do you use an MES or WMS, and which ERP system (e.g. SAP)?
 6. Who would decide on an automation investment, and what is the expected budget and timeline?
-7. Could you share a layout drawing and basic data, so AIMS can prepare a **free concept**?
+7. Could you share a layout drawing and basic data, so AIMS can prepare a **concept**?
 
 ## 9. Things to avoid
 
@@ -98,4 +98,4 @@ AIMS provides the concept, equipment, software and engineering.
 - **Don't promise the energy-saving figures** for the furnace software yet; they still need to be verified.
 - **Don't mention AIMS's revenue** or internal figures.
 
-**Suggested next step to propose:** "Let us arrange a short online meeting with AIMS's solution engineers, and then a site visit for a free concept."
+**Suggested next step to propose:** "Let us arrange a short online meeting with AIMS's solution engineers, and then a site visit to discuss a concept for your plant."

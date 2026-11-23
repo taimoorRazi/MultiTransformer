@@ -19,7 +19,7 @@ The term "soup cooking" in the original notes is unclear; it may refer to soakin
 ## 3. How a project is sold and designed
 1. **First contact:** the AIMS sales person and a solution engineer hold an online meeting with the customer to collect information. Then they visit the site.
 2. **Concept:** based on the customer's data, the solution team prepares a first concept: layout drawings and calculations. A simple task takes about **2 weeks**, a complex one about **1 month**. This depends on AIMS's engineers having free access to the customer's site and information.
-3. **Iterations:** the concept is presented in PowerPoint, with the drawings, calculations and figures the investor needs. **The feasibility study and concept are free of charge.** Concept meetings repeat several times, because new requirements and ideas come up after each one. This typically takes **1–2 months**.
+3. **Iterations:** the concept is presented in PowerPoint, with the drawings, calculations and figures the investor needs. **The feasibility study and concept are free of charge** *(told to Ulusoy only, in confidence; AIMS has not decided its approach for Türkiye — do not mention to customers)*. Concept meetings repeat several times, because new requirements and ideas come up after each one. This typically takes **1–2 months**.
 4. **Approval:** the customer approves the final concept with a signature.
 5. **Offer:** AIMS then prepares the **bill of quantities (BOQ), final price and commercial agreement within about 2 days**.
 
@@ -51,7 +51,7 @@ For projects abroad, AIMS uses a **third-party EPC team** (one example you noted
 - **Steel coils and sheets:** automated storage of steel sheet coils, and handling around **slitting machines** that cut coils into strips for transformer cores.
 
 ## 8. What this means for Ulusoy
-1. **Low-risk way in:** the free concept makes it easy to approach Turkish customers. The main cost is our time and access to the customer.
+1. **Concept phase:** AIMS told us the concept is free in China, but this is confidential and not yet decided for Türkiye. Do not mention it to customers; confirm AIMS's policy for Turkish projects first.
 2. **Our role in delivery:** Ulusoy could be the **local EPC or installation partner**, coordinating the 20–40 person site team, as well as the sales channel.
 3. **After-sales:** most value is here, so negotiate a share of service revenue and first-line local service.
 4. **Furnace software:** potentially attractive for Turkish steel plants (reheating furnaces in rolling mills). But it has no international reference yet; verify the savings claim first.

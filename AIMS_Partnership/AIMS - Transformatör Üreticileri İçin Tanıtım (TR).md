@@ -50,11 +50,11 @@ AIMS, **hem yağlı tip hem de kuru tip transformatör** fabrikalarını otomati
 
 **Referans: Eaglerise, Tayland.** Bir transformatör üreticisi için ihracat projesi. Sözleşmeden kesin kabule kadar yaklaşık **12 ay** sürmüştür. Kapsam: nüve dizme, montaj istasyonları, RGV gövde montaj ve kurutma hatları, atölyeler arası transfer.
 
-## 5. Bir proje nasıl yürür? (Ve başlamak neden düşük risklidir?)
+## 5. Bir proje nasıl yürür?
 
 1. **Çevrimiçi toplantı:** AIMS'in satış ve çözüm mühendisleri, Ulusoy ile birlikte tesisi tanır: ürünler, hacimler, yerleşim ve sorunlu noktalar.
 2. **Saha ziyareti:** veri toplamak için.
-3. **Ücretsiz konsept ve fizibilite çalışması:** AIMS, yerleşim çizimlerini, hesaplamaları ve yatırımcının bilmesi gereken temel rakamları **ücretsiz** hazırlar. Basit bir projede 2 hafta, karmaşık bir projede yaklaşık 1 ay sürer ve birkaç toplantıda geliştirilir.
+3. **Konsept:** AIMS, yerleşim çizimlerini, hesaplamaları ve yatırımcının bilmesi gereken temel rakamları hazırlar. Basit bir projede 2 hafta, karmaşık bir projede yaklaşık 1 ay sürer ve birkaç toplantıda geliştirilir.
 4. **Onay:** müşteri nihai konsepti onaylar. AIMS ardından birkaç gün içinde metraj ve malzeme listesini (BOQ) ve nihai fiyatı sunar.
 5. **Uygulama:** AIMS'in proje yöneticileri tedarikçileri ve yerel montaj ekibini yönetir. Montaj genellikle **2–6 ay** sürer.
 6. **Kabul, eğitim ve satış sonrası hizmet:** Ulusoy yerelde destek verir; AIMS uzaktan ve sahada destek sağlar.
@@ -89,7 +89,7 @@ AIMS ise konsepti, ekipmanı, yazılımı ve mühendisliği sağlar.
 4. Hammaddeleri (sac bobinleri, folyo, iletken) ve mamulleri bugün nasıl depoluyorsunuz?
 5. Bir MES veya WMS kullanıyor musunuz? Hangi ERP sistemini kullanıyorsunuz (örneğin SAP)?
 6. Bir otomasyon yatırımına kim karar verir? Beklenen bütçe ve zaman planı nedir?
-7. AIMS'in **ücretsiz bir konsept** hazırlayabilmesi için yerleşim planınızı ve temel verilerinizi paylaşabilir misiniz?
+7. AIMS'in **bir konsept** hazırlayabilmesi için yerleşim planınızı ve temel verilerinizi paylaşabilir misiniz?
 
 ## 9. Kaçınılması gerekenler
 
@@ -98,4 +98,4 @@ AIMS ise konsepti, ekipmanı, yazılımı ve mühendisliği sağlar.
 - **Fırın yazılımı için enerji tasarrufu rakamlarını henüz vaat etmeyin;** bu rakamlar henüz doğrulanmadı.
 - **AIMS'in cirosundan** veya iç rakamlarından bahsetmeyin.
 
-**Önerilecek bir sonraki adım:** "AIMS'in çözüm mühendisleriyle kısa bir çevrimiçi toplantı ayarlayalım, ardından ücretsiz konsept için bir saha ziyareti yapalım."
+**Önerilecek bir sonraki adım:** "AIMS'in çözüm mühendisleriyle kısa bir çevrimiçi toplantı ayarlayalım, ardından tesisiniz için bir konsept görüşmek üzere saha ziyareti yapalım."
