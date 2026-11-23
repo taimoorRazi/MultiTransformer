@@ -85,7 +85,7 @@ function makeCtx(p) {
   defineMasters(p);
   const ctx = makeCtx(p);
   const sections = ["b1_opening", "s2_ulusoy", "s3_platform", "c4_plan", "c5_mou"];
-  [].forEach(k => ctx.drop.add(k));
+  ["b1_opening:2"].forEach(k => ctx.drop.add(k));
   for (const m of sections) {
     if (!fs.existsSync(__dirname + "/" + m + ".js")) { console.log("skip", m); continue; }
     ctx.mod = m; ctx.local = 0;

@@ -1,11 +1,11 @@
 # AILU Meeting, Shanghai — Speaker Script (Short version: introduction + MOU)
 
-**Deck:** AILU × Ulusoy — Introduction & MOU (25 slides, including 2 section dividers)
+**Deck:** AILU × Ulusoy — Introduction & MOU (25 slides, including 2 section dividers; no "Why we are here" slide; hospitality slide added as slide 11)
 **Audience:** AILU's sales manager and international trade team
-**Target length:** 30–40 minutes plus discussion. Keep the Ulusoy history slides (4–15) to about 8 minutes.
+**Target length:** 30–40 minutes plus discussion. Keep the Ulusoy history slides (3–15) to about 8–9 minutes.
 **Purpose:** Introduce Ulusoy and its strength, explain our plan in outline, and ask for agreement to work together under an MOU. No research figures are presented; the market study is the first deliverable after the MOU.
 
-**If time is cut to 20 minutes, use this short path:** 1, 2, 4, 7, 9, 12, 15, 16, 17, 19, 21, 22, 24, 25.
+**If time is cut to 20 minutes, use this short path:** 1, 3, 6, 8, 11, 12, 15, 16, 17, 19, 21, 22, 24, 25.
 
 **Rules for the whole meeting**
 1. **Do not present research numbers.** If asked, give only general impressions (e.g. "PV frames and specialty sacks look promising") and say the proper study comes under the MOU. The full research and the detailed deck are kept as backup.
@@ -20,21 +20,10 @@
 **Main message:** An introduction and a proposal to work together — not a sales pitch.
 
 **Script:**
-"Good morning, and thank you for receiving us. Yesterday we visited your plant and showroom, and we were impressed by the automation, the REVOPAC lines, the IKKO tubes and the new PV frames. Today we would like to introduce Ulusoy properly, explain how we could support AILU in Türkiye and the region, and propose a simple first step to work together."
+"Good morning, and thank you for receiving us. Yesterday we visited your plant and showroom, and we were impressed by the automation, the REVOPAC lines, the IKKO tubes and the new PV frames. Today we would like to introduce Ulusoy properly, explain how we could support AILU in Türkiye and the region, and propose a simple first step to work together. AILU has the products — sacks, packing lines, tubes and PV frames. Ulusoy has the market access, the network and the local supply chain in Türkiye."
 
 **Emphasise:** Thanks for the plant visit; mention one specific thing you saw.
 **Do not dwell:** 30 seconds.
-
-**Transition:** "Let me explain in one picture why we are here."
-
----
-
-## Slide 2 — Why we are here
-
-**Main message:** AILU has the products; Ulusoy has the market access and local supply. Together, a long-term partnership.
-
-**Script:**
-"On the left is AILU: multi-wall paper sacks for cement, chemicals and food, REVOPAC filling and palletising lines, IKKO cosmetic tubes and composite PV frames, with BRCGS and ISO 22000 and customers like Nestlé, Cargill and Wacker. On the right is Ulusoy: 89 years of relationships in Türkiye, access to industrial buyers, and import, customs, warehousing and logistics inside the group. Together we see a long-term partnership to bring AILU's products to Türkiye and the region, built step by step."
 
 **Transition:** "Here is how we have organised today."
 
@@ -43,7 +32,7 @@
 
 ---
 
-## Slide 3 — Our conversation today
+## Slide 2 — Our conversation today
 
 **Main message:** Five steps, ending with a proposed MOU.
 
@@ -56,7 +45,7 @@
 
 ---
 
-## Slide 4 — 1937–2026 (Section 01: Who is Ulusoy)
+## Slide 3 — 1937–2026 (Section 01: Who is Ulusoy)
 
 **Main message:** Ulusoy is an 89-year family group — a long-term partner, not a trader looking for one deal.
 
@@ -72,7 +61,7 @@
 
 ---
 
-## Slide 5 — Origins: a transport problem solved, a principle established
+## Slide 4 — Origins: a transport problem solved, a principle established
 
 **Main message:** "Everything on Time" applies directly to packaging supply.
 
@@ -85,7 +74,7 @@
 
 ---
 
-## Slide 6 — Three generations: from regional operator to holding
+## Slide 5 — Three generations: from regional operator to holding
 
 **Main message:** Long-term family ownership means decisions are made for decades.
 
@@ -99,7 +88,7 @@
 
 ---
 
-## Slide 7 — Each new sector was built on the one before
+## Slide 6 — Each new sector was built on the one before
 
 **Main message:** Ulusoy's diversification is logical; logistics and trade are at the core.
 
@@ -110,7 +99,7 @@
 
 ---
 
-## Slide 8 — Operating DNA: moving people and freight on schedule
+## Slide 7 — Operating DNA: moving people and freight on schedule
 
 **Main message:** Ulusoy has run national-scale operations: fleets, terminals, people and schedules.
 
@@ -126,7 +115,7 @@
 
 ---
 
-## Slide 9 — International logistics: Türkiye–Europe–Middle East since 1973
+## Slide 8 — International logistics: Türkiye–Europe–Middle East since 1973
 
 **Main message:** Cross-border trade, customs and warehousing are native to Ulusoy — the backbone of importing packaging.
 
@@ -139,7 +128,7 @@
 
 ---
 
-## Slide 10 — Maritime and Ro-Ro: operating international infrastructure
+## Slide 9 — Maritime and Ro-Ro: operating international infrastructure
 
 **Main message:** Ulusoy has operated international maritime infrastructure, and was already working with Chinese industry in 2008.
 
@@ -152,7 +141,7 @@
 
 ---
 
-## Slide 11 — Çeşme–Trieste: port ownership and cross-border trade
+## Slide 10 — Çeşme–Trieste: port ownership and cross-border trade
 
 **Main message:** Ulusoy has developed and operated long-term infrastructure across borders: a port concession and an Italian company.
 
@@ -164,7 +153,24 @@
 **Likely AILU question:** "Does Ulusoy still operate the port and corridor today?"
 **Suggested response:** Confirm the current status accurately before the meeting. Do not over-claim. If the status has changed, say: "This is part of our operating history. What it gave us is the experience and the relationships."
 
-**Transition:** "Infrastructure is one side. The other is our history of representing international brands."
+**Transition:** "From infrastructure, the group also moved into hospitality."
+
+---
+
+## Slide 11 — Hospitality investments on the Aegean and Mediterranean
+
+**Main message:** Ulusoy has built and run large service operations — hotels as well as transport and ports.
+
+**Script:**
+"Tourism grew directly out of our transport business: the group founded its tourism company in 1961 and later held an A-class travel licence, with TÜRSAB, ASTA and IATA membership. From 1989 we invested in resort hotels on the Aegean and Mediterranean coasts: Fantasia Hotel de Luxe in Kuşadası with 302 rooms, Kemer Holiday Club in Antalya with 277 rooms, and Hotel Aspendos near Alanya with 194 rooms. Running hotels taught us large-scale service operations and a customer-first culture — the same culture we bring to supplying industrial customers."
+
+**Emphasise:** Scale and service culture. Keep it short — about 40 seconds.
+**Do not dwell:** On current ownership of the hotels; if asked, say they are part of the group's operating history. (Confirm the current status beforehand.)
+
+**Transition:** "Infrastructure and hospitality are one side. The other is our history of representing international brands."
+
+**Likely AILU question:** "Does the group still operate these hotels?"
+**Suggested response:** "They are part of our operating history. What matters for this partnership is the experience and the relationships they built." (Adjust to the actual current status.)
 
 ---
 
